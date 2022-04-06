@@ -2,9 +2,14 @@
 # See https://git-scm.com/docs/gitignore
 
 # Exclude Git metadata
+.git/
 .git/**
 .gitattributes
 .gitignore
+
+# Exlcude Github metadata
+.github/
+.github/**
 
 # Exclude README
 /README.md
@@ -17,3 +22,9 @@
 
 # Exclude output directory
 .output/
+.output/**
+
+# Exclude Packwiz metadata
+index.toml
+pack.toml
+.packwizignore
