@@ -1,0 +1,17 @@
+name = "Sugar"
+author = "Harvel"
+version = "2.2.4"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "10ccfd1e209a76a7f19b96c754e55e57325137918f191891b4cc6ab22f638da8"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.2"
+
+[export]
+[export.curseforge]
+project-id = 560248
