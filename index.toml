@@ -1,0 +1,289 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "f5b745ef98087f531e719ee8ca6a96809444573ecc7173c6fa68eaad39b3cc3f"
+
+[[files]]
+file = "config/c2me-compat.toml"
+hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "ef30e0e0c5d7b93a877b3d20931da0074fb2b4f7013670cc09df560fceb54230"
+
+[[files]]
+file = "config/citresewn-defaults.json"
+hash = "0b333b0bf9a0e573fa14f81610a621b488d5277c9e8f8c6a4c81e6a6cb37e482"
+
+[[files]]
+file = "config/citresewn.json"
+hash = "7dd406490a96f77e39bd3d9cb6d60831da1471629910a466415d4fce5f9ca4b1"
+
+[[files]]
+file = "config/continuity.json"
+hash = "03a19a67749e08c8be9c653fa89bb3a2eb587a0d969fceb92052aa5e6e7adf09"
+
+[[files]]
+file = "config/custom-hud/config.json"
+hash = "d3edcc8cc6e1a965fd20ee116dcfffdb4f940abf89fa11584c05817bb2d1fc2f"
+
+[[files]]
+file = "config/custom-hud/profile1.txt"
+hash = "cec7a74166e0e23a4f4a36b0519d879d21dc829a059668fbf4f97ac282833c52"
+
+[[files]]
+file = "config/custom-hud/profile2.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/custom-hud/profile3.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/dsurround/dsurround.json"
+hash = "6e720b9d333450774d7195b3ebb044c66a037f5e84b47d10eaf425226a9c6bb8"
+
+[[files]]
+file = "config/dsurround/soundconfig.json"
+hash = "c109310f8d38eb24fdec7fc6551aad98a3ea400554dd27456ac64fd5869f92e9"
+
+[[files]]
+file = "config/dynamicfps.toml"
+hash = "7b5acd249111fb1abcc817406cbb34f926ecc34ad34a782fb5173442801a2880"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "a442f241935dd855e812c5bfd023f47f9857d348695397879a25a7f62b42e3c7"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "e65a4a7bed60fc2a2b0ef2a32f80ffbf890ce40ba8edb83028b4a4e2e222f94a"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "5a388fa8c22882d6e01f88d2859fceb45d23af0cb951ed1735d62d39ecad7232"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "fc00a2f34084275b3d0f5424cf8aeb49a3a718837894ac91af7cf0d82a9db4fa"
+
+[[files]]
+file = "config/indium-renderer.properties"
+hash = "4dd56f54824d2831c8d8326e4833c9f4bcd13926398d0c4a142e7634583b422a"
+
+[[files]]
+file = "config/iris.properties"
+hash = "c68ded836de0af69483680c817be0161471403d182db8a12a9ea794997389a8f"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "bfb4ed706605df35fe37760c0f71d9f367942c94f68e3feca723988161ea6842"
+
+[[files]]
+file = "config/okzoomer.json5"
+hash = "ada0d7d521dcc4ada5a8213141d8e02db498155d6cc8e6d0feee28e31c40a1c7"
+
+[[files]]
+file = "config/presencefootsteps/updater.json"
+hash = "27cab8a836de9d275304b4b09b7b84705fdf731b1e0b7d5281b28ba922bf0b77"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "86f7e3ca88ee74260b01cd0970db638031d24317540d29206d2e2509fa5ff3b2"
+
+[[files]]
+file = "config/rrp.properties"
+hash = "2a0ee9ed8592fb7f705319f1cb0a6fa20d9df62c7dff164d22dd2e2db7aab900"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "057c2bf6f3f08543658353351db213ed05f4fc4cca532cec185654ed84cd1e50"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
+
+[[files]]
+file = "mods/CITResewn-1.0.1+1.18.2.jar"
+hash = "20bd1e3e7ffb72835ed773194cd47da2e7980316f8514af2c5443a3015383b81"
+
+[[files]]
+file = "mods/DynamicSurroundings-Fabric-1.18.2-0.0.4.jar"
+hash = "ffdb75dbea73eb18de14a7f1ad72250ab8c30619cc6e202f20f8200b0b53b234"
+
+[[files]]
+file = "mods/PresenceFootsteps-1.6.0-beta.0.2+4559b15.jar"
+hash = "aed7e2d6b8f219c01d98f240e1682e2b9e069c1b05e3a6ec5980ef82fd5a2cb7"
+
+[[files]]
+file = "mods/c2me-fabric-mc1.18.2-0.2.0+alpha.7.12.jar"
+hash = "8e73cf48c445f764a86f3e97ff6fa245e5d63584899fed9220dfedefb65aed84"
+
+[[files]]
+file = "mods/continuity-2.0.0-alpha.11.18.2.jar"
+hash = "cf083fd99570adedeb6ab43f1720bd9244dc0c68a0b7d903980a5daefb2af697"
+
+[[files]]
+file = "mods/custom_hud-2.0.0-beta.2+1.18.2.jar"
+hash = "4228bef614be8b20757b2f6d87c9eea13f65253e203a3c6245cf34abd9096262"
+
+[[files]]
+file = "mods/dynamic-fps-2.1.0.jar"
+hash = "8c252246a759ec1d67be6e9866c52086da83517756c34375c046da0aaf916244"
+
+[[files]]
+file = "mods/enhancedblockentities-0.6+1.18.2.jar"
+hash = "3cc6d81f66b0cdf37133ab31df2ea6587a4acc30f46cdeb9e72695ae7f3fb04a"
+
+[[files]]
+file = "mods/entityculling-fabric-mc1.18-1.5.0.jar"
+hash = "1b300eeb1c51fbbe8079f2147449bbae7484eddf9437fc1b6f1bc4d4a729ab53"
+
+[[files]]
+file = "mods/fabric-api-0.48.0+1.18.2.jar"
+hash = "ae8a4677d5e93b4ffdf69032171e384567a54272b7539cb1f48924035f0e005c"
+
+[[files]]
+file = "mods/indium-1.0.2-dev.607ff44+mc1.18.2.jar"
+hash = "dda01bc85e9bc266a517e69ac81f7222c1d5209da7c552c7017940d540224c1e"
+
+[[files]]
+file = "mods/iris-mc1.18.2-1.2.3-pre-7823c812.jar"
+hash = "7875f2b7038fdae634b9df89ca476e212490303bc2e2d5ade6caa70c080d72b7"
+
+[[files]]
+file = "mods/krypton-0.1.10-SNAPSHOT.jar"
+hash = "dc5b82ab227a571889778cc167b5fdf9c6621231756b201a9bcb7c7f4ba26a8b"
+
+[[files]]
+file = "mods/lazydfu-fabric-0.2.0.jar"
+hash = "e0f247168702c26f55bd32a723e97879677bd4eb1dd66878685073f3b850fe20"
+
+[[files]]
+file = "mods/lithium-fabric-mc1.18.2-0.7.9-SNAPSHOT.jar"
+hash = "6dafbfb6afd6b31693eae44712d8f40c27aa8af288baf9739458f8ae109ae4ba"
+
+[[files]]
+file = "mods/modmenu-v3.1.0+1.18.28fa8af.jar"
+hash = "09ba4d0bfb2a0896f21fdb218788c8ab54ad0be3ecba1929f1b6f7bf0aabff2e"
+
+[[files]]
+file = "mods/okzoomer-5.0.0-beta.6+1.18.2.github.179.jar"
+hash = "1e6d7c003cbf21615851dda114ef299c3dd68af2a09f5dcab07d3e873b102bc4"
+
+[[files]]
+file = "mods/reeses_sodium_options-mc1.18.2-1.4.2.jar"
+hash = "e97ecedebea1c561a38f48563c09d6ec99fa168e38a35d2a992c1f8d6b551613"
+
+[[files]]
+file = "mods/sodium-extra-mc1.18.2-0.4.3.jar"
+hash = "2fcc69cb2c124ecbe181d651c34b668e0c15d689f4d664f74bf521d003701e1d"
+
+[[files]]
+file = "mods/sodium-fabric-mc1.18.2-0.4.1+replaymod.rev.0816057.jar"
+hash = "55c500fcddabc09179c79a1ffc621deda020f62f20ebe413e4c6bea1820c9205"
+
+[[files]]
+file = "mods/starlight-1.0.2+fabric.a920f5a.jar"
+hash = "2330015a5dcd34b8593da6a4eceddeccd6dc11cfa6ad38a74547298c2caba828"
+
+[[files]]
+file = "options.txt"
+hash = "aff2781a692259ee45f8f2e81d5758094f73d578c132202d3489d2fa63b82097"
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode-1.18-(v1.3.1).zip"
+hash = "5945b71d05adc0ef740fb02e353cb78b6fd468f6a24aa83218f417dfc489e7e2"
+
+[[files]]
+file = "resourcepacks/xali's+Bushy+Leaves+v2.0.zip"
+hash = "ae7252cd653ca7796890a3a8883a8f085081578bab7809675befc4583aab8963"
+
+[[files]]
+file = "resourcepacks/xali's+Enchanced+Biome+River++Pond+v1.2.2.zip"
+hash = "7abb7abd15fef2a291ba269ed0d796c939b017ce7a7e0f7c5fe9360f16bcf3bd"
+
+[[files]]
+file = "resourcepacks/xali's+Enchanted+Books+v0.9.zip"
+hash = "2dfd2799c25b68b58802af81ab27265f569b979368a5f95013d8806d77de4562"
+
+[[files]]
+file = "resourcepacks/xali's+Enhanced+Jungle+Wood+v1.2.zip"
+hash = "de148b47f329ecabd9f6aab6ad8b7f58710177cacd381aaf25d01122b0252478"
+
+[[files]]
+file = "resourcepacks/xali's+Enhanced+Vanilla+v1.9.2+Fabric.zip"
+hash = "dd73d5e65faa95c007c1e8480c7f9b8253510a2d10a5aa4ff95a5a7b385acc17"
+
+[[files]]
+file = "resourcepacks/xali's+Potions+v1.0.zip"
+hash = "f6d453bd60909dae3218ac4f42bbec8168aee1ded499977837dfe8d4691412ea"
+
+[[files]]
+file = "shaderpacks/BSL_v8.1.02.2.zip"
+hash = "908f257a93f13bf70f3f9ee9381cd61a3611606103316ef87cdc11fc389d4a4b"
+
+[[files]]
+file = "shaderpacks/BSL_v8.1.02.2.zip.txt"
+hash = "7d79d063d033b8780cff987e55ea7d30f0129d926a511e02467bc89ab8eb2fa2"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.4.zip"
+hash = "297e2947c1986ba2faefdd3f2e0aa365b3e6dfd308853baae70821b393c06861"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
+hash = "dacf0fb9fd1531579d2e0f8c6b1c40bb1c891b1bfba774f01b89ea6a91caf434"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.4_NS_pre.zip"
+hash = "297e2947c1986ba2faefdd3f2e0aa365b3e6dfd308853baae70821b393c06861"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.4_NS_pre.zip.txt"
+hash = "10f0150ebd8fc0311c5eeaec5c52dc6d93e2f6cd3edbe036292225e03423bfe7"
+
+[[files]]
+file = "shaderpacks/Prismarine+V4.1a.zip"
+hash = "16d68eda8400e2f36221d20242a2d2093f8f0b2f99ba0416d8be66cd0e6a2443"
+
+[[files]]
+file = "shaderpacks/Prismarine+V4.1a.zip.txt"
+hash = "90fb2bbbde724d8bf82ecced30daf94f8532eae39a276762e6042c0e254316b9"
+
+[[files]]
+file = "shaderpacks/SEUS PTGI HRR 3.zip"
+hash = "6bd4ee3489de276095022f9662d48fdd99318019079d3ee945eff0a9ab6f7d87"
+
+[[files]]
+file = "shaderpacks/SEUS PTGI HRR 3.zip.txt"
+hash = "e121de4125b575130b2b8cc3a15a5250493c715b92f0b391e81918ea63cfa9f4"
+
+[[files]]
+file = "shaderpacks/SEUS-Renewed-v1.0.1.zip"
+hash = "76a1ff6c0d7827ecd0857e5a9b5298337f232662767abf0f011154c85b6da8ef"
+
+[[files]]
+file = "shaderpacks/SEUS-Renewed-v1.0.1.zip.txt"
+hash = "676f743822f56713237e67bb89c6d07c6775b5802f36ede453d9bac7743d92b7"
+
+[[files]]
+file = "shaderpacks/Sildur's+Enhanced+Default+v1.131.zip"
+hash = "ddfbeb5d7ccfe5d426a3a7e08ea3d5474d55428e8b662de251149aa88a592908"
+
+[[files]]
+file = "shaderpacks/Sildur's+Enhanced+Default+v1.131.zip.txt"
+hash = "7271267988e6a028e87b7f133d7547cf27497fd56a13f385e7116d119b0fc7ad"
