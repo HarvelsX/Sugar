@@ -6,3 +6,4 @@
 
 # Exclude output directory
 .output/
+index.toml
