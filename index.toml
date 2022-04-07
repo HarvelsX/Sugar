@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "f5b745ef98087f531e719ee8ca6a96809444573ecc7173c6fa68eaad39b3cc3f"
+hash = "eb284ce540b38ea402ab353a716e51a9210064dd8e291b9e40415ae50cb4e28a"
 
 [[files]]
 file = "config/c2me-compat.toml"
@@ -14,19 +14,19 @@ hash = "ef30e0e0c5d7b93a877b3d20931da0074fb2b4f7013670cc09df560fceb54230"
 
 [[files]]
 file = "config/citresewn-defaults.json"
-hash = "0b333b0bf9a0e573fa14f81610a621b488d5277c9e8f8c6a4c81e6a6cb37e482"
+hash = "ec350db1d59f642c8aef73e5e0cb12e25ce73772df7dc01fd1a58a44a5aac735"
 
 [[files]]
 file = "config/citresewn.json"
-hash = "7dd406490a96f77e39bd3d9cb6d60831da1471629910a466415d4fce5f9ca4b1"
+hash = "5647b1c0470bb418621de9578723baa39323217bb252dd240762d13bed92a779"
 
 [[files]]
 file = "config/continuity.json"
-hash = "03a19a67749e08c8be9c653fa89bb3a2eb587a0d969fceb92052aa5e6e7adf09"
+hash = "179c48fc1388e8ea27d6b0015ef63099e9247f50426d938fb8cb65a6dde6a55c"
 
 [[files]]
 file = "config/custom-hud/config.json"
-hash = "d3edcc8cc6e1a965fd20ee116dcfffdb4f940abf89fa11584c05817bb2d1fc2f"
+hash = "74efe4642640ba19537becf0f2dbf7a34d957d3902b88f5e0a53fec9a9b28796"
 
 [[files]]
 file = "config/custom-hud/profile1.txt"
@@ -42,15 +42,15 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/dsurround/dsurround.json"
-hash = "6e720b9d333450774d7195b3ebb044c66a037f5e84b47d10eaf425226a9c6bb8"
+hash = "84d2ab8d9c247c64aee3bafc9fc5ab1aee217831783a76aaf15f579be5be6b0c"
 
 [[files]]
 file = "config/dsurround/soundconfig.json"
-hash = "c109310f8d38eb24fdec7fc6551aad98a3ea400554dd27456ac64fd5869f92e9"
+hash = "1b65b1474db014d56b122670f1a86ec8d2e2a936714443b3684af904f70fcbec"
 
 [[files]]
 file = "config/dynamicfps.toml"
-hash = "7b5acd249111fb1abcc817406cbb34f926ecc34ad34a782fb5173442801a2880"
+hash = "8235b71d74da6719174e03e2e872292a4a41cca6077a99949bc979c9d2fc4052"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -58,7 +58,7 @@ hash = "a442f241935dd855e812c5bfd023f47f9857d348695397879a25a7f62b42e3c7"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "e65a4a7bed60fc2a2b0ef2a32f80ffbf890ce40ba8edb83028b4a4e2e222f94a"
+hash = "90e1fa6edcf99f841564c062ae229150392b9a5c1d280384d82bc20ce3f73e73"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
@@ -78,23 +78,23 @@ hash = "c68ded836de0af69483680c817be0161471403d182db8a12a9ea794997389a8f"
 
 [[files]]
 file = "config/lithium.properties"
-hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+hash = "b099d76bcdc3a4ef7949b91189f05470d3301fc66f8559b9dc159c3c2791509a"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "bfb4ed706605df35fe37760c0f71d9f367942c94f68e3feca723988161ea6842"
+hash = "6da25906adffd7e3edeeb615401c2e72a50b2fbe9001b82841c888608be72551"
 
 [[files]]
 file = "config/okzoomer.json5"
-hash = "ada0d7d521dcc4ada5a8213141d8e02db498155d6cc8e6d0feee28e31c40a1c7"
+hash = "42e40fec646916bdcb468228505869acf106b764d0c779602377ee397561986c"
 
 [[files]]
 file = "config/presencefootsteps/updater.json"
-hash = "27cab8a836de9d275304b4b09b7b84705fdf731b1e0b7d5281b28ba922bf0b77"
+hash = "59e338fa7a933405faf283ad4609d0053588927e05313623993052a50b24cdd0"
 
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
-hash = "86f7e3ca88ee74260b01cd0970db638031d24317540d29206d2e2509fa5ff3b2"
+hash = "dca203432222e28ef81d2345cf066c68e8f9cf0eaec89b132da0c2c2a21fa3db"
 
 [[files]]
 file = "config/rrp.properties"
@@ -102,19 +102,19 @@ hash = "2a0ee9ed8592fb7f705319f1cb0a6fa20d9df62c7dff164d22dd2e2db7aab900"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "057c2bf6f3f08543658353351db213ed05f4fc4cca532cec185654ed84cd1e50"
+hash = "85d5fbbc7659998d7f3aacb51b85fd2b21024381c2f214d7474cf53f8944d214"
 
 [[files]]
 file = "config/sodium-extra.properties"
-hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+hash = "ab259e2369fc503c0cd905ec9b57b5867f4dbd249edf7a2b52193b36ffbcdeab"
 
 [[files]]
 file = "config/sodium-mixins.properties"
-hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+hash = "b35b099a51f0cc1cfd94b1a1444de0d0d0c4e1b3399575504bbdcfaf02c359b0"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
+hash = "d416f622a733164b91da1a7c9b57cf19b470cb2d7b5214f929d19289d79f5635"
 
 [[files]]
 file = "mods/CITResewn-1.0.1+1.18.2.jar"
