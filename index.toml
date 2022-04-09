@@ -181,8 +181,8 @@ file = "mods/modmenu-v3.1.0+1.18.28fa8af.jar"
 hash = "09ba4d0bfb2a0896f21fdb218788c8ab54ad0be3ecba1929f1b6f7bf0aabff2e"
 
 [[files]]
-file = "mods/okzoomer-5.0.0-beta.6+1.18.2.github.179.jar"
-hash = "1e6d7c003cbf21615851dda114ef299c3dd68af2a09f5dcab07d3e873b102bc4"
+file = "mods/okzoomer-5.0.0-beta.6+1.18.2.github.180.jar"
+hash = "914760cfe1a4cc7b68d4cdc7c5fc2a363eda1325a651358223af3196459d0375"
 
 [[files]]
 file = "mods/reeses_sodium_options-mc1.18.2-1.4.2.jar"
@@ -190,7 +190,7 @@ hash = "e97ecedebea1c561a38f48563c09d6ec99fa168e38a35d2a992c1f8d6b551613"
 
 [[files]]
 file = "mods/sodium-extra-mc1.18.2-0.4.3.jar"
-hash = "2fcc69cb2c124ecbe181d651c34b668e0c15d689f4d664f74bf521d003701e1d"
+hash = "7e97ef5e0a45183660b970a027b79564a3a4fc49fe74560914021907dd0426fb"
 
 [[files]]
 file = "mods/sodium-fabric-mc1.18.2-0.4.1+replaymod.rev.0816057.jar"
