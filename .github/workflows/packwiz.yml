@@ -46,6 +46,8 @@ jobs:
         run: |
           touch index.toml
           packwiz refresh
+
+          [ -d .output ] && rm -r .output
           mkdir -p .output
 
           package=${{ needs.info.outputs.name }}-${{ needs.info.outputs.version }}-rev.${{ needs.info.outputs.sha }}
@@ -64,7 +66,7 @@ jobs:
   release:
     runs-on: ubuntu-latest
     if: startsWith(github.ref, 'refs/tags/v')
-    needs: [build, info]
+    needs: [build]
     steps:
       - name: Download modpack
         uses: actions/download-artifact@v2
@@ -72,7 +74,7 @@ jobs:
           name: Modpack
       - name: Generate changelog
         id: changelog
-        uses: heinrichreimer/github-changelog-generator-action@v2.1.1
+        uses: heinrichreimer/github-changelog-generator-action@v2.3
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           output: CHANGELOG.md
@@ -82,8 +84,8 @@ jobs:
         with:
           body_path: CHANGELOG.md
           files: |
-            .output/${{ steps.prepare.outputs.package }}.zip
-            .output/${{ steps.prepare.outputs.package }}.curseforge.zip
-            .output/${{ steps.prepare.outputs.package }}.mrpack
+            .output/${{ needs.build.outputs.package }}.zip
+            .output/${{ needs.build.outputs.package }}.curseforge.zip
+            .output/${{ needs.build.outputs.package }}.mrpack
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
