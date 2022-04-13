@@ -65,7 +65,7 @@ jobs:
   release:
     runs-on: ubuntu-latest
     if: startsWith(github.ref, 'refs/tags/v')
-    needs: [info]
+    needs: [info, build]
     steps:
       - name: Download modpack
         uses: actions/download-artifact@v2
