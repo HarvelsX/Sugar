@@ -1,6 +1,6 @@
 # LambDynamicLights configuration.
 # The dynamic lights mode
-mode = "fancy"
+mode = "fastest"
 
 # Light sources settings.
 [light_sources]

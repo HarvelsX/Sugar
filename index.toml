@@ -10,7 +10,11 @@ hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "a7453def836353d948eeed7ee45da79c4bd7dec5a92b079be801de8c86284292"
+hash = "ddc63e222e44632a475f3caf921b1addf77a122844b20ddf14c294307b4d6d02"
+
+[[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "12b88cac72c4188f97df16e59981407aa4c58eb852a6ad401dacb001d8ec62b6"
 
 [[files]]
 file = "config/yosbr/config/citresewn-defaults.json"
@@ -41,6 +45,14 @@ file = "config/yosbr/config/custom-hud/profile3.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/yosbr/config/debugify-descriptions.json"
+hash = "4455baf4b4cc68da0d5ea5b001b6d56bc5aca5445ec40d57663633dd7b29ef9e"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "7f5ded392c30b47308410d23833eedb0610d3a305a0c75d9c63d4f7ab33bfdf3"
+
+[[files]]
 file = "config/yosbr/config/dsurround/dsurround.json"
 hash = "6e720b9d333450774d7195b3ebb044c66a037f5e84b47d10eaf425226a9c6bb8"
 
@@ -66,7 +78,7 @@ hash = "0f35e1902947451da76b30dcc8aad0d672ea0ade833baa40bb4217a34e80dda3"
 
 [[files]]
 file = "config/yosbr/config/indium-renderer.properties"
-hash = "21f5b04fddd44ce671a97f0a48a7d9fe7a8dc791901ddb08e008675c799d4a04"
+hash = "0459f0b4c4e541d07e7bcda1e1472c9e1e6fd5ad94c75c42d4dfed4beb0416f5"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -74,7 +86,7 @@ hash = "b8d9025202d16c1a9edf37bb1dc5839d279f0af42589f95d53b0948f3294614f"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "1377d298190265df5eff35c73c8a0594bd4330f66e10289f8ffbfac60e2e43a9"
+hash = "1e5b1e2aab8d820511e99234e5d7312cda9fd2f08e526547644738ef4d200e7f"
 
 [[files]]
 file = "config/yosbr/config/lithium.properties"
@@ -125,24 +137,36 @@ file = "mods/CITResewn-1.0.1+1.18.2.jar"
 hash = "20bd1e3e7ffb72835ed773194cd47da2e7980316f8514af2c5443a3015383b81"
 
 [[files]]
+file = "mods/Capes-1.3.0+1.18.2.jar"
+hash = "ae8ea4b80a8852081ef147ead8052d7aa6c0ecdcf221add072ef00f9c04da530"
+
+[[files]]
 file = "mods/DynamicSurroundings-Fabric-1.18.2-0.0.4.jar"
 hash = "e1443d3a4ab64fd2c532e022e37556b94eb41737735ce4de70f580d4af88758d"
 
 [[files]]
-file = "mods/PresenceFootsteps-1.6.0-beta.0.2+4559b15.jar"
-hash = "a9616c93e483595b2d1096fbfa0329c110f28c5eca0d15a48888b265d7700aed"
+file = "mods/PresenceFootsteps-1.6.0-beta.0.4+453aee4.jar"
+hash = "71844b53f625820489c2b0f6f5382ca7f8292d71fdb03bc0ba5e1820f29ab3b3"
 
 [[files]]
-file = "mods/c2me-fabric-mc1.18.2-0.2.0+alpha.7.12.jar"
-hash = "8e73cf48c445f764a86f3e97ff6fa245e5d63584899fed9220dfedefb65aed84"
+file = "mods/antighost-1.18.2-fabric0.47.10-1.1.4.jar"
+hash = "8d98e49a4bef5d458f3ac59131ed9ed21e87d5f60b74ca2e21ffde9c3a2eba11"
 
 [[files]]
-file = "mods/continuity-1.1.0+1.18.2-build.50.jar"
-hash = "e3c9008f6f2795a8d4118956060679a0c4eaa11c4fb64b56fea2bfe6bca3bed8"
+file = "mods/c2me-fabric-mc1.18.2-0.2.0+alpha.7.18.jar"
+hash = "4fb50b3e528cbcf60afeb031a85dc806c608e8c4cfcb4194f0ac013870a56633"
+
+[[files]]
+file = "mods/continuity-2.0.0-alpha.21.18.2.jar"
+hash = "76c672295c5cad9474ff6de05ce69653c6df08c3e0d42aaa8dd90d2bd0e8be8a"
 
 [[files]]
 file = "mods/custom_hud-2.0.0-beta.2+1.18.2.jar"
 hash = "4228bef614be8b20757b2f6d87c9eea13f65253e203a3c6245cf34abd9096262"
+
+[[files]]
+file = "mods/debugify-1.9.0-fabric-1.18.2.jar"
+hash = "6209cebf48c5dbf93dd9048099df1797defee5211e160229d95377d8efd4ec74"
 
 [[files]]
 file = "mods/dynamic-fps-2.1.0.jar"
@@ -153,20 +177,24 @@ file = "mods/enhancedblockentities-0.6+1.18.2.jar"
 hash = "5e622bdaf3f443b828f3a47c10d6debce13aa80e047668f8e72e7156b5f6e816"
 
 [[files]]
-file = "mods/entityculling-fabric-mc1.18-1.5.0.jar"
-hash = "1b300eeb1c51fbbe8079f2147449bbae7484eddf9437fc1b6f1bc4d4a729ab53"
+file = "mods/entityculling-fabric-mc1.18-1.5.1.jar"
+hash = "2f08856b68dd16eced3be3d06b0177ec31a10ba1903283e851c267929bb79ff8"
 
 [[files]]
-file = "mods/fabric-api-0.48.0+1.18.2.jar"
-hash = "ae8a4677d5e93b4ffdf69032171e384567a54272b7539cb1f48924035f0e005c"
+file = "mods/fabric-api-0.51.1+1.18.2.jar"
+hash = "a59a1932577eff28a797dcbaa7ecc7bb1b3d748ab3a41a46ac0b49ffeaf51644"
 
 [[files]]
-file = "mods/indium-1.0.2+mc1.18.2.jar"
-hash = "15bedb11589a18893d6612087347c3b6b2d8eae8fe65802f23cfe1b096f33129"
+file = "mods/fabric-language-kotlin-1.7.2+kotlin.1.6.20.jar"
+hash = "ec373e4cc14303643b54752cca619ac7f2a51174625082799e14e62f43b74ecf"
 
 [[files]]
-file = "mods/iris-mc1.18.2-1.2.2-5eaf8878.jar"
-hash = "6a4a1997fa903d88235aa564cfd5afd7e7272ca235e10a1cf4739f0826748f8b"
+file = "mods/indium-1.0.3+mc1.18.2.jar"
+hash = "3a4109374bce4848a8bb0e40678a02633cab4e933aafb0e550913e8526b1d2ac"
+
+[[files]]
+file = "mods/iris-mc1.18.2-1.2.3-build.35.jar"
+hash = "6f9f01f66323b46bea727f7ce06f47dd98b35a9428c67b90e71924198c18bcba"
 
 [[files]]
 file = "mods/krypton-0.1.10-SNAPSHOT.jar"
@@ -182,15 +210,15 @@ hash = "e0f247168702c26f55bd32a723e97879677bd4eb1dd66878685073f3b850fe20"
 
 [[files]]
 file = "mods/lithium-fabric-mc1.18.2-0.7.10-SNAPSHOT.jar"
-hash = "cbff82918619253698e0dd8b69db6ca52a74b27b46e5aac22d1e8ace3e1afd54"
+hash = "9835e85385638fcaabf94e2c70b2bfe19b5e9e59feebb80e9a0a0f5e3e38a4ed"
 
 [[files]]
-file = "mods/modmenu-v3.1.0+1.18.28fa8af.jar"
-hash = "09ba4d0bfb2a0896f21fdb218788c8ab54ad0be3ecba1929f1b6f7bf0aabff2e"
+file = "mods/modmenu-3.1.1.jar"
+hash = "19706da8e53d194fd78cf7951931dc364e2d8c7ecb0d744533201d704eb81e0a"
 
 [[files]]
-file = "mods/okzoomer-5.0.0-beta.6+1.18.2.github.183.jar"
-hash = "114a2d0e3c6aa929ac800553a12252a37d19e9d254485d1d850137e8277c6fb3"
+file = "mods/okzoomer-5.0.0-beta.6+1.18.2.jar"
+hash = "0a39f7fe7b44fcf17e7665ef753e426f762bb01369bc4afbc9ec7bc4799d5752"
 
 [[files]]
 file = "mods/reeses_sodium_options-mc1.18.2-1.4.2.jar"
@@ -198,7 +226,7 @@ hash = "86056b57adab022d4ee0570c95d7b12f8880b1a73a7acd0b4dc268018308c1f0"
 
 [[files]]
 file = "mods/sodium-extra-mc1.18.2-0.4.3.jar"
-hash = "1029b95081ff721d6809b232d38f8d32e7a84d39338a12d039cee5f7608afa22"
+hash = "273c28322430e63076200e6bf57a79aee12080db58795b9678dee129f525fd7c"
 
 [[files]]
 file = "mods/sodium-fabric-mc1.18.2-0.4.1+replaymod.rev.14c9ebb.jar"
@@ -242,7 +270,7 @@ hash = "f6d453bd60909dae3218ac4f42bbec8168aee1ded499977837dfe8d4691412ea"
 
 [[files]]
 file = "shaderpacks/BSL_v8.1.02.2.zip"
-hash = "908f257a93f13bf70f3f9ee9381cd61a3611606103316ef87cdc11fc389d4a4b"
+hash = "c49f09145cba2993929eefdc4fec39467e58351ac194c7e3fe5401751a0c5729"
 
 [[files]]
 file = "shaderpacks/BSL_v8.1.02.2.zip.txt"
