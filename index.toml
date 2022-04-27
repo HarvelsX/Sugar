@@ -193,8 +193,8 @@ file = "mods/indium-1.0.3+mc1.18.2.jar"
 hash = "3a4109374bce4848a8bb0e40678a02633cab4e933aafb0e550913e8526b1d2ac"
 
 [[files]]
-file = "mods/iris-mc1.18.2-1.2.3-build.35.jar"
-hash = "6f9f01f66323b46bea727f7ce06f47dd98b35a9428c67b90e71924198c18bcba"
+file = "mods/iris-mc1.18.2-1.2.4-63f403e9.jar"
+hash = "21763d84054f71b2bee1a209cfc4c91a0aab976d1a1fc9c67bd509c5815e9aca"
 
 [[files]]
 file = "mods/krypton-0.1.10-SNAPSHOT.jar"
