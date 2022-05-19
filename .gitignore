@@ -3,6 +3,7 @@
 
 # Exclude exported Modrinth modpacks
 #*.mrpack
+.commit
 
 # Exclude output directory
 .output/

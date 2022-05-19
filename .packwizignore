@@ -10,6 +10,7 @@
 # Exlcude Github metadata
 .github/
 .github/**
+.commit
 
 # Exclude README
 /README.md
