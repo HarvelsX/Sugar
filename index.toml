@@ -293,10 +293,6 @@ file = "mods/yosbr-0.1.1.jar"
 hash = "797b4096ccf2b22a76a28471836a178316042a2f490faea02ab25b75edd5c77a"
 
 [[files]]
-file = "options.txt"
-hash = "bb7b8ec2b2dd2cd02151b467185515d2291163cdb7c22005988d5fe3b2c69a62"
-
-[[files]]
 file = "resourcepacks/Default-Dark-Mode-1.18-(v1.3.1).zip"
 hash = "5945b71d05adc0ef740fb02e353cb78b6fd468f6a24aa83218f417dfc489e7e2"
 
