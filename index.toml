@@ -5,16 +5,68 @@ file = "LICENSE"
 hash = "eb284ce540b38ea402ab353a716e51a9210064dd8e291b9e40415ae50cb4e28a"
 
 [[files]]
-file = "config/yosbr/config/c2me-compat.toml"
+file = "config/animatica.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/c2me-compat.toml"
 hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
 
 [[files]]
-file = "config/yosbr/config/c2me.toml"
-hash = "ddc63e222e44632a475f3caf921b1addf77a122844b20ddf14c294307b4d6d02"
+file = "config/c2me.toml"
+hash = "8f6d1c96239e69330f9f51e0146778e5075bf4e8950353d9bc4a73641fe17c54"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "1023b0837be2b272bf2b57a697be47e28f96077f5a89b5477aa5f30b041e1849"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "ca11922dcbb28c9850d7936fc4a54313d9307209de5773faa01422b36b4e4ed9"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "647c97bf8ba08a082324b85ed87ae43356109953b4140fe57847cf7b97448ecd"
+
+[[files]]
+file = "config/indium-renderer.properties"
+hash = "61f0a1fda89c3b074524cc7d547e82e834ed865d7b0fa5f8759743e247ef3dc5"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "2a2731781cd12df505a5621664033528c937cc03098a16813a2aabaff77b0daf"
+
+[[files]]
+file = "config/rrp.properties"
+hash = "2a0ee9ed8592fb7f705319f1cb0a6fa20d9df62c7dff164d22dd2e2db7aab900"
+
+[[files]]
+file = "config/smoothboot.json"
+hash = "0ee9b15bb4ab1c85d3988cf0b550285ee2646c2d96fd373f79de749251b7fd1b"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
-hash = "12b88cac72c4188f97df16e59981407aa4c58eb852a6ad401dacb001d8ec62b6"
+hash = "e5060864e91e00a9c7ea96084986ca4fd8ba21c2e612005329ffb5274dee643d"
+
+[[files]]
+file = "config/yosbr/config/cem.conf"
+hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
+
+[[files]]
+file = "config/yosbr/config/charmonium.toml"
+hash = "c2a824791294d093ad4670b113ea821e0cf266c3a78628f9f23d398b9fd052f1"
 
 [[files]]
 file = "config/yosbr/config/citresewn-defaults.json"
@@ -22,11 +74,15 @@ hash = "ec350db1d59f642c8aef73e5e0cb12e25ce73772df7dc01fd1a58a44a5aac735"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
-hash = "5647b1c0470bb418621de9578723baa39323217bb252dd240762d13bed92a779"
+hash = "6e7205e1be0d650e7ccfca941ad1c0580eb21d2fa868917dd0fc46ece97c6e6e"
 
 [[files]]
 file = "config/yosbr/config/continuity.json"
 hash = "00267a602028cbb037dcb0b5f803db31bed284235ca9c1ea189ad4179311a2f4"
+
+[[files]]
+file = "config/yosbr/config/crowdin.txt"
+hash = "6b4d7eb81f36519c9672a2af5007a85501e33752d6e37edc509c3cea2b312215"
 
 [[files]]
 file = "config/yosbr/config/custom-hud/config.json"
@@ -34,7 +90,7 @@ hash = "74efe4642640ba19537becf0f2dbf7a34d957d3902b88f5e0a53fec9a9b28796"
 
 [[files]]
 file = "config/yosbr/config/custom-hud/profile1.txt"
-hash = "cec7a74166e0e23a4f4a36b0519d879d21dc829a059668fbf4f97ac282833c52"
+hash = "f86ce3b4b3d35cbc0cea4b4871692950fbba6546138b11c29774341a2cb695bb"
 
 [[files]]
 file = "config/yosbr/config/custom-hud/profile2.txt"
@@ -46,59 +102,27 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yosbr/config/debugify-descriptions.json"
-hash = "4455baf4b4cc68da0d5ea5b001b6d56bc5aca5445ec40d57663633dd7b29ef9e"
+hash = "09bf0e71673cb6fed6f113d3990a6625594e3dddd73f86dd51b6730ce5132e9a"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
-hash = "7f5ded392c30b47308410d23833eedb0610d3a305a0c75d9c63d4f7ab33bfdf3"
-
-[[files]]
-file = "config/yosbr/config/dsurround/dsurround.json"
-hash = "6e720b9d333450774d7195b3ebb044c66a037f5e84b47d10eaf425226a9c6bb8"
-
-[[files]]
-file = "config/yosbr/config/dsurround/soundconfig.json"
-hash = "c109310f8d38eb24fdec7fc6551aad98a3ea400554dd27456ac64fd5869f92e9"
+hash = "7e9af2d30aef41c094ecb6dd2392175b048032bf5b036d5b25f73342ef9f337a"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
-hash = "6b6718f6c5e304f59c425cf126e01ae7d40355e4e1d87b7498afd3a774078514"
-
-[[files]]
-file = "config/yosbr/config/enhanced_bes.properties"
-hash = "1023b0837be2b272bf2b57a697be47e28f96077f5a89b5477aa5f30b041e1849"
-
-[[files]]
-file = "config/yosbr/config/entityculling.json"
-hash = "90e1fa6edcf99f841564c062ae229150392b9a5c1d280384d82bc20ce3f73e73"
+hash = "a0cc42b4a1efc18fff1caeabf9df716f19bf8d00f7718e61eea81c013c85cd88"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
-hash = "0f35e1902947451da76b30dcc8aad0d672ea0ade833baa40bb4217a34e80dda3"
-
-[[files]]
-file = "config/yosbr/config/indium-renderer.properties"
-hash = "0459f0b4c4e541d07e7bcda1e1472c9e1e6fd5ad94c75c42d4dfed4beb0416f5"
+hash = "4d69a1041bd18535cdfd4af6687e3f5ed9b6f7d37d9f8232e2b73531d56f019c"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "b8d9025202d16c1a9edf37bb1dc5839d279f0af42589f95d53b0948f3294614f"
+hash = "d300cceffd18bd93bd59a381e7c71ca7d00a22c52c9e26aa28a7d3ce4cf03410"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
 hash = "1e5b1e2aab8d820511e99234e5d7312cda9fd2f08e526547644738ef4d200e7f"
-
-[[files]]
-file = "config/yosbr/config/lithium.properties"
-hash = "b099d76bcdc3a4ef7949b91189f05470d3301fc66f8559b9dc159c3c2791509a"
-
-[[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "6da25906adffd7e3edeeb615401c2e72a50b2fbe9001b82841c888608be72551"
-
-[[files]]
-file = "config/yosbr/config/okzoomer.json5"
-hash = "c7dbc4d0e27104a336792e1b5c4d9ae538200c11181e19f8c6bd0afef3e1b3a2"
 
 [[files]]
 file = "config/yosbr/config/presencefootsteps/updater.json"
@@ -106,55 +130,71 @@ hash = "27cab8a836de9d275304b4b09b7b84705fdf731b1e0b7d5281b28ba922bf0b77"
 
 [[files]]
 file = "config/yosbr/config/presencefootsteps/userconfig.json"
-hash = "86f7e3ca88ee74260b01cd0970db638031d24317540d29206d2e2509fa5ff3b2"
+hash = "de62129b6149b9db4001a8284dc441971eb996a1a126f527872d65047bd51271"
 
 [[files]]
-file = "config/yosbr/config/rrp.properties"
-hash = "2a0ee9ed8592fb7f705319f1cb0a6fa20d9df62c7dff164d22dd2e2db7aab900"
+file = "config/yosbr/config/resounding.json5"
+hash = "99499a0c53162043c4754602b7e9e5f2c2340853ac9df1959bfbefee6133ca53"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
-hash = "1b88c64468f7447e5bfdad629743c39173991ec319a1f55b89a1375ba0f7a05c"
-
-[[files]]
-file = "config/yosbr/config/sodium-extra.properties"
-hash = "ab259e2369fc503c0cd905ec9b57b5867f4dbd249edf7a2b52193b36ffbcdeab"
-
-[[files]]
-file = "config/yosbr/config/sodium-mixins.properties"
-hash = "b35b099a51f0cc1cfd94b1a1444de0d0d0c4e1b3399575504bbdcfaf02c359b0"
+hash = "643d6ed0447a9d99bfa2ed66f68768bbc43d66852ef1d3147f2ca8dd5d55af0d"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "3b01094400618f74596b9a3d0a5b60082e67bbb75174b592cd1393905584a8a7"
+hash = "e467b61963b8f8d78efd9971c266473100e29e084a22a604c4e5296608d1a1fb"
+
+[[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "b245610aac5df05d9a07979a93420997d29518dea2aca7db82dff26f8711e1bb"
 
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "14a85fc87abab1437ccc7d973a879be38d96464a0d029380e3225d1fbc4f7bc4"
 
 [[files]]
+file = "icon.png"
+hash = "b7607a31becc79d590da87b05cef5aa87561a65c91b1694cf612e441e4582369"
+
+[[files]]
 file = "mods/CITResewn-1.0.1+1.18.2.jar"
-hash = "20bd1e3e7ffb72835ed773194cd47da2e7980316f8514af2c5443a3015383b81"
+hash = "ff7c686e84c93866e7fa02b24da5d249379f38b87603c2518fd1e41c35cbe67f"
 
 [[files]]
-file = "mods/Capes-1.3.0+1.18.2.jar"
-hash = "ae8ea4b80a8852081ef147ead8052d7aa6c0ecdcf221add072ef00f9c04da530"
-
-[[files]]
-file = "mods/DynamicSurroundings-Fabric-1.18.2-0.0.4.jar"
-hash = "e1443d3a4ab64fd2c532e022e37556b94eb41737735ce4de70f580d4af88758d"
+file = "mods/Capes-1.3.1+1.18.2.jar"
+hash = "4ad012f3ca383c49ed63b50d1b8861d34838b6659a212c5706d3cc2685302518"
 
 [[files]]
 file = "mods/PresenceFootsteps-1.6.0-beta.0.4+453aee4.jar"
-hash = "71844b53f625820489c2b0f6f5382ca7f8292d71fdb03bc0ba5e1820f29ab3b3"
+hash = "50a54cbae268d7143e9a1f8c566b450073d86cccee8b72dfffd883af0b814cbf"
+
+[[files]]
+file = "mods/Zoomify-1.6.0.jar"
+hash = "fed3e4e58acdb9129cce59acf218d9749f9aaba6bb42ad7d5d3f5692fbfa1f86"
+
+[[files]]
+file = "mods/animatica-0.4+1.18.jar"
+hash = "2d6ea5185afe29422d001f9795521b0a25e11f415bdded6f586af7f8d7c0b051"
 
 [[files]]
 file = "mods/antighost-1.18.2-fabric0.47.10-1.1.4.jar"
 hash = "8d98e49a4bef5d458f3ac59131ed9ed21e87d5f60b74ca2e21ffde9c3a2eba11"
 
 [[files]]
-file = "mods/c2me-fabric-mc1.18.2-0.2.0+alpha.7.18.jar"
-hash = "4fb50b3e528cbcf60afeb031a85dc806c608e8c4cfcb4194f0ac013870a56633"
+file = "mods/c2me-fabric-mc1.18.2-0.2.0+alpha.7.26.jar"
+hash = "99e284e91fcaa575cefa006238127f08076b7cb55b524da90e3a59166c58c891"
+
+[[files]]
+file = "mods/cem-0.7.1.jar"
+hash = "22565790adb294e540877be7c954d1108b4419c8175bde7225283d8d11e4c2b8"
+
+[[files]]
+file = "mods/charmonium-fabric-1.18-4.0.0.jar"
+hash = "90fc89ce961b34107b57eedff726b11fe5910e4e097a15f7a137c3e8f1d0eda0"
+
+[[files]]
+file = "mods/cloth-config-6.2.57-fabric.jar"
+hash = "2b4afaf4b9873f45ce29311ac4be2457db3ca4e0b69c10fd0447e8c9c800566d"
 
 [[files]]
 file = "mods/continuity-2.0.0-alpha.21.18.2.jar"
@@ -165,8 +205,8 @@ file = "mods/custom_hud-2.0.0-beta.2+1.18.2.jar"
 hash = "4228bef614be8b20757b2f6d87c9eea13f65253e203a3c6245cf34abd9096262"
 
 [[files]]
-file = "mods/debugify-1.9.0-fabric-1.18.2.jar"
-hash = "6209cebf48c5dbf93dd9048099df1797defee5211e160229d95377d8efd4ec74"
+file = "mods/debugify-1.10.0-fabric-1.18.2.jar"
+hash = "8311a00f027126c829b23116278b57de37915cf6d002b3e2ea338d1b04ec6005"
 
 [[files]]
 file = "mods/dynamic-fps-2.1.0.jar"
@@ -182,23 +222,31 @@ hash = "2f08856b68dd16eced3be3d06b0177ec31a10ba1903283e851c267929bb79ff8"
 
 [[files]]
 file = "mods/fabric-api-0.51.1+1.18.2.jar"
-hash = "a59a1932577eff28a797dcbaa7ecc7bb1b3d748ab3a41a46ac0b49ffeaf51644"
+hash = "7105f0ca2b0622629460105a96adf28179d3e09f55d108ed3939dfd98ad3aff3"
 
 [[files]]
 file = "mods/fabric-language-kotlin-1.7.2+kotlin.1.6.20.jar"
 hash = "ec373e4cc14303643b54752cca619ac7f2a51174625082799e14e62f43b74ecf"
 
 [[files]]
+file = "mods/fabricskyboxes-1.18.2-0.5.5.jar"
+hash = "acc9997b9ed2ae4b57ff9fe0ded49acbafc98928f73cabfde555bc75317c1285"
+
+[[files]]
+file = "mods/ferritecore-4.2.1-fabric.jar"
+hash = "53302d6c23fb7af39556305d90967011a1eeed148e8566a45d30f1e9e73626c5"
+
+[[files]]
 file = "mods/indium-1.0.3+mc1.18.2.jar"
 hash = "3a4109374bce4848a8bb0e40678a02633cab4e933aafb0e550913e8526b1d2ac"
 
 [[files]]
-file = "mods/iris-mc1.18.2-1.2.4-63f403e9.jar"
-hash = "21763d84054f71b2bee1a209cfc4c91a0aab976d1a1fc9c67bd509c5815e9aca"
+file = "mods/iris-mc1.18.2-1.2.5-pre-96494684.jar"
+hash = "c4c574af917caddcb7b1b97e73648fdca7f9563233ab1472837aa3abfb2269d2"
 
 [[files]]
 file = "mods/krypton-0.1.10-SNAPSHOT.jar"
-hash = "dc5b82ab227a571889778cc167b5fdf9c6621231756b201a9bcb7c7f4ba26a8b"
+hash = "a02e6fe36a7a20a75c31c526a99d021fdef1a3914d661e66562387d72ab6fd9e"
 
 [[files]]
 file = "mods/lambdynamiclights-2.1.0+1.17.jar"
@@ -210,23 +258,27 @@ hash = "e0f247168702c26f55bd32a723e97879677bd4eb1dd66878685073f3b850fe20"
 
 [[files]]
 file = "mods/lithium-fabric-mc1.18.2-0.7.10-SNAPSHOT.jar"
-hash = "9835e85385638fcaabf94e2c70b2bfe19b5e9e59feebb80e9a0a0f5e3e38a4ed"
+hash = "e1e4c13f6d650b03a67aef59c4aa9525d3c819909e68760ec5bc4dff6d3fda77"
 
 [[files]]
-file = "mods/modmenu-3.1.1.jar"
-hash = "19706da8e53d194fd78cf7951931dc364e2d8c7ecb0d744533201d704eb81e0a"
+file = "mods/modmenu-v3.2.2+1.18.40aeba6.jar"
+hash = "f898d2e06b5dfcbae197d29f177501dcd6bdba1b8c3a42b068cd1288d20dddad"
 
 [[files]]
-file = "mods/okzoomer-5.0.0-beta.6+1.18.2.jar"
-hash = "0a39f7fe7b44fcf17e7665ef753e426f762bb01369bc4afbc9ec7bc4799d5752"
+file = "mods/reeses_sodium_options-1.4.2+mc1.18.2-build.11.jar"
+hash = "440bcda1d9b2b381e1c3974fa1955cad2e0434ff7b3390eb316f43b6c3c132ac"
 
 [[files]]
-file = "mods/reeses_sodium_options-mc1.18.2-1.4.2.jar"
-hash = "86056b57adab022d4ee0570c95d7b12f8880b1a73a7acd0b4dc268018308c1f0"
+file = "mods/resounding-1.0.0-bc.9.jar"
+hash = "e01b7ea88f64e19b3fb9f93b7a842091b5aa419e1f993f31583d4c657030ec8e"
 
 [[files]]
-file = "mods/sodium-extra-mc1.18.2-0.4.3.jar"
-hash = "273c28322430e63076200e6bf57a79aee12080db58795b9678dee129f525fd7c"
+file = "mods/smoothboot-fabric-1.18.2-1.7.0.jar"
+hash = "af60c5730457970ce240c4a38aacb1067cdab1c9b79fc896cbb10bf7b1b873b5"
+
+[[files]]
+file = "mods/sodium-extra-0.4.4+mc1.18.2-build.551.jar"
+hash = "60e3d0282d17a079487078bf7fb05ab00ac33442aa373e3d28e0f70f97292d84"
 
 [[files]]
 file = "mods/sodium-fabric-mc1.18.2-0.4.1+replaymod.rev.14c9ebb.jar"
@@ -241,8 +293,16 @@ file = "mods/yosbr-0.1.1.jar"
 hash = "797b4096ccf2b22a76a28471836a178316042a2f490faea02ab25b75edd5c77a"
 
 [[files]]
+file = "options.txt"
+hash = "bb7b8ec2b2dd2cd02151b467185515d2291163cdb7c22005988d5fe3b2c69a62"
+
+[[files]]
 file = "resourcepacks/Default-Dark-Mode-1.18-(v1.3.1).zip"
 hash = "5945b71d05adc0ef740fb02e353cb78b6fd468f6a24aa83218f417dfc489e7e2"
+
+[[files]]
+file = "resourcepacks/Stay_True_1.18.zip"
+hash = "fa057d04cdddad36d3c0600f0a1c26aaddf83ce1fa70fab342ac11267ed85602"
 
 [[files]]
 file = "resourcepacks/xali's+Bushy+Leaves+v2.0.zip"
@@ -293,28 +353,12 @@ file = "shaderpacks/ComplementaryShaders_v4.4_NS.zip.txt"
 hash = "92a6d1c4993230beee660a4afd1f1127b5d40c9115ce0302b9be7d07f93f7237"
 
 [[files]]
-file = "shaderpacks/Prismarine+V4.1a.zip"
-hash = "16d68eda8400e2f36221d20242a2d2093f8f0b2f99ba0416d8be66cd0e6a2443"
+file = "shaderpacks/Prismarine+V4.2a.zip"
+hash = "47d3e80031bd89640e7de8ab9b56a14cd0b875a71929698879504723a34e3514"
 
 [[files]]
-file = "shaderpacks/Prismarine+V4.1a.zip.txt"
+file = "shaderpacks/Prismarine+V4.2a.zip.txt"
 hash = "90fb2bbbde724d8bf82ecced30daf94f8532eae39a276762e6042c0e254316b9"
-
-[[files]]
-file = "shaderpacks/SEUS PTGI HRR 3.zip"
-hash = "6bd4ee3489de276095022f9662d48fdd99318019079d3ee945eff0a9ab6f7d87"
-
-[[files]]
-file = "shaderpacks/SEUS PTGI HRR 3.zip.txt"
-hash = "e121de4125b575130b2b8cc3a15a5250493c715b92f0b391e81918ea63cfa9f4"
-
-[[files]]
-file = "shaderpacks/SEUS-Renewed-v1.0.1.zip"
-hash = "76a1ff6c0d7827ecd0857e5a9b5298337f232662767abf0f011154c85b6da8ef"
-
-[[files]]
-file = "shaderpacks/SEUS-Renewed-v1.0.1.zip.txt"
-hash = "676f743822f56713237e67bb89c6d07c6775b5802f36ede453d9bac7743d92b7"
 
 [[files]]
 file = "shaderpacks/Sildur's+Enhanced+Default+v1.131.zip"
