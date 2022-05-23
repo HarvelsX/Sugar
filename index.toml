@@ -14,7 +14,7 @@ hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "8f6d1c96239e69330f9f51e0146778e5075bf4e8950353d9bc4a73641fe17c54"
+hash = "0d81f1f57e00004cb12df7667c3c5ce85b1bc4c516f68ccf8fb6aa109a15c224"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -46,7 +46,7 @@ hash = "2a0ee9ed8592fb7f705319f1cb0a6fa20d9df62c7dff164d22dd2e2db7aab900"
 
 [[files]]
 file = "config/smoothboot.json"
-hash = "0ee9b15bb4ab1c85d3988cf0b550285ee2646c2d96fd373f79de749251b7fd1b"
+hash = "ef0da58321c3c51b170d3c28ef408186528911cc7ddce8cd9d25db81b0ff4b00"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -66,7 +66,7 @@ hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
 
 [[files]]
 file = "config/yosbr/config/charmonium.toml"
-hash = "c2a824791294d093ad4670b113ea821e0cf266c3a78628f9f23d398b9fd052f1"
+hash = "3c33473434ff0fe7e3f825ad4ea9d7f203db13ac25a0fdb0f647684eb4fbf058"
 
 [[files]]
 file = "config/yosbr/config/citresewn-defaults.json"
@@ -170,7 +170,7 @@ hash = "50a54cbae268d7143e9a1f8c566b450073d86cccee8b72dfffd883af0b814cbf"
 
 [[files]]
 file = "mods/Zoomify-1.6.0.jar"
-hash = "fed3e4e58acdb9129cce59acf218d9749f9aaba6bb42ad7d5d3f5692fbfa1f86"
+hash = "edf1bbcb24f612a1e04fbc12fb617f1a6c05cdd8674c96aa9baf7c61017ad752"
 
 [[files]]
 file = "mods/animatica-0.4+1.18.jar"
@@ -241,8 +241,8 @@ file = "mods/indium-1.0.3+mc1.18.2.jar"
 hash = "3a4109374bce4848a8bb0e40678a02633cab4e933aafb0e550913e8526b1d2ac"
 
 [[files]]
-file = "mods/iris-mc1.18.2-1.2.5-pre-96494684.jar"
-hash = "c4c574af917caddcb7b1b97e73648fdca7f9563233ab1472837aa3abfb2269d2"
+file = "mods/iris-mc1.18.2-1.2.4-build.38.jar"
+hash = "45c00e3a58688440af95698c6ce4b57128b1a6a201285718c3770c3a50331bbb"
 
 [[files]]
 file = "mods/krypton-0.1.10-SNAPSHOT.jar"

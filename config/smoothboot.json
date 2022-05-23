@@ -1,7 +1,7 @@
 {
   "threadCount": {
     "bootstrap": 2,
-    "main": 15
+    "main": 10
   },
   "threadPriority": {
     "game": 5,

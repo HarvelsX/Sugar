@@ -1,5 +1,5 @@
 #Plays ambient background sound according to the biome and time of day.
-"BiomeAmbience Enabled" = true
+"BiomeAmbience Enabled" = false
 #Plays specific ambient sound according to the situation or location.
 "SituationalAmbience Enabled" = true
 #Plays ambient background sound when the player is underground at different depths and light levels.
@@ -84,4 +84,3 @@
 	"Cave depth" = 36
 	#When the light is lower than this level then cave and deepcave background sound will be triggered.
 	"Light level" = 10
-
