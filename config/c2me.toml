@@ -1,6 +1,6 @@
 version = 3
 # (Default: 1) Configures the parallelism of global executor
-globalExecutorParallelism = 4
+globalExecutorParallelism = 2
 
 [clientSideConfig]
 
@@ -66,7 +66,7 @@ globalExecutorParallelism = 4
 	#
 	chunkStreamVersion = 2
 	# (Default: false) Whether to use the optimized implementation of IO system
-	replaceImpl = true
+	replaceImpl = false
 	# (Default: 1536) Soft limit for io worker nbt cache
 	chunkDataCacheSoftLimit = 1536
 	# (Default: 6144) Hard limit for io worker nbt cache

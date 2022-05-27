@@ -14,7 +14,7 @@ hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "0d81f1f57e00004cb12df7667c3c5ce85b1bc4c516f68ccf8fb6aa109a15c224"
+hash = "bd07f43c130bff592d9706786661aa8214e2f1db03a0f84a7ed5a0905b58969f"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -65,10 +65,6 @@ file = "config/yosbr/config/cem.conf"
 hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
 
 [[files]]
-file = "config/yosbr/config/charmonium.toml"
-hash = "3c33473434ff0fe7e3f825ad4ea9d7f203db13ac25a0fdb0f647684eb4fbf058"
-
-[[files]]
 file = "config/yosbr/config/citresewn-defaults.json"
 hash = "ec350db1d59f642c8aef73e5e0cb12e25ce73772df7dc01fd1a58a44a5aac735"
 
@@ -109,6 +105,14 @@ file = "config/yosbr/config/debugify.json"
 hash = "7e9af2d30aef41c094ecb6dd2392175b048032bf5b036d5b25f73342ef9f337a"
 
 [[files]]
+file = "config/yosbr/config/dsurround/dsurround.json"
+hash = "6e720b9d333450774d7195b3ebb044c66a037f5e84b47d10eaf425226a9c6bb8"
+
+[[files]]
+file = "config/yosbr/config/dsurround/soundconfig.json"
+hash = "c109310f8d38eb24fdec7fc6551aad98a3ea400554dd27456ac64fd5869f92e9"
+
+[[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "a0cc42b4a1efc18fff1caeabf9df716f19bf8d00f7718e61eea81c013c85cd88"
 
@@ -133,10 +137,6 @@ file = "config/yosbr/config/presencefootsteps/userconfig.json"
 hash = "de62129b6149b9db4001a8284dc441971eb996a1a126f527872d65047bd51271"
 
 [[files]]
-file = "config/yosbr/config/resounding.json5"
-hash = "99499a0c53162043c4754602b7e9e5f2c2340853ac9df1959bfbefee6133ca53"
-
-[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "643d6ed0447a9d99bfa2ed66f68768bbc43d66852ef1d3147f2ca8dd5d55af0d"
 
@@ -146,7 +146,7 @@ hash = "e467b61963b8f8d78efd9971c266473100e29e084a22a604c4e5296608d1a1fb"
 
 [[files]]
 file = "config/yosbr/config/zoomify.json"
-hash = "b245610aac5df05d9a07979a93420997d29518dea2aca7db82dff26f8711e1bb"
+hash = "35d536ff2703b1043c67844c638cad2670323722541b9eda60be9af0facd1bf6"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -165,12 +165,12 @@ file = "mods/Capes-1.3.1+1.18.2.jar"
 hash = "4ad012f3ca383c49ed63b50d1b8861d34838b6659a212c5706d3cc2685302518"
 
 [[files]]
-file = "mods/PresenceFootsteps-1.6.0-beta.0.4+453aee4.jar"
-hash = "50a54cbae268d7143e9a1f8c566b450073d86cccee8b72dfffd883af0b814cbf"
+file = "mods/DynamicSurroundings-Fabric-1.18.2-0.0.4.jar"
+hash = "e1443d3a4ab64fd2c532e022e37556b94eb41737735ce4de70f580d4af88758d"
 
 [[files]]
 file = "mods/Zoomify-1.6.0.jar"
-hash = "edf1bbcb24f612a1e04fbc12fb617f1a6c05cdd8674c96aa9baf7c61017ad752"
+hash = "a32602215cd00b5fefe0022d4e90c052755d21363918accb1546588f136abed0"
 
 [[files]]
 file = "mods/animatica-0.4+1.18.jar"
@@ -181,16 +181,12 @@ file = "mods/antighost-1.18.2-fabric0.47.10-1.1.4.jar"
 hash = "8d98e49a4bef5d458f3ac59131ed9ed21e87d5f60b74ca2e21ffde9c3a2eba11"
 
 [[files]]
-file = "mods/c2me-fabric-mc1.18.2-0.2.0+alpha.7.26.jar"
-hash = "99e284e91fcaa575cefa006238127f08076b7cb55b524da90e3a59166c58c891"
+file = "mods/c2me-fabric-mc1.18.2-0.2.0+alpha.7.27.jar"
+hash = "21b04e7d45be380d82dbf0373a7e95c99d6502c2eb6b4b63d839b7c0c043f4d5"
 
 [[files]]
 file = "mods/cem-0.7.1.jar"
 hash = "22565790adb294e540877be7c954d1108b4419c8175bde7225283d8d11e4c2b8"
-
-[[files]]
-file = "mods/charmonium-fabric-1.18-4.0.0.jar"
-hash = "90fc89ce961b34107b57eedff726b11fe5910e4e097a15f7a137c3e8f1d0eda0"
 
 [[files]]
 file = "mods/cloth-config-6.2.57-fabric.jar"
@@ -267,10 +263,6 @@ hash = "f898d2e06b5dfcbae197d29f177501dcd6bdba1b8c3a42b068cd1288d20dddad"
 [[files]]
 file = "mods/reeses_sodium_options-1.4.2+mc1.18.2-build.11.jar"
 hash = "440bcda1d9b2b381e1c3974fa1955cad2e0434ff7b3390eb316f43b6c3c132ac"
-
-[[files]]
-file = "mods/resounding-1.0.0-bc.9.jar"
-hash = "e01b7ea88f64e19b3fb9f93b7a842091b5aa419e1f993f31583d4c657030ec8e"
 
 [[files]]
 file = "mods/smoothboot-fabric-1.18.2-1.7.0.jar"
