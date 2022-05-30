@@ -134,7 +134,7 @@ hash = "27cab8a836de9d275304b4b09b7b84705fdf731b1e0b7d5281b28ba922bf0b77"
 
 [[files]]
 file = "config/yosbr/config/presencefootsteps/userconfig.json"
-hash = "de62129b6149b9db4001a8284dc441971eb996a1a126f527872d65047bd51271"
+hash = "67ea251881c0224bc51b26993b3d7ec29c7b012c696176f8208a9f7ed19c73b8"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -150,7 +150,7 @@ hash = "35d536ff2703b1043c67844c638cad2670323722541b9eda60be9af0facd1bf6"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f42f712fc81a00ed0f0f20fe6605ba0c579dd6501220e635c86b60608d1b158e"
+hash = "7ecf2aeb1d35db9e16254cef59a8c54675b37717be63fc790f377e90e2871414"
 
 [[files]]
 file = "icon.png"
@@ -166,7 +166,11 @@ hash = "4ad012f3ca383c49ed63b50d1b8861d34838b6659a212c5706d3cc2685302518"
 
 [[files]]
 file = "mods/DynamicSurroundings-Fabric-1.18.2-0.0.4.jar"
-hash = "e1443d3a4ab64fd2c532e022e37556b94eb41737735ce4de70f580d4af88758d"
+hash = "086fecb59f9a995218fb5eb5fd6a3e8c0a5af8b27e86286a9421e8a2937ee815"
+
+[[files]]
+file = "mods/PresenceFootsteps-1.6.0-beta.0.4+453aee4.jar"
+hash = "50a54cbae268d7143e9a1f8c566b450073d86cccee8b72dfffd883af0b814cbf"
 
 [[files]]
 file = "mods/Zoomify-1.6.0.jar"
@@ -189,20 +193,16 @@ file = "mods/cem-0.7.1.jar"
 hash = "22565790adb294e540877be7c954d1108b4419c8175bde7225283d8d11e4c2b8"
 
 [[files]]
-file = "mods/cloth-config-6.2.57-fabric.jar"
-hash = "2b4afaf4b9873f45ce29311ac4be2457db3ca4e0b69c10fd0447e8c9c800566d"
+file = "mods/continuity-2.0.0-beta.11.18.2.jar"
+hash = "c2df130da2629c2bc4328190f8612fc62a77cb84d3ee7e189d76af00922ff133"
 
 [[files]]
-file = "mods/continuity-2.0.0-alpha.21.18.2.jar"
-hash = "76c672295c5cad9474ff6de05ce69653c6df08c3e0d42aaa8dd90d2bd0e8be8a"
-
-[[files]]
-file = "mods/custom_hud-2.0.0-beta.2+1.18.2.jar"
-hash = "4228bef614be8b20757b2f6d87c9eea13f65253e203a3c6245cf34abd9096262"
+file = "mods/custom_hud-2.0.0+1.18.2.jar"
+hash = "f6b21a23ed94963d7bfd91bc2440b09112c62a89814d11256ea19e525f383b08"
 
 [[files]]
 file = "mods/debugify-1.10.0-fabric-1.18.2.jar"
-hash = "8311a00f027126c829b23116278b57de37915cf6d002b3e2ea338d1b04ec6005"
+hash = "8f8bf0dc6ab177a8732afd6c5768a7f17bda6f0799d54ffc7716dcce953b77bd"
 
 [[files]]
 file = "mods/dynamic-fps-2.1.0.jar"
@@ -214,11 +214,11 @@ hash = "5e622bdaf3f443b828f3a47c10d6debce13aa80e047668f8e72e7156b5f6e816"
 
 [[files]]
 file = "mods/entityculling-fabric-mc1.18-1.5.1.jar"
-hash = "2f08856b68dd16eced3be3d06b0177ec31a10ba1903283e851c267929bb79ff8"
+hash = "e0116c61dc995c8174bf82af3add6ef606107bb8077c66a401e2feb33309ec12"
 
 [[files]]
-file = "mods/fabric-api-0.51.1+1.18.2.jar"
-hash = "7105f0ca2b0622629460105a96adf28179d3e09f55d108ed3939dfd98ad3aff3"
+file = "mods/fabric-api-0.53.4+1.18.2.jar"
+hash = "8f5727abd20619d9dd64ea4166cdbeb209300f29c96baa08dfc85ea1a8cc3f13"
 
 [[files]]
 file = "mods/fabric-language-kotlin-1.7.2+kotlin.1.6.20.jar"
@@ -242,7 +242,7 @@ hash = "45c00e3a58688440af95698c6ce4b57128b1a6a201285718c3770c3a50331bbb"
 
 [[files]]
 file = "mods/krypton-0.1.10-SNAPSHOT.jar"
-hash = "a02e6fe36a7a20a75c31c526a99d021fdef1a3914d661e66562387d72ab6fd9e"
+hash = "f226d7defa5c7e3820c5450d7d1bbd611756e7e8516373c14f662705e39696d0"
 
 [[files]]
 file = "mods/lambdynamiclights-2.1.0+1.17.jar"
@@ -253,24 +253,24 @@ file = "mods/lazydfu-fabric-0.2.0.jar"
 hash = "e0f247168702c26f55bd32a723e97879677bd4eb1dd66878685073f3b850fe20"
 
 [[files]]
-file = "mods/lithium-fabric-mc1.18.2-0.7.10-SNAPSHOT.jar"
-hash = "e1e4c13f6d650b03a67aef59c4aa9525d3c819909e68760ec5bc4dff6d3fda77"
+file = "mods/lithium-fabric-mc1.18.2-0.7.10.jar"
+hash = "fce2a8e9174c4b8210a73e54df6923fc84784ce4c89230cdc5dddddbf366bbbc"
 
 [[files]]
 file = "mods/modmenu-v3.2.2+1.18.40aeba6.jar"
 hash = "f898d2e06b5dfcbae197d29f177501dcd6bdba1b8c3a42b068cd1288d20dddad"
 
 [[files]]
-file = "mods/reeses_sodium_options-1.4.2+mc1.18.2-build.11.jar"
-hash = "440bcda1d9b2b381e1c3974fa1955cad2e0434ff7b3390eb316f43b6c3c132ac"
+file = "mods/reeses_sodium_options-1.4.2+mc1.18.2-build.201.jar"
+hash = "633d9d5a69e1942e9137d9ef59c3364b953b95b3e9adb08049fe2ee37cba6081"
 
 [[files]]
 file = "mods/smoothboot-fabric-1.18.2-1.7.0.jar"
 hash = "af60c5730457970ce240c4a38aacb1067cdab1c9b79fc896cbb10bf7b1b873b5"
 
 [[files]]
-file = "mods/sodium-extra-0.4.4+mc1.18.2-build.551.jar"
-hash = "60e3d0282d17a079487078bf7fb05ab00ac33442aa373e3d28e0f70f97292d84"
+file = "mods/sodium-extra-0.4.4+mc1.18.2-build.596.jar"
+hash = "03d5c74bf8a7f35dd2f294cf1d9dca09f2115417cc26ed4151ae288d74fbb3af"
 
 [[files]]
 file = "mods/sodium-fabric-mc1.18.2-0.4.1+replaymod.rev.14c9ebb.jar"

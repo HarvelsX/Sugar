@@ -125,13 +125,13 @@ key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 soundCategory_master:1.0
 soundCategory_music:0.32394367
-soundCategory_record:1.0
-soundCategory_weather:0.24295774
+soundCategory_record:0.7253521
+soundCategory_weather:0.2535211
 soundCategory_block:0.92957747
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:0.5070422
+soundCategory_ambient:0.42605633
 soundCategory_voice:1.0
 modelPart_cape:true
 modelPart_jacket:true
