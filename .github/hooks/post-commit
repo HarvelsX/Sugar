@@ -1,0 +1,30 @@
+#!/bin/sh
+
+function preCommit {
+  if [ "$(git symbolic-ref HEAD 2>/dev/null)" == "refs/heads/main" ]
+  then
+    echo "Packwiz Refreshing..."
+    if [ ! command -v packwiz &> /dev/null ]
+    then
+      echo "Packwiz not installed in env. Please install packwiz"
+      exit 1;
+    fi
+
+    packwiz refresh
+    
+    if [[ `git status --porcelain` ]]
+    then
+      echo "Changes detected, commit them."
+      git add index.toml pack.toml
+      git commit --amend -C HEAD --no-verify
+    fi
+
+  fi
+}
+
+
+if [ -e .commit ]
+then
+  rm .commit
+  preCommit
+fi
