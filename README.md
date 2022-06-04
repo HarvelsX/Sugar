@@ -1,7 +1,7 @@
 # 🍭 Sugar
 ### 🍬 Vanilla Minecraft modification package aimed at 🔥 Optimization with a sprinkling of 🚀 User Experience Improvements.
 
-<img src=".github/assets/logo.png" align="right" style="margin: 0px 0px 1em 1em" title="Sugar" alt="Sugar Logo" width="200"/>
+[<img src=".github/assets/logo.png" align="right" style="margin: 0px 0px 1em 1em" title="Sugar" alt="Sugar Logo" width="200"/>](https://github.com/HarvelsX/Sugar)
 
 ✨ This is a modpack that will make your game much more enjoyable and comfortable than you are used to.
 
