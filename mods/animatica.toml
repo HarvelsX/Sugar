@@ -1,0 +1,16 @@
+name = "Animatica"
+filename = "animatica-0.4+1.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PRN43VSY/versions/0.4+1.18/animatica-0.4%2B1.18.jar"
+hash-format = "sha1"
+hash = "88814223cfa1aa19745529d852d545e5273f58d3"
+
+[update]
+[update.modrinth]
+mod-id = "PRN43VSY"
+version = "uoIGWJxI"
+[update.curseforge]
+file-id = 3664303
+project-id = 533006

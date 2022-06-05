@@ -1,0 +1,8 @@
+name = "Presence Footsteps"
+filename = "PresenceFootsteps-1.6.0-beta.0.4+453aee4.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/HarvelsX/Sugar/a33cf1b29d6d875b87eb67e37bbcf6f13d49d9a3/mods/PresenceFootsteps-1.6.0-beta.0.4%2B453aee4.jar"
+hash-format = "sha1"
+hash = "d02d29aea2d84c8442f77e86a4e60157bb4f3096"

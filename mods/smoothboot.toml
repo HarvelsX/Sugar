@@ -1,0 +1,8 @@
+name = "Smooth Boot"
+filename = "smoothboot-fabric-1.18.2-1.7.0.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/HarvelsX/Sugar/a33cf1b29d6d875b87eb67e37bbcf6f13d49d9a3/mods/smoothboot-fabric-1.18.2-1.7.0.jar"
+hash-format = "sha1"
+hash = "009d265aae07312984528df79c92581807934ba9"

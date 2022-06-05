@@ -1,0 +1,13 @@
+name = "Your Options Shall Be Respected (YOSBR)"
+filename = "yosbr-0.1.1.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/HarvelsX/Sugar/a33cf1b29d6d875b87eb67e37bbcf6f13d49d9a3/mods/yosbr-0.1.1.jar"
+hash-format = "sha1"
+hash = "0643830cab952fc96872702e681b863b550c8530"
+
+[update]
+[update.curseforge]
+file-id = 2934596
+project-id = 374274
