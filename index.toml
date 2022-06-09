@@ -86,7 +86,7 @@ hash = "74efe4642640ba19537becf0f2dbf7a34d957d3902b88f5e0a53fec9a9b28796"
 
 [[files]]
 file = "config/yosbr/config/custom-hud/profile1.txt"
-hash = "f86ce3b4b3d35cbc0cea4b4871692950fbba6546138b11c29774341a2cb695bb"
+hash = "6d3f2d8e710c94e2e9c66c545a5bbc7cb07d4c61dec12ac7e8a8e8ce3f2c4546"
 
 [[files]]
 file = "config/yosbr/config/custom-hud/profile2.txt"
@@ -150,143 +150,131 @@ hash = "35d536ff2703b1043c67844c638cad2670323722541b9eda60be9af0facd1bf6"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "7ecf2aeb1d35db9e16254cef59a8c54675b37717be63fc790f377e90e2871414"
+hash = "dc7af01ef22627ad4932c5f89823f886032f7f8159a8d792c5f0ad82b8209fc9"
 
 [[files]]
 file = "icon.png"
 hash = "b7607a31becc79d590da87b05cef5aa87561a65c91b1694cf612e441e4582369"
 
 [[files]]
-file = "mods/CITResewn-1.0.1+1.18.2.jar"
-hash = "ff7c686e84c93866e7fa02b24da5d249379f38b87603c2518fd1e41c35cbe67f"
+file = "mods/CITResewn-1.0.1+1.19.jar"
+hash = "9409422602a2bf7c03f4b9c816f118bd10e16fc7fe4b976980f87d001c35bf72"
 
 [[files]]
-file = "mods/Capes-1.3.1+1.18.2.jar"
-hash = "4ad012f3ca383c49ed63b50d1b8861d34838b6659a212c5706d3cc2685302518"
+file = "mods/Capes-1.3.1+1.19.jar"
+hash = "f1cfd001325146e8f046f3a88ceb8f3675ca49ec6f0ca766cf2222b83eab243d"
 
 [[files]]
-file = "mods/DynamicSurroundings-Fabric-1.18.2-0.0.4.jar"
-hash = "086fecb59f9a995218fb5eb5fd6a3e8c0a5af8b27e86286a9421e8a2937ee815"
-
-[[files]]
-file = "mods/PresenceFootsteps-1.6.0-beta.0.4+453aee4.jar"
-hash = "50a54cbae268d7143e9a1f8c566b450073d86cccee8b72dfffd883af0b814cbf"
+file = "mods/CleanF3-1.0.1.jar"
+hash = "302dd29d4c248a79db2554e90664b5d8792658028e33da8172ccf309082c4579"
 
 [[files]]
 file = "mods/Zoomify-1.6.0.jar"
-hash = "a32602215cd00b5fefe0022d4e90c052755d21363918accb1546588f136abed0"
+hash = "b100b406e8f2bf51cc2748a14ff85387eabfe5d9cbd7193abee288d38ba4e99a"
 
 [[files]]
-file = "mods/animatica-0.4+1.18.jar"
-hash = "2d6ea5185afe29422d001f9795521b0a25e11f415bdded6f586af7f8d7c0b051"
+file = "mods/animatica-0.4+1.19.jar"
+hash = "4dbb4d81526f63f3847b15cb4a30e517570508b21a28bb62d19c1f9e6c6067a6"
 
 [[files]]
-file = "mods/antighost-1.18.2-fabric0.47.10-1.1.4.jar"
-hash = "8d98e49a4bef5d458f3ac59131ed9ed21e87d5f60b74ca2e21ffde9c3a2eba11"
-
-[[files]]
-file = "mods/c2me-fabric-mc1.18.2-0.2.0+alpha.7.27.jar"
-hash = "21b04e7d45be380d82dbf0373a7e95c99d6502c2eb6b4b63d839b7c0c043f4d5"
+file = "mods/c2me-fabric-mc1.19-0.2.0+alpha.8.0.jar"
+hash = "0d1a1f428aef17dd6cd20f5e6412e074bb2908678090cca58c49f9eed1b609b1"
 
 [[files]]
 file = "mods/cem-0.7.1.jar"
-hash = "22565790adb294e540877be7c954d1108b4419c8175bde7225283d8d11e4c2b8"
+hash = "f026ceef995647ab714ce2be39717849208382f92c54c33b26f7a207800c1f72"
 
 [[files]]
-file = "mods/continuity-2.0.0-beta.11.18.2.jar"
-hash = "c2df130da2629c2bc4328190f8612fc62a77cb84d3ee7e189d76af00922ff133"
+file = "mods/cloth-config-7.0.65-fabric.jar"
+hash = "318f91de4e6de9c55bec690d3056e5f8122e1fd32e7501083e3e6bb8188e2948"
 
 [[files]]
-file = "mods/custom_hud-2.0.0+1.18.2.jar"
-hash = "f6b21a23ed94963d7bfd91bc2440b09112c62a89814d11256ea19e525f383b08"
+file = "mods/continuity-2.0.0+1.19-build.59.jar"
+hash = "ba9e8365a41a9f6235e1dd9b863ccd8a954d351500d526ba205b9618bf4c8979"
 
 [[files]]
-file = "mods/debugify-1.10.0-fabric-1.18.2.jar"
-hash = "8f8bf0dc6ab177a8732afd6c5768a7f17bda6f0799d54ffc7716dcce953b77bd"
+file = "mods/custom_hud-2.0.0+1.19.jar"
+hash = "1187c7b8cd451580249c1a166ceac9420c8586f38c9756a416bc5b65395183a1"
+
+[[files]]
+file = "mods/debugify-2.0.0-fabric-1.19.jar"
+hash = "5ad12176a78c9e2c4cf835d9732f229cbeace697d082426aac798440d85368f2"
 
 [[files]]
 file = "mods/dynamic-fps-2.1.0.jar"
 hash = "8c252246a759ec1d67be6e9866c52086da83517756c34375c046da0aaf916244"
 
 [[files]]
-file = "mods/enhancedblockentities-0.6+1.18.2.jar"
-hash = "5e622bdaf3f443b828f3a47c10d6debce13aa80e047668f8e72e7156b5f6e816"
+file = "mods/entityculling-fabric-1.5.2-mc1.19.jar"
+hash = "0f2e6b299c422bd68966c2917dc20ebb58d20f001676ad71bc20a424d1290e6f"
 
 [[files]]
-file = "mods/entityculling-fabric-mc1.18-1.5.1.jar"
-hash = "e0116c61dc995c8174bf82af3add6ef606107bb8077c66a401e2feb33309ec12"
+file = "mods/fabric-api-0.55.3+1.19.jar"
+hash = "a668dedf2ee06344bf2be2e161f076aca2438dd30f22c6ab8df24ae469f35aea"
 
 [[files]]
-file = "mods/fabric-api-0.53.4+1.18.2.jar"
-hash = "8f5727abd20619d9dd64ea4166cdbeb209300f29c96baa08dfc85ea1a8cc3f13"
+file = "mods/fabric-language-kotlin-1.7.4+kotlin.1.6.21.jar"
+hash = "3ee0f1dce29fcb741bed99de0bf4eb2433c3b6fa8e462a79a030c56259b1f98c"
 
 [[files]]
-file = "mods/fabric-language-kotlin-1.7.2+kotlin.1.6.20.jar"
-hash = "ec373e4cc14303643b54752cca619ac7f2a51174625082799e14e62f43b74ecf"
+file = "mods/fabricskyboxes-1.19-0.5.6.jar"
+hash = "21bbc276412272d1dd3caf4774cf52066db49347d15d21f5d2074227e06a425b"
 
 [[files]]
-file = "mods/fabricskyboxes-1.18.2-0.5.5.jar"
-hash = "acc9997b9ed2ae4b57ff9fe0ded49acbafc98928f73cabfde555bc75317c1285"
+file = "mods/ferritecore-5.0.0-fabric.jar"
+hash = "7b1538d97912e57748dfd6c356073f32a3c2a7dd0c913e66fde055c284d026aa"
 
 [[files]]
-file = "mods/ferritecore-4.2.1-fabric.jar"
-hash = "53302d6c23fb7af39556305d90967011a1eeed148e8566a45d30f1e9e73626c5"
-
-[[files]]
-file = "mods/indium-1.0.3+mc1.18.2.jar"
-hash = "3a4109374bce4848a8bb0e40678a02633cab4e933aafb0e550913e8526b1d2ac"
-
-[[files]]
-file = "mods/iris-mc1.18.2-1.2.4-build.38.jar"
-hash = "45c00e3a58688440af95698c6ce4b57128b1a6a201285718c3770c3a50331bbb"
+file = "mods/iris-mc1.19-1.2.5.jar"
+hash = "da9cef0f6c697be6ede5edd31681d1caf771e3ac9e88d96cfe89573e440da6de"
 
 [[files]]
 file = "mods/krypton-0.1.10-SNAPSHOT.jar"
-hash = "f226d7defa5c7e3820c5450d7d1bbd611756e7e8516373c14f662705e39696d0"
+hash = "ab3e80a94abc8c315e398e9d5306273c8b629f0db8ac36056e293771b273d01d"
 
 [[files]]
-file = "mods/lambdynamiclights-2.1.0+1.17.jar"
-hash = "133da3f478a5388385044ef8f4790b6cb7d4781a05cccba7b76b5e9001ecbe83"
+file = "mods/lazydfu-0.1.3.jar"
+hash = "4f3b77273b57d019a8db58371e63e4426557c1bb7c9cc10536a03972122778c8"
 
 [[files]]
-file = "mods/lazydfu-fabric-0.2.0.jar"
-hash = "e0f247168702c26f55bd32a723e97879677bd4eb1dd66878685073f3b850fe20"
+file = "mods/lithium-fabric-mc1.19-0.8.0-SNAPSHOT.jar"
+hash = "ccd2e836759a6841f4f380696adb5124288725fbbb1ac763ac3907de8e5443d4"
 
 [[files]]
-file = "mods/lithium-fabric-mc1.18.2-0.7.10.jar"
-hash = "fce2a8e9174c4b8210a73e54df6923fc84784ce4c89230cdc5dddddbf366bbbc"
+file = "mods/modmenu-v4.0.0+1.19.d3500c9.jar"
+hash = "4f877f5a639c1291c3ecd76ade2a9fc774699ee57a8cab93f59fb7457fa91d95"
 
 [[files]]
-file = "mods/modmenu-v3.2.2+1.18.40aeba6.jar"
-hash = "f898d2e06b5dfcbae197d29f177501dcd6bdba1b8c3a42b068cd1288d20dddad"
+file = "mods/plumbum-0.1.0-dev.dd17cd2+mc1.19.jar"
+hash = "27d22800a8d7ccdc3beb078975821f4f883b64a8469ce64b1d00d140ebf7a83c"
 
 [[files]]
-file = "mods/reeses_sodium_options-1.4.2+mc1.18.2-build.201.jar"
-hash = "633d9d5a69e1942e9137d9ef59c3364b953b95b3e9adb08049fe2ee37cba6081"
+file = "mods/reeses_sodium_options-1.4.3+mc1.19-build.221.jar"
+hash = "6dc3d472850d9d5618497e486a8995f979014e558fda0fd4b2e2af58df153ba5"
 
 [[files]]
-file = "mods/smoothboot-fabric-1.18.2-1.7.0.jar"
-hash = "af60c5730457970ce240c4a38aacb1067cdab1c9b79fc896cbb10bf7b1b873b5"
+file = "mods/smoothboot-fabric-1.19-1.7.1.jar"
+hash = "f11f5ced2cfb15ced47c0f13e5c8c28c40f649dda4f428f5cf5c72d98b763fa1"
 
 [[files]]
-file = "mods/sodium-extra-0.4.4+mc1.18.2-build.596.jar"
-hash = "03d5c74bf8a7f35dd2f294cf1d9dca09f2115417cc26ed4151ae288d74fbb3af"
+file = "mods/sodium-extra-0.4.5+mc1.19-build.648.jar"
+hash = "1ed161f52aa1f3645d8e2da298c33259317e75ef0c301384e7d5452c26a3ed4b"
 
 [[files]]
-file = "mods/sodium-fabric-mc1.18.2-0.4.1+replaymod.rev.14c9ebb.jar"
-hash = "3859664fa78c7dfe7fdb0fde807c7bb6a11d3769ade61660e13220a95873f13f"
+file = "mods/sodium-fabric-mc1.19-0.4.2+build.16.jar"
+hash = "3bd5e4fc759b8a311dc088502eaeabc49676e4c0b10d380975635c46c71f037d"
 
 [[files]]
-file = "mods/starlight-1.0.2+fabric.a920f5a.jar"
-hash = "2330015a5dcd34b8593da6a4eceddeccd6dc11cfa6ad38a74547298c2caba828"
+file = "mods/starlight-1.1.0+fabric.eb9df34.jar"
+hash = "b51d8b0cdd4db5bdcb8fe55de121fd68cfd060bc2a9c6cd6a21e7bf9d1a8280c"
 
 [[files]]
 file = "mods/yosbr-0.1.1.jar"
 hash = "797b4096ccf2b22a76a28471836a178316042a2f490faea02ab25b75edd5c77a"
 
 [[files]]
-file = "resourcepacks/Default-Dark-Mode-1.18-(v1.3.1).zip"
-hash = "5945b71d05adc0ef740fb02e353cb78b6fd468f6a24aa83218f417dfc489e7e2"
+file = "resourcepacks/Default-Dark-Mode-1.19-v1.3.2.zip"
+hash = "1f9da266671a2341cd40e89e88b19f1c091e7ff76fd91f2d397395ee4d92fe94"
 
 [[files]]
 file = "resourcepacks/Stay_True_1.18.zip"
@@ -309,12 +297,12 @@ file = "resourcepacks/xali's+Enhanced+Jungle+Wood+v1.2.zip"
 hash = "de148b47f329ecabd9f6aab6ad8b7f58710177cacd381aaf25d01122b0252478"
 
 [[files]]
-file = "resourcepacks/xali's+Enhanced+Vanilla+v1.9.2+Fabric.zip"
-hash = "dd73d5e65faa95c007c1e8480c7f9b8253510a2d10a5aa4ff95a5a7b385acc17"
-
-[[files]]
 file = "resourcepacks/xali's+Potions+v1.0.zip"
 hash = "f6d453bd60909dae3218ac4f42bbec8168aee1ded499977837dfe8d4691412ea"
+
+[[files]]
+file = "resourcepacks/xali-s-Enhanced-Vanilla-16x.zip"
+hash = "a6371ad5eab40306daf16440c3cd7381a8353fdf7862067c97bdb1500de8c2fe"
 
 [[files]]
 file = "shaderpacks/BSL_v8.1.02.2.zip"

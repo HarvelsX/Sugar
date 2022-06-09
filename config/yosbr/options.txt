@@ -1,4 +1,4 @@
-version:2975
+version:3105
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -12,6 +12,7 @@ invertYMouse:false
 realmsNotifications:false
 reducedDebugInfo:false
 showSubtitles:false
+directionalAudio:true
 touchscreen:false
 fullscreen:false
 bobView:true
@@ -23,6 +24,7 @@ mouseSensitivity:0.5
 fov:0.0
 screenEffectScale:1.0
 fovEffectScale:1.0
+darknessEffectScale:1.0
 gamma:0.5
 renderDistance:12
 simulationDistance:12
@@ -30,17 +32,16 @@ entityDistanceScaling:1.0
 guiScale:2
 particles:0
 maxFps:260
-difficulty:2
 graphicsMode:1
 ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:5
-renderClouds:true
-resourcePacks:["vanilla","continuity/glass_pane_culling_fix","continuity/default","file/Default-Dark-Mode-1.18-(v1.3.1).zip"]
+renderClouds:"true"
+resourcePacks:["vanilla","Fabric Mods","continuity/default","continuity/glass_pane_culling_fix","file/Default-Dark-Mode-1.19-v1.3.2.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
-soundDevice:
+soundDevice:""
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
@@ -59,7 +60,7 @@ chatScale:1.0
 chatWidth:1.0
 mipmapLevels:4
 useNativeTransport:true
-mainHand:right
+mainHand:"right"
 attackIndicator:1
 narrator:0
 tutorialStep:none
@@ -74,6 +75,8 @@ hideBundleTutorial:false
 syncChunkWrites:false
 showAutosaveIndicator:true
 allowServerListing:true
+chatPreview:true
+onlyShowSecureChat:false
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
 key_key.forward:key.keyboard.w
@@ -115,9 +118,7 @@ key_key.custom_hud.swap_to_profile2:key.keyboard.unknown
 key_key.custom_hud.swap_to_profile3:key.keyboard.unknown
 key_key.dynamicfps.toggle_forced:key.keyboard.unknown
 key_key.dynamicfps.toggle_disabled:key.keyboard.unknown
-key_key.antighost.reveal:key.keyboard.g
 key_key.entityculling.toggle:key.keyboard.unknown
-key_presencefootsteps.settings.key:key.keyboard.unknown
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.gui:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.r
