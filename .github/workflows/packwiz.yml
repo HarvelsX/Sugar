@@ -50,12 +50,29 @@ jobs:
           packwiz refresh
 
           [ -d .output ] && rm -r .output
-          mkdir -p .output
+          [ -d .temp ] && rm -r .temp
+          mkdir -p .output && mkdir -p .temp
+      - name: Setup Java
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'temurin'
+          java-version: '17'
+      - name: Download Packwiz Installer
+        run: |
+          wget https://github.com/packwiz/packwiz-installer-bootstrap/releases/download/v0.0.3/packwiz-installer-bootstrap.jar \
+           -O .temp/packwiz-installer-bootstrap.jar
       - name: Export Modpack
         run: |
-          zip -r .output/${{ needs.info.outputs.package }}.zip . -x@.packwizignore
           packwiz curseforge export -o .output/${{ needs.info.outputs.package }}.curseforge.zip
           packwiz modrinth export -o .output/${{ needs.info.outputs.package }}.mrpack
+
+
+          pack=file://`realpath pack.toml`
+          cd .temp && java -jar packwiz-installer-bootstrap.jar -g $pack
+          zip -r ../.output/${{ needs.info.outputs.package }}.zip . \
+           -x 'packwiz-installer-bootstrap.jar' \
+           -x 'packwiz-installer.jar' \
+           -x 'packwiz.json'
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
         with:

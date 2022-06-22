@@ -158,7 +158,7 @@ hash = "b7607a31becc79d590da87b05cef5aa87561a65c91b1694cf612e441e4582369"
 
 [[files]]
 file = "mods/animatica.toml"
-hash = "99702e7480239e8296af64f27fa00a0ef91c70126bd9bc5a20981013bad29908"
+hash = "73a38a29fd5bda1adbe076ffe55504e613446dc279443bddb5ec7f1798707acb"
 metafile = true
 
 [[files]]
@@ -188,17 +188,12 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "749bf88d67ff9ddf272dc48d82402dd61ea2812238dfca4feb1fd78440675456"
-metafile = true
-
-[[files]]
-file = "mods/continuity.toml"
-hash = "cf8d24d6e094441518274d53d09918204dfdad7e27a5b5b8046a002717784891"
+hash = "c633f84bb8c2e5372d3ed9f6784499edbac49c09e5c4a1dbe5ab4dff1e4ecac7"
 metafile = true
 
 [[files]]
 file = "mods/customhud.toml"
-hash = "b477dfc96817ca4b45bf01e2a5a6271eba7565e6f2584d8d604b775406705875"
+hash = "47e49a4959938fbee306a08885742bb1c48afaa8d86dfb90449659fa97b53562"
 metafile = true
 
 [[files]]
@@ -209,11 +204,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.toml"
 hash = "3265f222db672bcdfa21451076533d8de23be78c2d970ea7baad5a9f36a5818d"
-metafile = true
-
-[[files]]
-file = "mods/dynamicsurroundings.toml"
-hash = "eb76d3fac78e51470145cf9f3cd351b446166d1fa7d418b666133ee5bcc908b0"
 metafile = true
 
 [[files]]
@@ -247,11 +237,6 @@ hash = "8f17330016dad5b98d380f4b06ce6e731bf79be3d2aac7482153a73ea7baabc2"
 metafile = true
 
 [[files]]
-file = "mods/indium.toml"
-hash = "ad30275f575d880de4b76e12329545bad4c8baeba3dd28a5ee2daf31a1e8db28"
-metafile = true
-
-[[files]]
 file = "mods/iris.toml"
 hash = "ba5465d045dad7c42e42076cea481015afc8af5a00dd59c6a66ad87c68c6f721"
 metafile = true
@@ -282,8 +267,16 @@ hash = "e1048d6a7224ac37724bbf50c443b5446ae2730813cf315dd6cfe168fe4f1121"
 metafile = true
 
 [[files]]
+file = "mods/ok_zoomer.toml"
+hash = "424a609c01d74fe962c2e5ad9b671f93092cacb08539b06314b318153da96334"
+
+[[files]]
+file = "mods/plumbum.toml"
+hash = "1e527ddbc9bad6f800b29e01d3909a646426484340aed246b78ad2a0ed622548"
+
+[[files]]
 file = "mods/presencefootsteps.toml"
-hash = "8c4660b6d6fc638997e3426214a84293c1a89b622e58388f2af2baad60d6ca29"
+hash = "14d65dbfca0adaa478ab8e2d500d5283a961af8bf7808c945b22dd1635ba0900"
 metafile = true
 
 [[files]]
@@ -293,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/smoothboot.toml"
-hash = "72a68366072f2c89f2695ebca67c8a2206017d6786736f1c140fa97081ad7a83"
+hash = "ae1e97117fafe6ab35d60155464a7ebd854f53faf1860cafbf25b14a0319cc2d"
 metafile = true
 
 [[files]]
@@ -303,12 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4bfa59263c3c2e8b8435eecdd8a944d1345b4b249191ccbadc953f3417b93608"
-metafile = true
-
-[[files]]
-file = "mods/sodium.toml"
-hash = "4b9cb12146b01070630489849061cf95a3fdc49c33c08964a7bb39d6d84db42f"
+hash = "a1066fb80c5552a8b50dc601d0bbf6cb86f05188e9ba9c44abd08ef2494cef8f"
 metafile = true
 
 [[files]]
@@ -318,17 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.toml"
-hash = "47195ba473d471de492386e0082ee547b23a2801d3de8ac33721765323d226a4"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.toml"
-hash = "e547af9bb6f877c4fab75a44f4f2b0e1a1c4d12f6288a00f9cff9ec3474ec960"
+hash = "11a8a3942a98d9fdc4bea427e85703387272c80ea66e05cba061fe64e4e07846"
 metafile = true
 
 [[files]]
