@@ -3,7 +3,7 @@ filename = "custom_hud-2.0.0+1.19.jar"
 side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/HarvelsX/Sugar/packwiz/1.19/mods/custom_hud-2.0.0%2B1.19.jar"
+url = "https://raw.githubusercontent.com/HarvelsX/Sugar/packwiz/1.19.x/mods/custom_hud-2.0.0%2B1.19.jar"
 hash-format = "sha1"
 hash = "ec3ff298be6be2046e440342d3a28388e0155d6f"
 
