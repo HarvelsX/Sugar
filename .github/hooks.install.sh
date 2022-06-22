@@ -2,9 +2,9 @@
 
 readonly GIT_BASE=$(git rev-parse --show-toplevel)
 readonly HOOKS_DIR="$GIT_BASE/.git/hooks"
-readonly PUBLIC_HOOKS_DIR='./hooks'
+readonly PUBLIC_HOOKS_DIR='.github/hooks'
 
-for filename in $PUBLIC_HOOKS_DIR/*
+for filename in "${GIT_BASE}/$PUBLIC_HOOKS_DIR"/*
 do
     [ -e "$filename" ] || continue
 
@@ -24,7 +24,7 @@ do
     
     cat << EOF > "$HOOKS_DIR/$hookreal"
 #!/bin/sh
-. $hookpath
+[ -e "./${hookreal}" ] && . $hookpath
 [ -e "./${hookreal}.local" ] && . ./${hookreal}.local
 exit 0
 EOF
