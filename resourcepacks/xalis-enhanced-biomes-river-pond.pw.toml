@@ -1,0 +1,13 @@
+name = "xali's Enhanced Biomes: River & Pond"
+filename = "xali's Enchanced Biome River  Pond v1.2.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1241b9a6b3665897cb7b52da4f68be4003eb716a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3661992
+project-id = 534154

@@ -1,0 +1,13 @@
+name = "xali's Enhanced Jungle Wood"
+filename = "xali's Enhanced Jungle Wood v1.2.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c989fcc4a39c39a844f6e54c698082616d00ce05"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3447708
+project-id = 518221

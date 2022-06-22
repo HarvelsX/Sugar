@@ -312,59 +312,70 @@ hash = "11a8a3942a98d9fdc4bea427e85703387272c80ea66e05cba061fe64e4e07846"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Default-Dark-Mode-1.18-(v1.3.1).zip"
-hash = "5945b71d05adc0ef740fb02e353cb78b6fd468f6a24aa83218f417dfc489e7e2"
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "57d1c00877e829b0dc769a0fa9311e6a178529377404cdfa810aba041ee07dc1"
+metafile = true
 
 [[files]]
-file = "resourcepacks/Stay_True_1.18.zip"
-hash = "fa057d04cdddad36d3c0600f0a1c26aaddf83ce1fa70fab342ac11267ed85602"
-
-[[files]]
-file = "resourcepacks/xali's+Bushy+Leaves+v2.0.zip"
-hash = "ae7252cd653ca7796890a3a8883a8f085081578bab7809675befc4583aab8963"
-
-[[files]]
-file = "resourcepacks/xali's+Enchanced+Biome+River++Pond+v1.2.2.zip"
-hash = "7abb7abd15fef2a291ba269ed0d796c939b017ce7a7e0f7c5fe9360f16bcf3bd"
-
-[[files]]
-file = "resourcepacks/xali's+Enchanted+Books+v0.9.zip"
-hash = "2dfd2799c25b68b58802af81ab27265f569b979368a5f95013d8806d77de4562"
-
-[[files]]
-file = "resourcepacks/xali's+Enhanced+Jungle+Wood+v1.2.zip"
-hash = "de148b47f329ecabd9f6aab6ad8b7f58710177cacd381aaf25d01122b0252478"
+file = "resourcepacks/stay-true.pw.toml"
+hash = "f09cd5f1b0d71c8e70be3e00b6091de249d5a50f5c5a40b463fddaea504516cc"
+metafile = true
 
 [[files]]
 file = "resourcepacks/xali's+Enhanced+Vanilla+v1.9.2+Fabric.zip"
 hash = "dd73d5e65faa95c007c1e8480c7f9b8253510a2d10a5aa4ff95a5a7b385acc17"
 
 [[files]]
-file = "resourcepacks/xali's+Potions+v1.0.zip"
-hash = "f6d453bd60909dae3218ac4f42bbec8168aee1ded499977837dfe8d4691412ea"
+file = "resourcepacks/xalis-bushy-leaves.pw.toml"
+hash = "d066f173050823a88ddbf70ef6a282a2843fce2468e6d002c116b217fbc1ba24"
+metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v8.1.02.2.zip"
-hash = "c49f09145cba2993929eefdc4fec39467e58351ac194c7e3fe5401751a0c5729"
+file = "resourcepacks/xalis-enchanted-books.pw.toml"
+hash = "d11d13f1c21c9dec5c35f013ccdfcdc6e943fd7e35597e7fd9e59eeb105735e0"
+metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v8.1.02.2.zip.txt"
+file = "resourcepacks/xalis-enhanced-biomes-river-pond.pw.toml"
+hash = "657760ca3c1d2a274e31c2f385d68bf0cca71f67054d882d9ca14ffd63ff70bc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enhanced-jungle-wood.pw.toml"
+hash = "5f59a064216fbe13d59d697f34b0312ff1f29237f830a206a6d4122f04197fb1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-potions.pw.toml"
+hash = "a9d8d6ed9e5914a75757d29e867d42db75d0e4ec2ba59fc0741e54ea3155a4c8"
+metafile = true
+
+[[files]]
+file = "shaderpacks/BSL_v8.1.02.3.zip"
+hash = "32ae9c7f40fdc01e017ebcbdf5d9f3f551a4843ab91c958c3a172ae3926402f6"
+
+[[files]]
+file = "shaderpacks/BSL_v8.1.02.3.zip.txt"
 hash = "7d79d063d033b8780cff987e55ea7d30f0129d926a511e02467bc89ab8eb2fa2"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.4.zip"
-hash = "297e2947c1986ba2faefdd3f2e0aa365b3e6dfd308853baae70821b393c06861"
+file = "shaderpacks/ComplementaryReimagined_r1.0.zip"
+hash = "a5f89dbcce379743fee98b0a15fd74f67bc49513c54aaa593bfa98a17f3a9125"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.4.zip.txt"
+file = "shaderpacks/ComplementaryShaders_v4.5.zip"
+hash = "55de6d68796f5db8752593b645f25f631ab7eadd8dcf460677b5c619dea4474d"
+
+[[files]]
+file = "shaderpacks/ComplementaryShaders_v4.5.zip.txt"
 hash = "dacf0fb9fd1531579d2e0f8c6b1c40bb1c891b1bfba774f01b89ea6a91caf434"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.4_NS.zip"
-hash = "297e2947c1986ba2faefdd3f2e0aa365b3e6dfd308853baae70821b393c06861"
+file = "shaderpacks/ComplementaryShaders_v4.5_NS.zip"
+hash = "55de6d68796f5db8752593b645f25f631ab7eadd8dcf460677b5c619dea4474d"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.4_NS.zip.txt"
+file = "shaderpacks/ComplementaryShaders_v4.5_NS.zip.txt"
 hash = "92a6d1c4993230beee660a4afd1f1127b5d40c9115ce0302b9be7d07f93f7237"
 
 [[files]]
