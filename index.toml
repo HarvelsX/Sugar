@@ -158,7 +158,7 @@ hash = "b7607a31becc79d590da87b05cef5aa87561a65c91b1694cf612e441e4582369"
 
 [[files]]
 file = "mods/animatica.toml"
-hash = "396fc0c4ff85afed8acec2b1eebc5edb56144e04fb75cc6c5d2aceebb3d1c115"
+hash = "57338d2dfc5c752023a184cc17ae40244a68ba4e1e60bdebdea5e596ddc36d41"
 metafile = true
 
 [[files]]

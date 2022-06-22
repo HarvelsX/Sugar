@@ -24,8 +24,8 @@ do
     
     cat << EOF > "$HOOKS_DIR/$hookreal"
 #!/bin/sh
-[ -e "./${hookreal}" ] && . $hookpath
-[ -e "./${hookreal}.local" ] && . ./${hookreal}.local
+[ -e "./${hookpath}" ] && . $hookpath
+[ -e "./.git/hooks/${hookreal}.local" ] && . .git/hooks/${hookreal}.local
 exit 0
 EOF
     echo "Added '${hookreal}' hook"
