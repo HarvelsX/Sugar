@@ -158,7 +158,7 @@ hash = "b7607a31becc79d590da87b05cef5aa87561a65c91b1694cf612e441e4582369"
 
 [[files]]
 file = "mods/animatica.toml"
-hash = "73a38a29fd5bda1adbe076ffe55504e613446dc279443bddb5ec7f1798707acb"
+hash = "396fc0c4ff85afed8acec2b1eebc5edb56144e04fb75cc6c5d2aceebb3d1c115"
 metafile = true
 
 [[files]]
@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/customhud.toml"
-hash = "47e49a4959938fbee306a08885742bb1c48afaa8d86dfb90449659fa97b53562"
+hash = "0c4f1fdee9ca5589c1527109aca27793bbc317687569fe5e6323b1d0cdc60682"
 metafile = true
 
 [[files]]
@@ -268,11 +268,11 @@ metafile = true
 
 [[files]]
 file = "mods/ok_zoomer.toml"
-hash = "424a609c01d74fe962c2e5ad9b671f93092cacb08539b06314b318153da96334"
+hash = "82f5ba5b639a1e8a2a602aa4fe9e5e9bf69a10d4564513ae33a39046342f6b1d"
 
 [[files]]
 file = "mods/plumbum.toml"
-hash = "1e527ddbc9bad6f800b29e01d3909a646426484340aed246b78ad2a0ed622548"
+hash = "6fcc4432a312f715843ec9963af1d8e0076f9533f1f73c3321b241381ca11818"
 
 [[files]]
 file = "mods/presencefootsteps.toml"
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/smoothboot.toml"
-hash = "ae1e97117fafe6ab35d60155464a7ebd854f53faf1860cafbf25b14a0319cc2d"
+hash = "0327a413635ec339c8d50cb4c436a326e8d6198b43d2ebffe7859a0c18dbcbd5"
 metafile = true
 
 [[files]]
