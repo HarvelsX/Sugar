@@ -1,11 +1,11 @@
 name = "Animatica"
-filename = "animatica-0.5+1.18.2.jar"
+filename = "animatica-0.4+1.19.jar"
 side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/HarvelsX/Sugar/packwiz/1.19.x/mods/animatica-0.5+1.18.2.jar"
+url = "https://raw.githubusercontent.com/HarvelsX/Sugar/packwiz/1.19.x/mods/animatica-0.4+1.19.jar"
 hash-format = "sha1"
-hash = "558e099696c1c7a7b9bc7d804a9cd85a0c6a4eac"
+hash = "da07c0c6ad0c49e9975cd939efcc285eedc67588"
 
 [update]
 [update.modrinth]
