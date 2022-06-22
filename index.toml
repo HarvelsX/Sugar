@@ -322,13 +322,12 @@ hash = "f09cd5f1b0d71c8e70be3e00b6091de249d5a50f5c5a40b463fddaea504516cc"
 metafile = true
 
 [[files]]
-file = "resourcepacks/xali's+Enhanced+Vanilla+v1.9.2+Fabric.zip"
-hash = "dd73d5e65faa95c007c1e8480c7f9b8253510a2d10a5aa4ff95a5a7b385acc17"
+file = "resourcepacks/xali's Bushy Leaves v2.0.zip"
+hash = "ae7252cd653ca7796890a3a8883a8f085081578bab7809675befc4583aab8963"
 
 [[files]]
-file = "resourcepacks/xalis-bushy-leaves.pw.toml"
-hash = "d066f173050823a88ddbf70ef6a282a2843fce2468e6d002c116b217fbc1ba24"
-metafile = true
+file = "resourcepacks/xali-s-Enhanced-Vanilla-16x.zip"
+hash = "c48164ab7c43623808140aa3155257a84efc884d164d7203e2a55d79df38e495"
 
 [[files]]
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
