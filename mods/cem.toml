@@ -3,14 +3,14 @@ filename = "cem-0.7.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YOQCucah/versions/0.7.1/cem-0.7.1.jar"
+url = "https://cdn.modrinth.com/data/YOQCucah/versions/0.7.1-1.19/cem-0.7.1.jar"
 hash-format = "sha1"
-hash = "cdee86c59231dbe6df3aa17cfa2041221346306b"
+hash = "96c943ee9282945877fe85e7c474ccddbaca0401"
 
 [update]
+[update.curseforge]
+file-id = 3821136
+project-id = 477078
 [update.modrinth]
 mod-id = "YOQCucah"
-version = "G6KoWsNJ"
-[update.curseforge]
-file-id = 3709988
-project-id = 477078
+version = "pobVcvCg"

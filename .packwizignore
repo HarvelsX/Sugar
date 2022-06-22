@@ -16,10 +16,13 @@
 /README.md
 
 # Exclude exported CurseForge zip files
-#*.zip
+*.zip
 
 # Exclude exported Modrinth modpacks
-#*.mrpack
+*.mrpack
+
+# Exclude jars fro zip exporter
+*.jar
 
 # Exclude output directory
 .output/

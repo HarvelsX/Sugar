@@ -1,8 +1,0 @@
-name = "Zoomify"
-filename = "Zoomify-1.6.0.jar"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/HarvelsX/Sugar/a33cf1b29d6d875b87eb67e37bbcf6f13d49d9a3/mods/Zoomify-1.6.0.jar"
-hash-format = "sha1"
-hash = "7a0c41341b1484685ee4ce9709095757942efe53"

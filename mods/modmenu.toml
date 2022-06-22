@@ -1,16 +1,16 @@
 name = "Mod Menu"
-filename = "modmenu-3.2.2.jar"
+filename = "modmenu-4.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3.2.2/modmenu-3.2.2.jar"
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.0/modmenu-4.0.0.jar"
 hash-format = "sha1"
-hash = "d581615296b1dfb72477c984a43cc6891f75eb73"
+hash = "04be7e499bf67be0fea40d15f17a9ec47f21c309"
 
 [update]
+[update.curseforge]
+file-id = 3821162
+project-id = 308702
 [update.modrinth]
 mod-id = "mOgUt4GM"
-version = "GYRoFp1I"
-[update.curseforge]
-file-id = 3789482
-project-id = 308702
+version = "Tk7mCRX1"

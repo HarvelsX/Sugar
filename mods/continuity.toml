@@ -1,8 +1,0 @@
-name = "Continuity"
-filename = "continuity-2.0.0-beta.11.18.2.jar"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/HarvelsX/Sugar/a33cf1b29d6d875b87eb67e37bbcf6f13d49d9a3/mods/continuity-2.0.0-beta.11.18.2.jar"
-hash-format = "sha1"
-hash = "94514845536884ff3777f3b55fd564bafd808282"

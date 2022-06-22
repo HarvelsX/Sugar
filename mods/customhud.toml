@@ -1,11 +1,11 @@
 name = "CustomHud"
-filename = "custom_hud-2.0.0-beta.2+1.18.2.jar"
+filename = "custom_hud-2.0.0+1.19.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6jis0UTI/versions/v2.0.0-beta.2+1.18/custom_hud-2.0.0-beta.2%2B1.18.2.jar"
+url = "https://raw.githubusercontent.com/HarvelsX/Sugar/packwiz/1.19/mods/custom_hud-2.0.0%2B1.19.jar"
 hash-format = "sha1"
-hash = "491bb0feff7fc2d07af7c9d943d8ba603c5eb535"
+hash = "ec3ff298be6be2046e440342d3a28388e0155d6f"
 
 [update]
 [update.modrinth]

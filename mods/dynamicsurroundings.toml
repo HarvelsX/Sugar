@@ -1,8 +1,0 @@
-name = "Dynamic Surroundings"
-filename = "DynamicSurroundings-Fabric-1.18.2-0.0.4.jar"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/HarvelsX/Sugar/a33cf1b29d6d875b87eb67e37bbcf6f13d49d9a3/mods/DynamicSurroundings-Fabric-1.18.2-0.0.4.jar"
-hash-format = "sha1"
-hash = "d5b4dcad70ca900544e0c477fa07940af6b120a6"

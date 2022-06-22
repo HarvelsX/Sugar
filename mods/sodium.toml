@@ -1,8 +1,0 @@
-name = "Sodium"
-filename = "sodium-fabric-mc1.18.2-0.4.1+replaymod.rev.14c9ebb.jar"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/HarvelsX/Sugar/a33cf1b29d6d875b87eb67e37bbcf6f13d49d9a3/mods/sodium-fabric-mc1.18.2-0.4.1%2Breplaymod.rev.14c9ebb.jar"
-hash-format = "sha1"
-hash = "2f5f8ca8f98ddb71595d8605736aa28c43f8e30b"

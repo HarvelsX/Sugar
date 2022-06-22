@@ -1,8 +1,16 @@
 name = "Presence Footsteps"
-filename = "PresenceFootsteps-1.6.0-beta.0.4+453aee4.jar"
+filename = "PresenceFootsteps-1.6.0.jar"
 side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/HarvelsX/Sugar/a33cf1b29d6d875b87eb67e37bbcf6f13d49d9a3/mods/PresenceFootsteps-1.6.0-beta.0.4%2B453aee4.jar"
+url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/1.6.0/PresenceFootsteps-1.6.0.jar"
 hash-format = "sha1"
-hash = "d02d29aea2d84c8442f77e86a4e60157bb4f3096"
+hash = "7b79462bc64dd014e9cc715f8b658254fd7285cc"
+
+[update]
+[update.curseforge]
+file-id = 3832054
+project-id = 334259
+[update.modrinth]
+mod-id = "rcTfTZr3"
+version = "cXdGDBED"
