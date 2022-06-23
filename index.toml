@@ -158,7 +158,7 @@ hash = "27cab8a836de9d275304b4b09b7b84705fdf731b1e0b7d5281b28ba922bf0b77"
 
 [[files]]
 file = "config/yosbr/config/presencefootsteps/userconfig.json"
-hash = "f17ffb2f788e33170244f5a90e68e1c0b15d56d4f95eec44a306c4a048cc80ff"
+hash = "1890ea27b71be62be8086475c299816355e3626a17efb97f546ab2af5a0489a4"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
