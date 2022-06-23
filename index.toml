@@ -14,7 +14,7 @@ hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "bd07f43c130bff592d9706786661aa8214e2f1db03a0f84a7ed5a0905b58969f"
+hash = "c77bd2395476b35c0f31cac8af99e8a884966d4dc98b6e73076d28940c50004e"
 
 [[files]]
 file = "config/enhanced_bes.properties"
@@ -22,7 +22,7 @@ hash = "1023b0837be2b272bf2b57a697be47e28f96077f5a89b5477aa5f30b041e1849"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "ca11922dcbb28c9850d7936fc4a54313d9307209de5773faa01422b36b4e4ed9"
+hash = "90e1fa6edcf99f841564c062ae229150392b9a5c1d280384d82bc20ce3f73e73"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -30,7 +30,7 @@ hash = "647c97bf8ba08a082324b85ed87ae43356109953b4140fe57847cf7b97448ecd"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "61f0a1fda89c3b074524cc7d547e82e834ed865d7b0fa5f8759743e247ef3dc5"
+hash = "ed2a0feac913b8da6e30346a26816747775e4d6e277ab54180cfefecc7f1f673"
 
 [[files]]
 file = "config/lithium.properties"
@@ -38,7 +38,11 @@ hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "2a2731781cd12df505a5621664033528c937cc03098a16813a2aabaff77b0daf"
+hash = "637e58a6ca25de9f21e607aa9178fe7acf1f24e215f55e8c58cadb606d516b0b"
+
+[[files]]
+file = "config/notenoughcrashes.json"
+hash = "8deed1a37e1d8b3741c5059ec8351ab8855ea44614ae22b2c377f9d3c7b34aaf"
 
 [[files]]
 file = "config/rrp.properties"
@@ -46,7 +50,7 @@ hash = "2a0ee9ed8592fb7f705319f1cb0a6fa20d9df62c7dff164d22dd2e2db7aab900"
 
 [[files]]
 file = "config/smoothboot.json"
-hash = "ef0da58321c3c51b170d3c28ef408186528911cc7ddce8cd9d25db81b0ff4b00"
+hash = "bc07be95a3be930e8343305b89151b258308ff12539b624a300c117515f34166"
 
 [[files]]
 file = "config/sodium-extra.properties"
@@ -57,8 +61,12 @@ file = "config/sodium-mixins.properties"
 hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
+file = "config/tr7zwDonorSettings.json"
+hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
+
+[[files]]
 file = "config/yosbr/config/capes.json5"
-hash = "e5060864e91e00a9c7ea96084986ca4fd8ba21c2e612005329ffb5274dee643d"
+hash = "26f7730b69277b55dc6346922a581b76375bb6166e0b132e4539f26cccf059aa"
 
 [[files]]
 file = "config/yosbr/config/cem.conf"
@@ -70,7 +78,11 @@ hash = "ec350db1d59f642c8aef73e5e0cb12e25ce73772df7dc01fd1a58a44a5aac735"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
-hash = "6e7205e1be0d650e7ccfca941ad1c0580eb21d2fa868917dd0fc46ece97c6e6e"
+hash = "5cfce116aa6093c24be3ced3b50a348d4aa426eb4ebcf5705f3c094512c767d2"
+
+[[files]]
+file = "config/yosbr/config/colormatic.properties"
+hash = "a5b1d9812710d5ce62f7084a180f9b4b76c19d8680d4c47ab29029e3fb0e0cd2"
 
 [[files]]
 file = "config/yosbr/config/continuity.json"
@@ -86,7 +98,7 @@ hash = "74efe4642640ba19537becf0f2dbf7a34d957d3902b88f5e0a53fec9a9b28796"
 
 [[files]]
 file = "config/yosbr/config/custom-hud/profile1.txt"
-hash = "f86ce3b4b3d35cbc0cea4b4871692950fbba6546138b11c29774341a2cb695bb"
+hash = "10e935e4b1c0552faea9245a6ca74168f3dfa2fdc3da0bd68e2570508b8a5144"
 
 [[files]]
 file = "config/yosbr/config/custom-hud/profile2.txt"
@@ -97,12 +109,16 @@ file = "config/yosbr/config/custom-hud/profile3.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "config/yosbr/config/dark-loading-screen.json"
+hash = "d3080de85fca8a9739311537e74161aaa0e592a474a351e8b3da77a6123de2f2"
+
+[[files]]
 file = "config/yosbr/config/debugify-descriptions.json"
-hash = "09bf0e71673cb6fed6f113d3990a6625594e3dddd73f86dd51b6730ce5132e9a"
+hash = "d47b5a3b045767e910984a11cd79fb2a153f896d503415e416e8800e64bca13a"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
-hash = "7e9af2d30aef41c094ecb6dd2392175b048032bf5b036d5b25f73342ef9f337a"
+hash = "10d75016499501468909dd59d1cbba54a6faecf477e4e1d64048086cf42d27b6"
 
 [[files]]
 file = "config/yosbr/config/dsurround/dsurround.json"
@@ -117,16 +133,24 @@ file = "config/yosbr/config/dynamicfps.toml"
 hash = "a0cc42b4a1efc18fff1caeabf9df716f19bf8d00f7718e61eea81c013c85cd88"
 
 [[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "8085d9a66c3b0bcd1967f8d4fd81e05ed012a47711a3fafef5d7be93a64086ca"
+
+[[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
-hash = "4d69a1041bd18535cdfd4af6687e3f5ed9b6f7d37d9f8232e2b73531d56f019c"
+hash = "59a99699b4aac8aa55958998e5d590081d5764d20a0d9085913eef9078b2a63e"
+
+[[files]]
+file = "config/yosbr/config/forcecloseloadingscreen.json"
+hash = "1e822abbeacb632b8614ab25af8b331328adaecdf8df48e5344a10ed11b521c8"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "d300cceffd18bd93bd59a381e7c71ca7d00a22c52c9e26aa28a7d3ce4cf03410"
+hash = "75c7b5ebf82edf1e3a26774c98ff891bb3e0e3d2f072b93ca94637e713b26350"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "1e5b1e2aab8d820511e99234e5d7312cda9fd2f08e526547644738ef4d200e7f"
+hash = "4ade8a7e1188200cc40242f832ca87d193791ef91551e5e30d23c19f61887b23"
 
 [[files]]
 file = "config/yosbr/config/presencefootsteps/updater.json"
@@ -134,23 +158,27 @@ hash = "27cab8a836de9d275304b4b09b7b84705fdf731b1e0b7d5281b28ba922bf0b77"
 
 [[files]]
 file = "config/yosbr/config/presencefootsteps/userconfig.json"
-hash = "67ea251881c0224bc51b26993b3d7ec29c7b012c696176f8208a9f7ed19c73b8"
+hash = "f17ffb2f788e33170244f5a90e68e1c0b15d56d4f95eec44a306c4a048cc80ff"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
-hash = "643d6ed0447a9d99bfa2ed66f68768bbc43d66852ef1d3147f2ca8dd5d55af0d"
+hash = "87e4f9058aae2d30fc25d2230b2b92eb5bcbe75f7efe2e97f4cdeb434482ebf1"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "e467b61963b8f8d78efd9971c266473100e29e084a22a604c4e5296608d1a1fb"
 
 [[files]]
+file = "config/yosbr/config/thorium/thorium.conf"
+hash = "61c29f6c9caa167e2cd15913c12389d7d403959d95ac0b04dfc6040f3103bb9f"
+
+[[files]]
 file = "config/yosbr/config/zoomify.json"
-hash = "35d536ff2703b1043c67844c638cad2670323722541b9eda60be9af0facd1bf6"
+hash = "065ac823dfc151710f430fa135d6ed96dfb6553437a74078d5fdd8c35dfdaec1"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "7ecf2aeb1d35db9e16254cef59a8c54675b37717be63fc790f377e90e2871414"
+hash = "eff7e1cf449b69a50cdde170aa565f1f6ae35d7bbb78e613d55f2fe729a5da17"
 
 [[files]]
 file = "icon.png"
@@ -262,6 +290,16 @@ hash = "8f17330016dad5b98d380f4b06ce6e731bf79be3d2aac7482153a73ea7baabc2"
 metafile = true
 
 [[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "8bb8e8e7815eca7234becc1d2912d7fe5eb554eab36a6d72ab9f42c5d319abaa"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "ba5465d045dad7c42e42076cea481015afc8af5a00dd59c6a66ad87c68c6f721"
 metafile = true
@@ -304,11 +342,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "d5377c385f8ee0742f5dcdc4fdc5372f40326b7d17b867b739bebfd547b33f8f"
-metafile = true
-
-[[files]]
-file = "mods/plumbum.pw.toml"
-hash = "6fcc4432a312f715843ec9963af1d8e0076f9533f1f73c3321b241381ca11818"
 metafile = true
 
 [[files]]
