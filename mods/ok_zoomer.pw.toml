@@ -1,8 +1,0 @@
-name = "Ok Zoomer"
-filename = "ok_zoomer-5.0.0-beta.7+1.18.2.github.198.jar"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/HarvelsX/Sugar/packwiz/1.19.x/mods/ok_zoomer-5.0.0-beta.7+1.18.2.github.198.jar"
-hash-format = "sha1"
-hash = "ead35600caf7fb43041728eefe542a9bd63f10c6"

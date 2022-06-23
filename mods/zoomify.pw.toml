@@ -1,0 +1,8 @@
+name = "Zoomify"
+filename = "Zoomify-1.6.0.jar"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/HarvelsX/Sugar/packwiz/1.19.x/mods/Zoomify-1.6.0.jar"
+hash-format = "sha1"
+hash = "3349ab6b6ab8e093dbb1df830b5cea8b1408e1a1"

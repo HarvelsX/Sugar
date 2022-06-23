@@ -187,6 +187,11 @@ hash = "ded323c47cbea8ba9eee449c9927661806a053a9360c9f074287365e2ca9053e"
 metafile = true
 
 [[files]]
+file = "mods/clean-f3.pw.toml"
+hash = "f715518ba31b1f59c31dc5757f0508e00e395f7df89843eff6c4065ae85b4609"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "c633f84bb8c2e5372d3ed9f6784499edbac49c09e5c4a1dbe5ab4dff1e4ecac7"
 metafile = true
@@ -194,6 +199,11 @@ metafile = true
 [[files]]
 file = "mods/customhud.pw.toml"
 hash = "0c4f1fdee9ca5589c1527109aca27793bbc317687569fe5e6323b1d0cdc60682"
+metafile = true
+
+[[files]]
+file = "mods/dcch.pw.toml"
+hash = "b11b5ab481ed0686b8ebd2e7b0ef2718914c87ed58bf3af7a43fee119acd597e"
 metafile = true
 
 [[files]]
@@ -262,13 +272,23 @@ hash = "4b1ea57342adee4c671bf40141a8a9a2bc49404be5771bf135b705879ae61441"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "dc1f47a526f2264dc215437a81668d54c084d5beaaa6cbf6e284b88a59af88b5"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e1048d6a7224ac37724bbf50c443b5446ae2730813cf315dd6cfe168fe4f1121"
 metafile = true
 
 [[files]]
-file = "mods/ok_zoomer.pw.toml"
-hash = "82f5ba5b639a1e8a2a602aa4fe9e5e9bf69a10d4564513ae33a39046342f6b1d"
+file = "mods/moreculling.pw.toml"
+hash = "863a1aafb79c5db742011bf4af2b5148bfdff756c1db24b3dd8b91f856428368"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "d5377c385f8ee0742f5dcdc4fdc5372f40326b7d17b867b739bebfd547b33f8f"
 metafile = true
 
 [[files]]
@@ -279,6 +299,11 @@ metafile = true
 [[files]]
 file = "mods/presencefootsteps.pw.toml"
 hash = "14d65dbfca0adaa478ab8e2d500d5283a961af8bf7808c945b22dd1635ba0900"
+metafile = true
+
+[[files]]
+file = "mods/purpurclient.pw.toml"
+hash = "de33bbf8096ed18cd8556acfeca380f1450033efe135f602d782f05ba00df0b9"
 metafile = true
 
 [[files]]
@@ -307,8 +332,18 @@ hash = "50bf967a8ba80d17248a5f7583921b0e16808d3660c3fa4fbec5b2c078495bf7"
 metafile = true
 
 [[files]]
+file = "mods/thorium.pw.toml"
+hash = "4c4d2536667772d662fd93e4ee3d31a2fff1750f6bf9c875ca37f5b51cf0555e"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.pw.toml"
 hash = "11a8a3942a98d9fdc4bea427e85703387272c80ea66e05cba061fe64e4e07846"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "cbe4bfb7e2d93a1ffc169e91f3a945b8cb8ab83ab25cd0fe5659eaa7499f6bec"
 metafile = true
 
 [[files]]
