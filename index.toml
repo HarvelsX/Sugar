@@ -146,7 +146,7 @@ hash = "1e822abbeacb632b8614ab25af8b331328adaecdf8df48e5344a10ed11b521c8"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "75c7b5ebf82edf1e3a26774c98ff891bb3e0e3d2f072b93ca94637e713b26350"
+hash = "bf9221ed68d236327f6bff58cec9a223db0500d790ffd9ec3222da5045f003fe"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -440,12 +440,16 @@ file = "shaderpacks/ComplementaryReimagined_r1.0.zip"
 hash = "a5f89dbcce379743fee98b0a15fd74f67bc49513c54aaa593bfa98a17f3a9125"
 
 [[files]]
+file = "shaderpacks/ComplementaryReimagined_r1.0.zip.txt"
+hash = "6950c892c66f8556b5b54fbfb037a02fd7b258c8b130933ed3527693152866b0"
+
+[[files]]
 file = "shaderpacks/ComplementaryShaders_v4.5.zip"
 hash = "55de6d68796f5db8752593b645f25f631ab7eadd8dcf460677b5c619dea4474d"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.5.zip.txt"
-hash = "dacf0fb9fd1531579d2e0f8c6b1c40bb1c891b1bfba774f01b89ea6a91caf434"
+hash = "cd950b000a4b7cbba58337497c0185795cb381ee72cfb5c083a05c68c459dcd5"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.5_NS.zip"
@@ -453,7 +457,7 @@ hash = "55de6d68796f5db8752593b645f25f631ab7eadd8dcf460677b5c619dea4474d"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.5_NS.zip.txt"
-hash = "92a6d1c4993230beee660a4afd1f1127b5d40c9115ce0302b9be7d07f93f7237"
+hash = "3f7fb0aec4ee921f80dbb944dac54a4df24e803be9607b750b03be16c37cad69"
 
 [[files]]
 file = "shaderpacks/Prismarine+V4.2a.zip"
