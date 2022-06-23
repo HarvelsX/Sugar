@@ -187,8 +187,13 @@ hash = "ded323c47cbea8ba9eee449c9927661806a053a9360c9f074287365e2ca9053e"
 metafile = true
 
 [[files]]
-file = "mods/clean-f3.pw.toml"
-hash = "f715518ba31b1f59c31dc5757f0508e00e395f7df89843eff6c4065ae85b4609"
+file = "mods/cloth-config.pw.toml"
+hash = "53efe6e3f8a67f2a3da8c5c62eab17cc61c93812ad650d0e03b34e3bd36322ae"
+metafile = true
+
+[[files]]
+file = "mods/colormatic.pw.toml"
+hash = "43391bc2c3a205f8c1e38b31b1be415d41250eaf3cb2683015099c86860ef356"
 metafile = true
 
 [[files]]
@@ -199,6 +204,11 @@ metafile = true
 [[files]]
 file = "mods/customhud.pw.toml"
 hash = "0c4f1fdee9ca5589c1527109aca27793bbc317687569fe5e6323b1d0cdc60682"
+metafile = true
+
+[[files]]
+file = "mods/dark-loading-screen.pw.toml"
+hash = "f614b9198ca13c96476cd7ce94cbab2da90f04194cad08b17f787f4a318eb71a"
 metafile = true
 
 [[files]]
@@ -224,6 +234,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4791006af5ac41da9a3d99b45d7254cf90ecb22a7d662181a830441c1978ffb4"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "00c739cd19c5adc6ed5255854b4cbdd6395522c146691b2e9196292d15cfe822"
 metafile = true
 
 [[files]]
@@ -299,11 +314,6 @@ metafile = true
 [[files]]
 file = "mods/presencefootsteps.pw.toml"
 hash = "14d65dbfca0adaa478ab8e2d500d5283a961af8bf7808c945b22dd1635ba0900"
-metafile = true
-
-[[files]]
-file = "mods/purpurclient.pw.toml"
-hash = "de33bbf8096ed18cd8556acfeca380f1450033efe135f602d782f05ba00df0b9"
 metafile = true
 
 [[files]]

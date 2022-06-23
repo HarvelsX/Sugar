@@ -1,0 +1,13 @@
+name = "Dark Loading Screen"
+filename = "dark-loading-screen-1.6.11.jar"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/HarvelsX/Sugar/packwiz/1.19.x/mods/dark-loading-screen-1.6.11.jar"
+hash-format = "sha1"
+hash = "4f93411b34bc03e6b6af00f70a6f45190aad9ba7"
+
+[update]
+[update.curseforge]
+file-id = 3470993
+project-id = 365727
