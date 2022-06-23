@@ -20,5 +20,5 @@
     "minecraft:boat",
     "minecraft:firework_rocket"
   ],
-  "disableF3": false
+  "disableF3": true
 }

@@ -53,8 +53,7 @@
     "cloud_height": 192,
     "toasts": true,
     "instant_sneak": false,
-    "prevent_shaders": false,
-    "use_fast_random": true
+    "prevent_shaders": false
   },
   "notification_settings": {
     "hide_r_s_o_recommendation": true

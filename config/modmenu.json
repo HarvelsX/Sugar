@@ -1,7 +1,7 @@
 {
   "sorting": "ascending",
   "count_libraries": false,
-  "compact_list": false,
+  "compact_list": true,
   "count_children": true,
   "mods_button_style": "icon",
   "count_hidden_mods": false,

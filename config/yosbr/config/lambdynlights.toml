@@ -5,7 +5,7 @@ mode = "fastest"
 # Light sources settings.
 [light_sources]
 	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
-	water_sensitive_check = false
+	water_sensitive_check = true
 	# Enable block entities light source.
 	block_entities = true
 	# Enable entities light source.

@@ -1,6 +1,6 @@
 {
   "threadCount": {
-    "bootstrap": 2,
+    "bootstrap": 3,
     "main": 10
   },
   "threadPriority": {

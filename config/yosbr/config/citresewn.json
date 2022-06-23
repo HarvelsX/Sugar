@@ -2,6 +2,6 @@
     "enabled": true,
     "mute_errors": false,
     "mute_warns": true,
-    "cache_ms": 150,
+    "cache_ms": 50,
     "broken_paths": false
 }
