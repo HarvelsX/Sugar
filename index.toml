@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "f62ee91b4347cef147317673f043950a8845d281f2c4c059bda345cfce766c4b"
+hash = "e9d2e696f90eb5f0ed660b66c5dc2e4ee405ae4dcfa8e41fc658df7ecaf81eb5"
 
 [[files]]
 file = "LICENSE"
@@ -380,10 +380,6 @@ metafile = true
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "57d1c00877e829b0dc769a0fa9311e6a178529377404cdfa810aba041ee07dc1"
 metafile = true
-
-[[files]]
-file = "resourcepacks/xali's Bushy Leaves v2.0.zip"
-hash = "ae7252cd653ca7796890a3a8883a8f085081578bab7809675befc4583aab8963"
 
 [[files]]
 file = "resourcepacks/xali-s-Enhanced-Vanilla-16x.zip"

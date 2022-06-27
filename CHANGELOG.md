@@ -3,7 +3,9 @@ _for those who like sweets_
 Sugar modpack for Minecraft 1.19
 
 Now available on all known platforms:
+
 ~~https://modrinth.com/modpack/sugar~~
+
 ~~https://www.curseforge.com/minecraft/modpacks/sugarny~~
 
 For automatic installation, use the following modification package formats supported by the launchers:
