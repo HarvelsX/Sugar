@@ -14,7 +14,11 @@ Try to make the modpack accessible to everyone by **optimizing** game systems wi
 
 Thank you 💖 for being there and have a nice game!
 
+![Banner](.github/assets/banner.png "Sugar Modpack")
+
 ## 📦 Resources
+*\* resources that you can install in the assembly, the settings for these resources are already provided.*
+
 ### Mods
 + [Animatica](https://github.com/FoundationGames/Animatica)
 + [AntiGhost](https://github.com/gbl/AntiGhost)
@@ -22,13 +26,19 @@ Thank you 💖 for being there and have a nice game!
 + [Fabric Capes](https://github.com/CaelTheColher/Capes)
 + [Custom Entity Models](https://github.com/dorianpb/cem)
 + [CITResewn](https://github.com/SHsuperCM/CITResewn)
++ [Cloth Config API](https://github.com/shedaniel/cloth-config)
++ [Colormatic](https://github.com/kvverti/colormatic)
 + [Continuity](https://github.com/PepperCode1/Continuity)
 + [CustomHUD](https://github.com/Minenash/CustomHUD)
++ [Dark Loading Screen](https://github.com/A5b84/dark-loading-screen)
++ [Don't Clear Chat History](https://github.com/emmods/DCCH)
 + [Debugify](https://github.com/isXander/Debugify)
 + [Dynamic FPS](https://github.com/juliand665/Dynamic-FPS)
-+ [Dynamic Surroundings](https://github.com/HarvelsX/DynamicSurroundingsFabric)
 + [Enhanced Block Entities](https://github.com/FoundationGames/EnhancedBlockEntities)
 + [EntityCulling](https://github.com/tr7zw/EntityCulling)
++ [Entity Texture Features](https://github.com/Traben-0/Entity_Texture_Features)
++ [Fabric API](https://github.com/FabricMC/fabric)
++ [Fabric Language Kotlin](https://github.com/FabricMC/fabric-language-kotlin)
 + [FabricSkyboxes](https://github.com/AMereBagatelle/fabricskyboxes)
 + [FerriteCore](https://github.com/malte0811/FerriteCore)
 + [Indium](https://github.com/comp500/Indium)
@@ -37,31 +47,34 @@ Thank you 💖 for being there and have a nice game!
 + [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights)
 + [LazyDFU](https://github.com/astei/lazydfu)
 + [Lithium](https://github.com/CaffeineMC/lithium-fabric)
++ [Memory Leak Fix](https://github.com/fxmorin/memoryLeakFix)
 + [Mod Menu](https://github.com/TerraformersMC/ModMenu)
++ [More Culling](https://github.com/fxmorin/moreculling)
++ [Not Enough Crashes](https://github.com/natanfudge/Not-Enough-Crashes)
 + [Presence Footsteps](https://github.com/Sollace/Presence-Footsteps)
 + [Reese's Sodium Options](https://github.com/FlashyReese/reeses-sodium-options)
 + [Smooth Boot](https://github.com/UltimateBoomer/mc-smoothboot)
 + [Sodium Extra](https://github.com/FlashyReese/sodium-extra-fabric)
 + [Sodium](https://github.com/CaffeineMC/sodium-fabric/)
 + [Starlight](https://github.com/PaperMC/Starlight)
++ [thorium](https://github.com/PotassiumMC/thorium)
 + [YOSBR](https://github.com/shedaniel/your-options-shall-be-respected)
-+ [Zoomify](https://github.com/HarvelsX/Zoomify)
++ [Zoomify](https://github.com/HarvelsX/Zoomify) fork of [original](https://github.com/isXander/Zoomify)
 
 ### Resource packs
 + [Default Dark Mode](https://github.com/xnebulr/Minecraft-Default-Dark-Mode)
-+ [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true)
 + [xali's Bushy Leaves](https://www.curseforge.com/minecraft/texture-packs/xalis-bushy-leaves)
 + [xali's Enhanced Biomes: River & Pond](https://github.com/xalixilax/xali-s-Enhanced-Biome-River-And-Pond-16x)
 + [xali's Enchanted Books](https://github.com/xalixilax/xali-s-Enchanted-Books-16x)
 + [xali's Enhanced Jungle Wood](https://www.curseforge.com/minecraft/texture-packs/xalis-enhanced-jungle-wood)
-+ [xali's Enhanced Vanilla](https://github.com/xalixilax/xali-s-Enchanted-Books-16x)
++ [xali's Enhanced Vanilla](https://github.com/xalixilax/xali-s-Enhanced-Vanilla-16x)
 + [xali's Potions](https://www.curseforge.com/minecraft/texture-packs/xalis-potions)
 
 ### Shader packs
 + [BSL Shaders](https://www.curseforge.com/minecraft/customization/bsl-shaders)
 + [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
-+ [Prismarine Shader](https://github.com/Septonious/Prismarine-Shader)
-+ [Sildur's Enhanced Default](https://www.curseforge.com/minecraft/customization/sildurs-enhanced-default)
++ [*Complementary Reimagined](https://www.curseforge.com/minecraft/customization/complementary-reimagined)
++ [*Sildur's Enhanced Default](https://www.curseforge.com/minecraft/customization/sildurs-enhanced-default)
 
 ## 📌 Additional
 ### Classification of versions

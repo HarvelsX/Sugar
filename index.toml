@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "LICENSE"
-hash = "eb284ce540b38ea402ab353a716e51a9210064dd8e291b9e40415ae50cb4e28a"
+hash = "43a372304b1da21ff143b9dd10424d93dc193073aecd5984a6b3872416dc7acd"
 
 [[files]]
 file = "config/animatica.properties"
@@ -186,7 +186,7 @@ hash = "b7607a31becc79d590da87b05cef5aa87561a65c91b1694cf612e441e4582369"
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "57338d2dfc5c752023a184cc17ae40244a68ba4e1e60bdebdea5e596ddc36d41"
+hash = "1cc731167ae12d680a370b13386cabf3e408b67cba98d1f0408d3b27eac18b0f"
 metafile = true
 
 [[files]]
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "f32ac546329a78b7baa9b653214d239b24b100e9a4c224967f52f180e2c82d1b"
+hash = "cd7c060338e78c94d64a668d589a9046a2a1006e52be7ede2e159995ae122bdc"
 metafile = true
 
 [[files]]
@@ -231,12 +231,12 @@ metafile = true
 
 [[files]]
 file = "mods/customhud.pw.toml"
-hash = "0c4f1fdee9ca5589c1527109aca27793bbc317687569fe5e6323b1d0cdc60682"
+hash = "14a02dc0a922610b49ec610825cb2fd07a0c2e023c03066a4ce4ce68a1f927ee"
 metafile = true
 
 [[files]]
 file = "mods/dark-loading-screen.pw.toml"
-hash = "f614b9198ca13c96476cd7ce94cbab2da90f04194cad08b17f787f4a318eb71a"
+hash = "9c01630ae51bdc96dc126c5ac30e5d4231c7cbe2180daea4da8bab2b520ca3f5"
 metafile = true
 
 [[files]]
@@ -271,12 +271,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f23afc9601b43ddaf44ecf3f20e9fae235ec5725059004022bc410c2dfe20b6e"
+hash = "54cbdcb26f203f48ad6c17bcc881d91923ac778a2c48c87397b0118535094bec"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "27365aa3c36f23ffc1ccefad1993f6aedb2ad2fc44c131fcf4a5a636d913ce8f"
+hash = "6a8cec5522ebbe0f311b8dba50f5fcd655ae6e38a97fe53f1fb37db13e63cc5c"
 metafile = true
 
 [[files]]
@@ -287,11 +287,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "8f17330016dad5b98d380f4b06ce6e731bf79be3d2aac7482153a73ea7baabc2"
-metafile = true
-
-[[files]]
-file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
 metafile = true
 
 [[files]]
@@ -355,8 +350,8 @@ hash = "0337670ba067866efd011b5b906366abe2d9428ee5b5a00ad78ac35ff7c012a9"
 metafile = true
 
 [[files]]
-file = "mods/smoothboot.pw.toml"
-hash = "0327a413635ec339c8d50cb4c436a326e8d6198b43d2ebffe7859a0c18dbcbd5"
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "dca39e0d619bed56d33185cdb7fecf1027e874c6e440b753f2c0d7b113357608"
 metafile = true
 
 [[files]]
@@ -392,11 +387,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "57d1c00877e829b0dc769a0fa9311e6a178529377404cdfa810aba041ee07dc1"
-metafile = true
-
-[[files]]
-file = "resourcepacks/stay-true.pw.toml"
-hash = "f09cd5f1b0d71c8e70be3e00b6091de249d5a50f5c5a40b463fddaea504516cc"
 metafile = true
 
 [[files]]
@@ -436,10 +426,6 @@ file = "shaderpacks/BSL_v8.1.02.3.zip.txt"
 hash = "7d79d063d033b8780cff987e55ea7d30f0129d926a511e02467bc89ab8eb2fa2"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.0.zip"
-hash = "a5f89dbcce379743fee98b0a15fd74f67bc49513c54aaa593bfa98a17f3a9125"
-
-[[files]]
 file = "shaderpacks/ComplementaryReimagined_r1.0.zip.txt"
 hash = "6950c892c66f8556b5b54fbfb037a02fd7b258c8b130933ed3527693152866b0"
 
@@ -458,18 +444,6 @@ hash = "55de6d68796f5db8752593b645f25f631ab7eadd8dcf460677b5c619dea4474d"
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.5_NS.zip.txt"
 hash = "3f7fb0aec4ee921f80dbb944dac54a4df24e803be9607b750b03be16c37cad69"
-
-[[files]]
-file = "shaderpacks/Prismarine+V4.2a.zip"
-hash = "47d3e80031bd89640e7de8ab9b56a14cd0b875a71929698879504723a34e3514"
-
-[[files]]
-file = "shaderpacks/Prismarine+V4.2a.zip.txt"
-hash = "90fb2bbbde724d8bf82ecced30daf94f8532eae39a276762e6042c0e254316b9"
-
-[[files]]
-file = "shaderpacks/Sildur's+Enhanced+Default+v1.131.zip"
-hash = "ddfbeb5d7ccfe5d426a3a7e08ea3d5474d55428e8b662de251149aa88a592908"
 
 [[files]]
 file = "shaderpacks/Sildur's+Enhanced+Default+v1.131.zip.txt"
