@@ -121,14 +121,6 @@ file = "config/yosbr/config/debugify.json"
 hash = "10d75016499501468909dd59d1cbba54a6faecf477e4e1d64048086cf42d27b6"
 
 [[files]]
-file = "config/yosbr/config/dsurround/dsurround.json"
-hash = "6e720b9d333450774d7195b3ebb044c66a037f5e84b47d10eaf425226a9c6bb8"
-
-[[files]]
-file = "config/yosbr/config/dsurround/soundconfig.json"
-hash = "c109310f8d38eb24fdec7fc6551aad98a3ea400554dd27456ac64fd5869f92e9"
-
-[[files]]
 file = "config/yosbr/config/dynamicfps.toml"
 hash = "a0cc42b4a1efc18fff1caeabf9df716f19bf8d00f7718e61eea81c013c85cd88"
 
@@ -139,10 +131,6 @@ hash = "8085d9a66c3b0bcd1967f8d4fd81e05ed012a47711a3fafef5d7be93a64086ca"
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
 hash = "59a99699b4aac8aa55958998e5d590081d5764d20a0d9085913eef9078b2a63e"
-
-[[files]]
-file = "config/yosbr/config/forcecloseloadingscreen.json"
-hash = "1e822abbeacb632b8614ab25af8b331328adaecdf8df48e5344a10ed11b521c8"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"

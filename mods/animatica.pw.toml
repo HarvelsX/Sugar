@@ -1,16 +1,16 @@
 name = "Animatica"
-filename = "animatica-0.4+1.19.jar"
+filename = "animatica-0.5+1.19.jar"
 side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/HarvelsX/Sugar/packwiz/1.19.x/mods/animatica-0.4+1.19.jar"
+url = "https://cdn.modrinth.com/data/PRN43VSY/versions/0.5+1.19/animatica-0.5%2B1.19.jar"
 hash-format = "sha1"
-hash = "da07c0c6ad0c49e9975cd939efcc285eedc67588"
+hash = "d58560b9c226df726bdddc7ab25748a158a0cb3d"
 
 [update]
 [update.modrinth]
 mod-id = "PRN43VSY"
-version = "uoIGWJxI"
+version = "rghK1s60"
 [update.curseforge]
-file-id = 3664303
+file-id = 3844732
 project-id = 533006

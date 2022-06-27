@@ -3,14 +3,14 @@ filename = "custom_hud-2.0.0+1.19.jar"
 side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/HarvelsX/Sugar/packwiz/1.19.x/mods/custom_hud-2.0.0%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/6jis0UTI/versions/v2.0.0+1.19/custom_hud-2.0.0%2B1.19.jar"
 hash-format = "sha1"
-hash = "ec3ff298be6be2046e440342d3a28388e0155d6f"
+hash = "2747e3864d2af42b73bfbffe63baa9280f1a6886"
 
 [update]
 [update.modrinth]
 mod-id = "6jis0UTI"
-version = "kbUNur6K"
+version = "3Z4VvhQu"
 [update.curseforge]
-file-id = 3721716
+file-id = 3848889
 project-id = 406984

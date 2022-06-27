@@ -1,8 +1,0 @@
-name = "Smooth Boot"
-filename = "smoothboot-fabric-1.19-1.7.1.jar"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/HarvelsX/Sugar/packwiz/1.19.x/mods/smoothboot-fabric-1.19-1.7.1.jar"
-hash-format = "sha1"
-hash = "8414cbce145a5f48102e6cc811dfd1459afe44f3"
