@@ -4,9 +4,9 @@ Sugar modpack for Minecraft 1.19
 
 Now available on all known platforms:
 
-~~https://modrinth.com/modpack/sugar~~
+https://modrinth.com/modpack/sugar
 
-~~https://www.curseforge.com/minecraft/modpacks/sugarny~~
+https://www.curseforge.com/minecraft/modpacks/sugarny
 
 For automatic installation, use the following modification package formats supported by the launchers:
 + `.curseforge.zip` - for CurseForge similar lunchers
@@ -25,6 +25,8 @@ List of changes:
 + Added shader configuration for `Complementary Reimagined`
 + Added colormatic & more culling & other fixes
 + Updated all mods
++ Removed [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders), [Complementary Reimagined](https://www.curseforge.com/minecraft/customization/complementary-reimagined), [Sildur's Enhanced Default](https://www.curseforge.com/minecraft/customization/sildurs-enhanced-default) shaders, please install them separately and to use the supplied shader settings, use the Iris tools to import them.
++ Removed [xali's Bushy Leaves](https://www.curseforge.com/minecraft/texture-packs/xalis-bushy-leaves), please install separately.  
 
 You can install Fabric 0.14.0 using the official installer: 
 https://fabricmc.net/use/installer/

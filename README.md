@@ -66,14 +66,13 @@ Thank you 💖 for being there and have a nice game!
 
 ### Resource packs
 + [Default Dark Mode](https://github.com/xnebulr/Minecraft-Default-Dark-Mode)
-+ [xali's Bushy Leaves](https://www.curseforge.com/minecraft/texture-packs/xalis-bushy-leaves)
 + [xali's Enhanced Biomes: River & Pond](https://github.com/xalixilax/xali-s-Enhanced-Biome-River-And-Pond-16x)
 + [xali's Enchanted Books](https://github.com/xalixilax/xali-s-Enchanted-Books-16x)
 + [xali's Enhanced Jungle Wood](https://www.curseforge.com/minecraft/texture-packs/xalis-enhanced-jungle-wood)
 + [xali's Enhanced Vanilla](https://github.com/xalixilax/xali-s-Enhanced-Vanilla-16x)
 + [xali's Potions](https://www.curseforge.com/minecraft/texture-packs/xalis-potions)
 
-### Shader packs
+### Shader packs configurations
 + [*BSL Shaders](https://www.curseforge.com/minecraft/customization/bsl-shaders)
 + [*Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
 + [*Complementary Reimagined](https://www.curseforge.com/minecraft/customization/complementary-reimagined)

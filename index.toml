@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "e9d2e696f90eb5f0ed660b66c5dc2e4ee405ae4dcfa8e41fc658df7ecaf81eb5"
+hash = "b2a9e07583e037473834aa6408987e23b2e49ff2eb9d7be93f76631f8df1c264"
 
 [[files]]
 file = "LICENSE"
