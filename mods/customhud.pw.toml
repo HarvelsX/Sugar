@@ -1,16 +1,16 @@
 name = "CustomHud"
-filename = "custom_hud-2.0.0+1.19.jar"
+filename = "custom_hud-2.1.0+1.19.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6jis0UTI/versions/v2.0.0+1.19/custom_hud-2.0.0%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/6jis0UTI/versions/v2.1.0+1.19/custom_hud-2.1.0%2B1.19.jar"
 hash-format = "sha1"
-hash = "2747e3864d2af42b73bfbffe63baa9280f1a6886"
+hash = "cf0cd01b940c027a377394676a5619c8860a194a"
 
 [update]
 [update.modrinth]
 mod-id = "6jis0UTI"
-version = "3Z4VvhQu"
+version = "War7lAYl"
 [update.curseforge]
-file-id = 3848889
+file-id = 3858131
 project-id = 406984

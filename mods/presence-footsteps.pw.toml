@@ -1,0 +1,16 @@
+name = "Presence Footsteps"
+filename = "PresenceFootsteps-1.6.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/1.6.1/PresenceFootsteps-1.6.1.jar"
+hash-format = "sha1"
+hash = "6f634f842e3572c910352b73ff39faef9b43f043"
+
+[update]
+[update.modrinth]
+mod-id = "rcTfTZr3"
+version = "HSI3wnPT"
+[update.curseforge]
+file-id = 3851624
+project-id = 334259

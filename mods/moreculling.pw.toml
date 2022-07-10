@@ -1,16 +1,16 @@
 name = "More Culling"
-filename = "moreculling-1.19-0.3.0-alpha.jar"
+filename = "moreculling-1.19-0.5.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.3.0/moreculling-1.19-0.3.0-alpha.jar"
+url = "https://cdn.modrinth.com/data/51shyZVL/versions/v0.5.0/moreculling-1.19-0.5.0.jar"
 hash-format = "sha1"
-hash = "bf48e98a5a665f9409dfebf3a9d505cda9d63233"
+hash = "252c4f20c3eef3e20065bb44e426f1d018c0a33f"
 
 [update]
 [update.modrinth]
 mod-id = "51shyZVL"
-version = "jSOdwPjm"
+version = "1zTV5NFG"
 [update.curseforge]
-file-id = 3832428
+file-id = 3861940
 project-id = 630104
