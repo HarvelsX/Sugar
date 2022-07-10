@@ -19,8 +19,8 @@ Thank you 💖 for being there and have a nice game!
 ## 📦 Resources
 *\* resources that you can install in the assembly, the settings for these resources are already provided.*
 
-*To use the supplied shader settings, use the Iris tools to import them:*
-*`BSL_v8.1.02.3.zip.txt`, `ComplementaryReimagined_r1.0.zip.txt`, `ComplementaryShaders_v4.5_NS.zip.txt`, `ComplementaryShaders_v4.5.zip.txt`, `Sildur's+Enhanced+Default+v1.131.zip.txt`*
+> To use the supplied shader settings, use the Iris tools to import them:
+> `BSL_v8.1.02.3.zip.txt`, `ComplementaryReimagined_r1.0.zip.txt`, `ComplementaryShaders_v4.5_NS.zip.txt`, `ComplementaryShaders_v4.5.zip.txt`, `Sildur's+Enhanced+Default+v1.131.zip.txt`
 
 ### Mods
 + [Animatica](https://github.com/FoundationGames/Animatica)
@@ -62,7 +62,6 @@ Thank you 💖 for being there and have a nice game!
 + [Starlight](https://github.com/PaperMC/Starlight)
 + [thorium](https://github.com/PotassiumMC/thorium)
 + [YOSBR](https://github.com/shedaniel/your-options-shall-be-respected)
-+ [Zoomify](https://github.com/HarvelsX/Zoomify) fork of [original](https://github.com/isXander/Zoomify)
 
 ### Resource packs
 + [Default Dark Mode](https://github.com/xnebulr/Minecraft-Default-Dark-Mode)
