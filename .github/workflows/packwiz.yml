@@ -88,13 +88,6 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: Modpack
-      - name: Generate changelog
-        id: changelog
-        uses: heinrichreimer/github-changelog-generator-action@v2.3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          output: CHANGELOG.md
-          stripGeneratorNotice: true
       - name: Create release
         uses: softprops/action-gh-release@v1
         with:
