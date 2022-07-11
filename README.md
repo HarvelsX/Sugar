@@ -20,7 +20,7 @@ Thank you 💖 for being there and have a nice game!
 *\* resources that you can install in the assembly, the settings for these resources are already provided.*
 
 > To use the supplied shader settings, use the Iris tools to import them:
-> `BSL_v8.1.02.3.zip.txt`, `ComplementaryReimagined_r1.0.zip.txt`, `ComplementaryShaders_v4.5_NS.zip.txt`, `ComplementaryShaders_v4.5.zip.txt`, `Sildur's+Enhanced+Default+v1.131.zip.txt`
+> `BSL_v8.1.03.zip.txt`, `ComplementaryReimagined_r1.1.1.zip.txt`, `ComplementaryShaders_v4.5.1.zip.txt`, `ComplementaryShaders_v4.5.1_NS.zip.txt`, `Sildur's+Enhanced+Default+v1.131.zip.txt`
 
 ### Mods
 + [Animatica](https://github.com/FoundationGames/Animatica)
