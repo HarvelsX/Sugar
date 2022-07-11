@@ -19,6 +19,10 @@ The manual installation uses an archive with the extension `.zip`, and the insta
 Simply unpack the archive into the games directory.
 
 List of changes:
++ Switch to Quilt Loader: some good mods have switched to it and it has support for Fabric mods
++ Add Ok Zoomer: BASED
++ Add dynamic sound mod: Sound Physics Remastered is strange mod
++ Update all: you're welcome
 
 
 You can install Quilt 0.17.0 using the official installer: 
