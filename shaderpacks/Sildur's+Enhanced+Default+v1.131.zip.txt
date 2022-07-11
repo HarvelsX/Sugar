@@ -1,13 +1,10 @@
-#Mon Mar 07 19:52:56 MSK 2022
-shadowDistance=120.0
-SSAO=true
-ambientOcclusionLevel=0.8f
-Waving_Lava=false
-grays_intensity=0.35
-animationSpeed=0.25
-shadowMapResolution=3072
-TAA=true
-Tonemap=true
-Waving_Leaves=false
+#Mon Jul 11 03:59:20 MSK 2022
 AS_sharpening=0.8
-Godrays=true
+Tonemap=true
+Waving_Lava=false
+Waving_Leaves=false
+ambientOcclusionLevel=0.8f
+animationSpeed=0.25
+grays_intensity=0.35
+shadowDistance=120.0
+shadowMapResolution=3072

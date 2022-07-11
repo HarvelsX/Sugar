@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "7bce86e5328e40e01445582f9c4ea76a64393c7e7e52ab7b6a40cc2984a955e0"
+hash = "ffd9ce028168e21a6bb84c39a34fc0bd4108ad84f6512e79420f726ad7bcbdce"
 
 [[files]]
 file = "LICENSE"
@@ -415,19 +415,19 @@ hash = "a9d8d6ed9e5914a75757d29e867d42db75d0e4ec2ba59fc0741e54ea3155a4c8"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v8.1.02.3.zip.txt"
+file = "shaderpacks/BSL_v8.1.03.zip.txt"
 hash = "7d79d063d033b8780cff987e55ea7d30f0129d926a511e02467bc89ab8eb2fa2"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.0.zip.txt"
+file = "shaderpacks/ComplementaryReimagined_r1.1.1.zip.txt"
 hash = "6950c892c66f8556b5b54fbfb037a02fd7b258c8b130933ed3527693152866b0"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.5.zip.txt"
+file = "shaderpacks/ComplementaryShaders_v4.5.1.zip.txt"
 hash = "cd950b000a4b7cbba58337497c0185795cb381ee72cfb5c083a05c68c459dcd5"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.5_NS.zip.txt"
+file = "shaderpacks/ComplementaryShaders_v4.5.1_NS.zip.txt"
 hash = "3f7fb0aec4ee921f80dbb944dac54a4df24e803be9607b750b03be16c37cad69"
 
 [[files]]
