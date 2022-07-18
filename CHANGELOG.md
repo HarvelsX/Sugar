@@ -6,7 +6,7 @@ Now available on all known platforms:
 
 https://modrinth.com/modpack/sugar
 
-https://www.curseforge.com/minecraft/modpacks/sugarny
+~~https://www.curseforge.com/minecraft/modpacks/sugarny~~ (doesn't support QSL)
 
 For automatic installation, use the following modification package formats supported by the launchers:
 + `.curseforge.zip` - for CurseForge similar lunchers
@@ -19,6 +19,11 @@ The manual installation uses an archive with the extension `.zip`, and the insta
 Simply unpack the archive into the games directory.
 
 List of changes:
++ Add item model fixes;
++ Add tooltip fif;
++ Update & fix xali's resource packs;
++ Replace DCCH to More Chat History;
++ Edit configs: Dynamic Lights to Fancy, disallow illegal path for Entity texture features;
 + Switch to Quilt Loader: some good mods have switched to it and it has support for Fabric mods
 + Add Ok Zoomer: BASED
 + Add dynamic sound mod: Sound Physics Remastered is strange mod
