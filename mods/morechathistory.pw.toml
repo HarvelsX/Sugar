@@ -1,0 +1,16 @@
+name = "MoreChatHistory"
+filename = "morechathistory-1.19-1.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8qkXwOnk/versions/mc1.19-1.1.0/morechathistory-1.19-1.1.0.jar"
+hash-format = "sha1"
+hash = "da9fa2f47f0f3225ace55822e6083acd272b0dde"
+
+[update]
+[update.modrinth]
+mod-id = "8qkXwOnk"
+version = "bExGbwsA"
+[update.curseforge]
+file-id = 3824498
+project-id = 518319
