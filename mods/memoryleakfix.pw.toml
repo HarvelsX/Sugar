@@ -1,16 +1,16 @@
 name = "Memory Leak Fix"
-filename = "memoryleakfix-1.19-0.4.1.jar"
+filename = "memoryleakfix-1.19-0.5.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.4.1/memoryleakfix-1.19-0.4.1.jar"
+url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.5.1/memoryleakfix-1.19-0.5.1.jar"
 hash-format = "sha1"
-hash = "9197e408de2f257446accfc466cb2498aca97b0f"
+hash = "ff219cbeb6b0a3efdb6d4f895edb2aada6bdf139"
 
 [update]
 [update.modrinth]
 mod-id = "NRjRiSSD"
-version = "6WxBG7Wn"
+version = "RZJVmohY"
 [update.curseforge]
-file-id = 3827739
+file-id = 3881421
 project-id = 627566

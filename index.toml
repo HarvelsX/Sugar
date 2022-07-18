@@ -122,7 +122,7 @@ hash = "a0cc42b4a1efc18fff1caeabf9df716f19bf8d00f7718e61eea81c013c85cd88"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
-hash = "8085d9a66c3b0bcd1967f8d4fd81e05ed012a47711a3fafef5d7be93a64086ca"
+hash = "32e55709269a64f1d744d20cb629728ef0abc2c3517f99eb6b3e1af321f7da03"
 
 [[files]]
 file = "config/yosbr/config/fabric/indigo-renderer.properties"
@@ -134,7 +134,7 @@ hash = "bf9221ed68d236327f6bff58cec9a223db0500d790ffd9ec3222da5045f003fe"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
-hash = "4ade8a7e1188200cc40242f832ca87d193791ef91551e5e30d23c19f61887b23"
+hash = "f9ebe8caac0910023bdac3f63acc9ed976306e764b02bb272cef15957a2f0266"
 
 [[files]]
 file = "config/yosbr/config/ok_zoomer/config.toml"
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "53efe6e3f8a67f2a3da8c5c62eab17cc61c93812ad650d0e03b34e3bd36322ae"
+hash = "63a2700e4698d28ddb1262a72b50a3522038c322542acb2ed37b3a36b1e25561"
 metafile = true
 
 [[files]]
@@ -233,11 +233,6 @@ metafile = true
 [[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "9c01630ae51bdc96dc126c5ac30e5d4231c7cbe2180daea4da8bab2b520ca3f5"
-metafile = true
-
-[[files]]
-file = "mods/dcch.pw.toml"
-hash = "b11b5ab481ed0686b8ebd2e7b0ef2718914c87ed58bf3af7a43fee119acd597e"
 metafile = true
 
 [[files]]
@@ -291,6 +286,11 @@ hash = "ba5465d045dad7c42e42076cea481015afc8af5a00dd59c6a66ad87c68c6f721"
 metafile = true
 
 [[files]]
+file = "mods/item-model-fix.pw.toml"
+hash = "e6717f7328466445b307d00f049d65b61b433cd6eb017afcbdefc3df6255469f"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "c52f249222c085445fa4d0bfce7faa7a411f3d0c69d166832d447dc1052bfd76"
 metafile = true
@@ -312,17 +312,22 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "d666e78d8ff7776b124fe1a51800e0f4aa80ddafbb7a2070c56114e03358576b"
+hash = "94fcf446f3f4325598d636746b5d29a5c124ca00b41b16ce6078c2ba4a89cf81"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e1048d6a7224ac37724bbf50c443b5446ae2730813cf315dd6cfe168fe4f1121"
+hash = "92d561b9a9c3d342ac0b2abc92b9ccfdc7b080096e8028a3e18dd8b757b166cf"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "f9ae4e1eb829190ba7c230143f4f73c484295b633936a03664ff5929e10a5ec9"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "31af465a79fc4953f1ba8840880905303e77753bde48efbc5af03ee2b7f81617"
+hash = "baed36beee2af32b5948fb10b5b91a219f5976e2fea101d7a69d3e8968962a07"
 metafile = true
 
 [[files]]
@@ -342,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "fb30f200b6aa1974af43f5d0a45248abfa2351cda92beaa14ebfd7216cff8fc4"
+hash = "1e206f9da01bc45e4c290e66891a0bc2d4dbe6080c295562da07c1f6235fa291"
 metafile = true
 
 [[files]]
@@ -367,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "4e0c8e7142ad028e4b6937f08dd8e2a7a80aab67f91583a194de0c074b1d0242"
+hash = "7beb094f6fd837f606e7d5139ff5fe595ee5618346371436436f41fb2e0016b5"
 metafile = true
 
 [[files]]
@@ -381,6 +386,11 @@ hash = "4c4d2536667772d662fd93e4ee3d31a2fff1750f6bf9c875ca37f5b51cf0555e"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "3ae214cd05177f7b3a564fe4ef22b3d13c26a0880b945fb7a82275abc5127133"
+metafile = true
+
+[[files]]
 file = "mods/yosbr.pw.toml"
 hash = "11a8a3942a98d9fdc4bea427e85703387272c80ea66e05cba061fe64e4e07846"
 metafile = true
@@ -391,8 +401,12 @@ hash = "57d1c00877e829b0dc769a0fa9311e6a178529377404cdfa810aba041ee07dc1"
 metafile = true
 
 [[files]]
-file = "resourcepacks/xali-s-Enhanced-Vanilla-16x.zip"
-hash = "c48164ab7c43623808140aa3155257a84efc884d164d7203e2a55d79df38e495"
+file = "resourcepacks/xali-s-Bushy-Leaves-Addon-16x-rev.5e3bf4b.zip"
+hash = "f52d0969f0fcf3725b51d558a8de1e2c5d727a9614925ade576162762f1c6321"
+
+[[files]]
+file = "resourcepacks/xali-s-Enhanced-Vanilla-16x-rev.a1a9d65.zip"
+hash = "3483732aa8105dc6877a636412dc2ba555ae57c5aa35804f9624fc326d2b1ed9"
 
 [[files]]
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
@@ -420,11 +434,11 @@ hash = "7d79d063d033b8780cff987e55ea7d30f0129d926a511e02467bc89ab8eb2fa2"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r1.1.1.zip.txt"
-hash = "6950c892c66f8556b5b54fbfb037a02fd7b258c8b130933ed3527693152866b0"
+hash = "f4db72dfa6a21c24944444f3fe0fa2f47dc07c21ebed8fa51146c69f2cb6c5a2"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.5.1.zip.txt"
-hash = "cd950b000a4b7cbba58337497c0185795cb381ee72cfb5c083a05c68c459dcd5"
+hash = "368a80ef2b4acdc542ea08fe7f78da150203598d6fa128489ec40b66d318376a"
 
 [[files]]
 file = "shaderpacks/ComplementaryShaders_v4.5.1_NS.zip.txt"
@@ -432,4 +446,4 @@ hash = "3f7fb0aec4ee921f80dbb944dac54a4df24e803be9607b750b03be16c37cad69"
 
 [[files]]
 file = "shaderpacks/Sildur's+Enhanced+Default+v1.131.zip.txt"
-hash = "7271267988e6a028e87b7f133d7547cf27497fd56a13f385e7116d119b0fc7ad"
+hash = "0ec7a15eda14f8e038da30b2239e6ecb161b0ef30b846a8b3daf41010a340303"
