@@ -1,16 +1,16 @@
 name = "Sugar"
 author = "Harvel"
-version = "3.0.2"
+version = "3.1.0-pre1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a25daea891cd443890101a59ba78e2880aa7aed7046c938a972ce21a3f74f866"
+hash = "9bfcfb9c826e66b44a0f8b29712447a78a5232ddf1cc5a46ba67deebccc8c31d"
 
 [versions]
-minecraft = "1.19"
-quilt = "0.17.0"
+minecraft = "1.19.1"
+quilt = "0.17.1"
 
 [export]
 [export.curseforge]

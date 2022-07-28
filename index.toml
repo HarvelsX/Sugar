@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "ffd9ce028168e21a6bb84c39a34fc0bd4108ad84f6512e79420f726ad7bcbdce"
+hash = "1c3985b377606c37d8b42c67f70d7a57b4fb1e0f3cdf34d105a9be0bafa6f574"
 
 [[files]]
 file = "LICENSE"
@@ -236,9 +236,8 @@ hash = "9c01630ae51bdc96dc126c5ac30e5d4231c7cbe2180daea4da8bab2b520ca3f5"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
+file = "mods/debugify.pw.toml!"
 hash = "7c6a09df374fea68b046c2c660eb27c68aeadd5ce1dc60a066998b674ede8382"
-metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
@@ -262,13 +261,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "6a8cec5522ebbe0f311b8dba50f5fcd655ae6e38a97fe53f1fb37db13e63cc5c"
+hash = "5b7735dfa7dfc5b47961ef8f15b7c72e6be5f9e72c337863ec86d6bb32f82309"
 metafile = true
 
 [[files]]
-file = "mods/fabricskyboxes.pw.toml"
+file = "mods/fabricskyboxes.pw.toml!"
 hash = "89a1591ec6bdd02be3e2aa7a88ea4a3968f29dca33f6554cc524931461e7cdf2"
-metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
@@ -282,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ba5465d045dad7c42e42076cea481015afc8af5a00dd59c6a66ad87c68c6f721"
+hash = "d630b99a2dcf3ca847b87b3aee2bfd98f1893a944ff2b6b8da4d14fd4ac2e345"
 metafile = true
 
 [[files]]
@@ -291,9 +289,8 @@ hash = "e6717f7328466445b307d00f049d65b61b433cd6eb017afcbdefc3df6255469f"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
+file = "mods/krypton.pw.toml!"
 hash = "c52f249222c085445fa4d0bfce7faa7a411f3d0c69d166832d447dc1052bfd76"
-metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
@@ -306,28 +303,27 @@ hash = "1c9b19259cc6d7fe86e1496714f327aa5b9802b2eb74176bd76861255d1511ef"
 metafile = true
 
 [[files]]
-file = "mods/lithium.pw.toml"
+file = "mods/lithium.pw.toml!"
 hash = "51811c543d25af1aed668c563492af7396ca0413f46244ca091b271e8c08cd63"
-metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "94fcf446f3f4325598d636746b5d29a5c124ca00b41b16ce6078c2ba4a89cf81"
+hash = "63fdf1143285c11cc34acd569b7f3efd0a9a7a860d58dc949506a28cf9aee9f4"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "92d561b9a9c3d342ac0b2abc92b9ccfdc7b080096e8028a3e18dd8b757b166cf"
+hash = "e7a11d3de9c40f2b1081a5974fdc86ce7f89f6a372b30b69ad666968f39ef59a"
 metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "f9ae4e1eb829190ba7c230143f4f73c484295b633936a03664ff5929e10a5ec9"
+hash = "e368695dc4867acf882d3e5845de30d0e9105aecd597e3e4ffc522a48d657ea0"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "baed36beee2af32b5948fb10b5b91a219f5976e2fea101d7a69d3e8968962a07"
+hash = "acdb1f10087db2a2e56f2035fc3a84d74bc21094885378f32dbfb308d6770657"
 metafile = true
 
 [[files]]
@@ -347,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "1e206f9da01bc45e4c290e66891a0bc2d4dbe6080c295562da07c1f6235fa291"
+hash = "136f27bbc72281a26a24481d541ac5d6c226111eef7e06577546068b590c3802"
 metafile = true
 
 [[files]]
@@ -372,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "7beb094f6fd837f606e7d5139ff5fe595ee5618346371436436f41fb2e0016b5"
+hash = "090a471676beaf2102237cbf206e3dc130dad1ca73cad99567332ba82a723e1c"
 metafile = true
 
 [[files]]
@@ -381,9 +377,8 @@ hash = "50bf967a8ba80d17248a5f7583921b0e16808d3660c3fa4fbec5b2c078495bf7"
 metafile = true
 
 [[files]]
-file = "mods/thorium.pw.toml"
+file = "mods/thorium.pw.toml!"
 hash = "4c4d2536667772d662fd93e4ee3d31a2fff1750f6bf9c875ca37f5b51cf0555e"
-metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
@@ -405,17 +400,16 @@ file = "resourcepacks/xali-s-Bushy-Leaves-Addon-16x-rev.5e3bf4b.zip"
 hash = "f52d0969f0fcf3725b51d558a8de1e2c5d727a9614925ade576162762f1c6321"
 
 [[files]]
+file = "resourcepacks/xali-s-Enhanced-Biome-River-And-Pond-16x-rev.f25e124.zip"
+hash = "1c3b070bda6541533e553c24cb915ff7f86bff7db8513cbdbf39aa43fe84d04f"
+
+[[files]]
 file = "resourcepacks/xali-s-Enhanced-Vanilla-16x-rev.a1a9d65.zip"
 hash = "3483732aa8105dc6877a636412dc2ba555ae57c5aa35804f9624fc326d2b1ed9"
 
 [[files]]
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
 hash = "788399c22d34dc1ebe707977f6b14ef2d78b1f6d5afbc093b6b135fd26291a0e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xalis-enhanced-biomes-river-pond.pw.toml"
-hash = "657760ca3c1d2a274e31c2f385d68bf0cca71f67054d882d9ca14ffd63ff70bc"
 metafile = true
 
 [[files]]
