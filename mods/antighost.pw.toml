@@ -1,16 +1,16 @@
 name = "AntiGhost"
-filename = "antighost-1.19-fabric0.55.3-1.1.5.jar"
+filename = "antighost-1.19.1-fabric0.58.5-1.1.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.19-fabric0.55.3-1.1.5/antighost-1.19-fabric0.55.3-1.1.5.jar"
+url = "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.19.1-fabric0.58.5-1.1.5/antighost-1.19.1-fabric0.58.5-1.1.5.jar"
 hash-format = "sha1"
-hash = "8069aa7ae030d71ac98c462fb978575dd7f7b1df"
+hash = "de93b03bbb5d5673d5b7a48e1b4ebb25a7353ce8"
 
 [update]
 [update.curseforge]
-file-id = 3828917
+file-id = 3907240
 project-id = 273279
 [update.modrinth]
 mod-id = "Jw3Wx1KR"
-version = "yDK0FYVT"
+version = "m3TU0WFs"
