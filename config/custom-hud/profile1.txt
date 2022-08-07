@@ -1,4 +1,4 @@
 // Please use a different profile file to change!
 ==BackgroundColor:0x00000000==
 ==Section:TopLeft==
-&dSugar &f3.0.2 &7{fps}
+&dSugar &f${version} &7{fps}
