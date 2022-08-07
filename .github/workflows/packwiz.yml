@@ -64,7 +64,7 @@ jobs:
           for file in "${files[@]}"; do
             [[ ! -a "${file}" ]] && continue
             echo "Replacing placeholders in ${file} file to data from environment"
-            eval "echo \"$(<${file})\" > ${file}" 2> /dev/null
+            eval "echo \"$(cat ${file} | sed -E 's/(["])/\\\1/g')\" > ${file}" 2> /dev/null
           done
       - name: Setup Java
         uses: actions/setup-java@v3
