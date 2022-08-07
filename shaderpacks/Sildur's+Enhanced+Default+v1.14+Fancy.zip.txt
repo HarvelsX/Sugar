@@ -1,0 +1,8 @@
+#Sun Aug 07 02:48:57 MSK 2022
+AS_sharpening=0.8
+Colorboost=true
+Waving_Lava=false
+Waving_Leaves=false
+animationSpeed=0.25
+grays_intensity=0.35
+slight=0.50
