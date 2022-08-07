@@ -33,6 +33,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     needs: [info]
+    env:
+      version: ${{ needs.info.outputs.version }}
+      sha: ${{ needs.info.outputs.sha }}
     outputs:
       package: ${{ steps.prepare.outputs.package }}
     steps:
@@ -52,6 +55,17 @@ jobs:
           [ -d .output ] && rm -r .output
           [ -d .temp ] && rm -r .temp
           mkdir -p .output && mkdir -p .temp
+      - name: Prepare files
+        run: |
+          readonly files=(
+            ./config/custom-hud/profile1.txt
+            ./config/isxander-main-menu-credits.json
+          )
+          for file in "${files[@]}"; do
+            [[ ! -a "${file}" ]] && continue
+            echo "Replacing placeholders in ${file} file to data from environment"
+            eval "echo \"$(<${file})\" > ${file}+test" 2> /dev/null
+          done
       - name: Setup Java
         uses: actions/setup-java@v3
         with:

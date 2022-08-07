@@ -33,3 +33,6 @@ index.toml
 pack.toml
 
 .packwizignore
+
+# Exclude ignored mods
+*.toml\!
