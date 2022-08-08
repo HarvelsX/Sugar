@@ -181,6 +181,10 @@ file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "cc85327a8d07677081a9c1dd23eccefe4c926c26d5d269db7735b3a5a3fd9a29"
 
 [[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "065ac823dfc151710f430fa135d6ed96dfb6553437a74078d5fdd8c35dfdaec1"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "77acd64904b4b2bfd351ecbdf9ac36b33ccfe973aadf0bd85c74bc07f42e2d18"
 
@@ -205,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "56c65cc33b2fa74442eea6fe50637ceb8637192f74a86ce6dff10570a9dd9d00"
+hash = "7daa1b51c9a7ce0ee56b90322e0382a1280abca4ca6286650ea979851b4050e3"
 metafile = true
 
 [[files]]
@@ -325,7 +329,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6c726d034f83cc56d707b18a9045880920030406d1904199f43c9f4706193c70"
+hash = "291915548cab278f9da049d3f048ee487291585507f0b80a23950a7e78e11d1f"
 metafile = true
 
 [[files]]
@@ -355,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "8e3386c53e8be595d21db22930f8fced99114a82758146fec2eef9f9be52f6cd"
+hash = "3f20789b0f5e4ec01c20afaa1e871e99c7576a42811335720c124a94dd78e575"
 metafile = true
 
 [[files]]
@@ -390,7 +394,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "441f5f7ce1dbe2813105ca2e70ab55d9c63aa66b99e9140be55a24a25054db3b"
+hash = "812aaaecda5bc18388f10d4a37df3c588d75b5440a1b8f83043c2031d097df97"
 metafile = true
 
 [[files]]
