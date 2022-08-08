@@ -25,6 +25,10 @@ List of changes:
 + Remove unsupported 1.19.2 & bad mods;
 + Add cosmetic mods: blur, falling leaves, animations;
 + Add configuration for optional mods: Xaero's Minimap & Xaero's World Map
+And
++ Replace Ok Zoomer to Zoomify;
++ Does not support Quil mods;
++ Return to fabric;
 
 
 You can install Quilt 0.17.1 using the official installer: 
