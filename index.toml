@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "ff0d1117348df10087cf2d01722db31d834e55e43bdc903922a6d8561be5711f"
+hash = "940de947f6bdddc5b37b98a4c5778fc72623737ad96e3063e0b96ac397fb3ced"
 
 [[files]]
 file = "LICENSE"
@@ -42,7 +42,7 @@ hash = "ed2a0feac913b8da6e30346a26816747775e4d6e277ab54180cfefecc7f1f673"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d6d557d9824c6c687792f631d806efb7fb7d5f7eb7016cb4c5f1b4626981fdce"
+hash = "cf5c31d531537cf73d75b78939c2f010bd3f081cc0b0360232b46cba040f45e4"
 
 [[files]]
 file = "config/lithium.properties"
@@ -173,6 +173,14 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "e467b61963b8f8d78efd9971c266473100e29e084a22a604c4e5296608d1a1fb"
 
 [[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "f0236ccfdb014816e015e95798e0c3e172be9845c28aa79de4fd12f55e725a9d"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "cc85327a8d07677081a9c1dd23eccefe4c926c26d5d269db7735b3a5a3fd9a29"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "77acd64904b4b2bfd351ecbdf9ac36b33ccfe973aadf0bd85c74bc07f42e2d18"
 
@@ -197,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e76c5d565660143f34da4bccf384073e06dd7fa53f94e9238ef5bb1490a7f87f"
+hash = "56c65cc33b2fa74442eea6fe50637ceb8637192f74a86ce6dff10570a9dd9d00"
 metafile = true
 
 [[files]]
@@ -261,6 +269,11 @@ hash = "3c71a7a895a564a376e0ecf99a2fb4b92ed140582ecc507fa0560207facc41c4"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "28b8a3a2956ebb86dd8c7c2160021983c85d0824ade60ab7af5d5d0b3ad9524b"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "5b7735dfa7dfc5b47961ef8f15b7c72e6be5f9e72c337863ec86d6bb32f82309"
 metafile = true
@@ -312,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "83485a4b7e9746136c469f0979db6819490f1237e276edcaab2501f5cf36f5a6"
+hash = "6c726d034f83cc56d707b18a9045880920030406d1904199f43c9f4706193c70"
 metafile = true
 
 [[files]]
@@ -331,18 +344,8 @@ hash = "70b912694b715e1b376e2a9d958cd6c4ab0dee59c6d42be610cf296f98741e1f"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-crashes.pw.toml"
-hash = "0294c8cd51edc0fde7b46d2a151042e2c366413128b2e7d655b5cdd483b326d2"
-metafile = true
-
-[[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
-metafile = true
-
-[[files]]
-file = "mods/ok-zoomer.pw.toml"
-hash = "dd221fce5fce07b0a690e4cc45123bbb153cd200e5847035d68b0dc240982bf3"
+hash = "20e0550c0e39d61245dd5e4134a773e0e2251ffc0fcc73fc43381234fb81a8a7"
 metafile = true
 
 [[files]]
@@ -351,13 +354,8 @@ hash = "b9cfb0ec4e55d46932d34249b8f01522f42ded7148e040fd6276e173b06d3965"
 metafile = true
 
 [[files]]
-file = "mods/qsl.pw.toml"
-hash = "c08b14cd5f81cb22feb150000e0f79cfb37894bee915144e51eb8f69bc9b4aa2"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "e55dd1ac3effe86d67f3987d05425cbb514f70b901fe147b995cf699a6145adc"
+hash = "8e3386c53e8be595d21db22930f8fced99114a82758146fec2eef9f9be52f6cd"
 metafile = true
 
 [[files]]
@@ -388,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "11a8a3942a98d9fdc4bea427e85703387272c80ea66e05cba061fe64e4e07846"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "11307aeb2b004b37393ed3c669fb9d87ad55547bf33794a40b9b64fcd81be34f"
 metafile = true
 
 [[files]]
@@ -439,5 +442,5 @@ file = "shaderpacks/ComplementaryShaders_v4.5.1_NS.zip.txt"
 hash = "3f7fb0aec4ee921f80dbb944dac54a4df24e803be9607b750b03be16c37cad69"
 
 [[files]]
-file = "shaderpacks/Sildur's Enhanced Default v1.14 Fancy.zip.txt"
-hash = "0ec7a15eda14f8e038da30b2239e6ecb161b0ef30b846a8b3daf41010a340303"
+file = "shaderpacks/Sildur's+Enhanced+Default+v1.14+Fancy.zip.txt"
+hash = "51dbe91be0436a94a58f0827e216f1822cf208950f0173fb7d349c87a9bc935f"
