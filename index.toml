@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e76c5d565660143f34da4bccf384073e06dd7fa53f94e9238ef5bb1490a7f87f"
+hash = "56c65cc33b2fa74442eea6fe50637ceb8637192f74a86ce6dff10570a9dd9d00"
 metafile = true
 
 [[files]]
@@ -248,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "db69d51c8a9f0bea37b0dce164659ad9fa7bfb58fc4d00ea75905ce3a30c73ca"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-block-entities.pw.toml"
+hash = "07f493206b01ebeb4064854f473e947b7d175229f5e2a1b46e74964ff240e2f0"
 metafile = true
 
 [[files]]
@@ -312,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "83485a4b7e9746136c469f0979db6819490f1237e276edcaab2501f5cf36f5a6"
+hash = "6c726d034f83cc56d707b18a9045880920030406d1904199f43c9f4706193c70"
 metafile = true
 
 [[files]]
@@ -352,12 +357,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "c08b14cd5f81cb22feb150000e0f79cfb37894bee915144e51eb8f69bc9b4aa2"
+hash = "cc748cc4e816ef80393dabaf1607f414f85df5a10ac507f35735e3d9a7654fae"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "e55dd1ac3effe86d67f3987d05425cbb514f70b901fe147b995cf699a6145adc"
+hash = "8e3386c53e8be595d21db22930f8fced99114a82758146fec2eef9f9be52f6cd"
 metafile = true
 
 [[files]]

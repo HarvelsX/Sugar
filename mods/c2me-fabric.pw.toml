@@ -3,13 +3,13 @@ filename = "c2me-fabric-mc1.19.2-0.2.0+alpha.8.37.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VSNURh3q/versions/0.2.0+alpha.8.37+1.19.2/c2me-fabric-mc1.19.2-0.2.0%2Balpha.8.37.jar"
 hash-format = "sha1"
 hash = "5187f894f4f3b7c64fa6845523889ac5b981ad0d"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3905533
+file-id = 3920674
 project-id = 533097
 [update.modrinth]
 mod-id = "VSNURh3q"
