@@ -3,14 +3,14 @@ filename = "Debugify-2.4.1.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/2.4.1/Debugify-2.4.1.jar"
 hash-format = "sha1"
 hash = "db2074c6714a961a40392081b1a09a31fd74842a"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 3923361
-project-id = 596224
 [update.modrinth]
 mod-id = "QwxR6Gcd"
 version = "9xvnFOIg"
+[update.curseforge]
+file-id = 3923361
+project-id = 596224

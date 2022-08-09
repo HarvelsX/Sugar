@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "56c65cc33b2fa74442eea6fe50637ceb8637192f74a86ce6dff10570a9dd9d00"
+hash = "7daa1b51c9a7ce0ee56b90322e0382a1280abca4ca6286650ea979851b4050e3"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "6572baf5d6bf23abc1f536f03b4b36c622f4bb2e50a70018f8ccbfba2c3c757b"
+hash = "54e54a48a4d127c950bc624cd9b1630c7d06cd8a8b1b0e011dcc4f79f48b09fd"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "6ee099c5c58dcb82de327564a4c44820c8457a846e93e56ad5fe5e355438ba6a"
+hash = "eb7f347d2e1cefbae35f6b8cf19929005535d4dc2256c387f77f42334ac1ea6c"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "25c08c62d3c6cdd589e047d88ea6db499a29a9477de60c12277b682ca93c2d4b"
+hash = "0e18bf71d5554e62075b7003330d23ee20236dddf9f5208ed943e82fb636d54a"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6c726d034f83cc56d707b18a9045880920030406d1904199f43c9f4706193c70"
+hash = "291915548cab278f9da049d3f048ee487291585507f0b80a23950a7e78e11d1f"
 metafile = true
 
 [[files]]
@@ -375,12 +375,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "cc748cc4e816ef80393dabaf1607f414f85df5a10ac507f35735e3d9a7654fae"
+hash = "1e4830387d634531e2ffdf0981c505f18137a0c3d3a84526137295f87a4f3b4a"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "8e3386c53e8be595d21db22930f8fced99114a82758146fec2eef9f9be52f6cd"
+hash = "3f20789b0f5e4ec01c20afaa1e871e99c7576a42811335720c124a94dd78e575"
 metafile = true
 
 [[files]]
