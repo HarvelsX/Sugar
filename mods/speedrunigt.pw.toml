@@ -1,0 +1,16 @@
+name = "SpeedRunIGT"
+filename = "SpeedRunIGT-10.17+1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/jnkd7LkJ/versions/10.17+1.19.2/SpeedRunIGT-10.17%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "4bc15a3bcbf086ea7f35f24017ff03fad320e2ca"
+
+[update]
+[update.modrinth]
+mod-id = "jnkd7LkJ"
+version = "o49H1YKd"
+[update.curseforge]
+file-id = 3920458
+project-id = 538881

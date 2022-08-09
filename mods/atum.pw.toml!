@@ -1,0 +1,8 @@
+name = "Atum"
+filename = "atum-1.1.2+20w14infinite.jar"
+side = "client"
+
+[download]
+url = "https://github.com/VoidXWalker/Atum/releases/download/v1.1.2/atum-1.1.2+20w14infinite.jar"
+hash-format = "sha1"
+hash = "608b9041c100dc3066f2d485459ec4f5d7e92278"

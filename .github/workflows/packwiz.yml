@@ -34,6 +34,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: [info]
     env:
+      name: ${{ needs.info.outputs.name }}
       version: ${{ needs.info.outputs.version }}
       sha: ${{ needs.info.outputs.sha }}
     outputs:

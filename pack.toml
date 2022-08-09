@@ -1,4 +1,4 @@
-name = "Sugar"
+name = "Sugarun"
 author = "Harvel"
 version = "3.2.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3f29c1518f9d952708b77afff5c9b34a39079388e8e5f1d6f32fdc70da9a6a4e"
+hash = "fd376cf051081f92838dd1a9a526d9fa8f81f08599d8175a2192e36f728116a2"
 
 [versions]
 fabric = "0.14.9"

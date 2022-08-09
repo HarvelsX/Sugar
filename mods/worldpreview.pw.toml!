@@ -1,0 +1,8 @@
+name = "WorldPreview"
+filename = "worldpreview-2.3.3+20w14infinite.jar"
+side = "client"
+
+[download]
+url = "https://github.com/VoidXWalker/WorldPreview/releases/download/v2.3.3.1/worldpreview-2.3.3+20w14infinite.jar"
+hash-format = "sha1"
+hash = "dfba51b2c5b78ccde8b3ab608a33a2f86a02223f"

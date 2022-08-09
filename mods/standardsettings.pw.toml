@@ -1,0 +1,8 @@
+name = "StandardSettings"
+filename = "standardsettings-1.2.0+1.19.jar"
+side = "client"
+
+[download]
+url = "https://github.com/KingContaria/StandardSettings/releases/download/v1.2.0/standardsettings-1.2.0+1.19.jar"
+hash-format = "sha1"
+hash = "01dbef51ca44436843619d334579b9717c51112e"
