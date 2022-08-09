@@ -42,7 +42,7 @@ hash = "ed2a0feac913b8da6e30346a26816747775e4d6e277ab54180cfefecc7f1f673"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d6d557d9824c6c687792f631d806efb7fb7d5f7eb7016cb4c5f1b4626981fdce"
+hash = "cf5c31d531537cf73d75b78939c2f010bd3f081cc0b0360232b46cba040f45e4"
 
 [[files]]
 file = "config/lithium.properties"
@@ -173,6 +173,14 @@ file = "config/yosbr/config/sodium-options.json"
 hash = "e467b61963b8f8d78efd9971c266473100e29e084a22a604c4e5296608d1a1fb"
 
 [[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "f0236ccfdb014816e015e95798e0c3e172be9845c28aa79de4fd12f55e725a9d"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "cc85327a8d07677081a9c1dd23eccefe4c926c26d5d269db7735b3a5a3fd9a29"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "77acd64904b4b2bfd351ecbdf9ac36b33ccfe973aadf0bd85c74bc07f42e2d18"
 
@@ -192,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-fabric.pw.toml"
-hash = "309fa9d0ab190059d9a13933db512f36f01ec0b40f37fa6e919ec085c686df9e"
+hash = "102dee96c4da5be32f924051e8737c33c0bb33e04a262279dec79949b4efffba"
 metafile = true
 
 [[files]]
@@ -241,6 +249,11 @@ hash = "9c01630ae51bdc96dc126c5ac30e5d4231c7cbe2180daea4da8bab2b520ca3f5"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "6572baf5d6bf23abc1f536f03b4b36c622f4bb2e50a70018f8ccbfba2c3c757b"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "3265f222db672bcdfa21451076533d8de23be78c2d970ea7baad5a9f36a5818d"
 metafile = true
@@ -248,11 +261,6 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "db69d51c8a9f0bea37b0dce164659ad9fa7bfb58fc4d00ea75905ce3a30c73ca"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-block-entities.pw.toml"
-hash = "07f493206b01ebeb4064854f473e947b7d175229f5e2a1b46e74964ff240e2f0"
 metafile = true
 
 [[files]]
@@ -268,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "5b7735dfa7dfc5b47961ef8f15b7c72e6be5f9e72c337863ec86d6bb32f82309"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "ae9db3e7b6c56961d1678cb5a56d53ccb4245d4e5e384ac36e3822c4922586e3"
 metafile = true
 
 [[files]]
@@ -296,6 +309,11 @@ hash = "e6717f7328466445b307d00f049d65b61b433cd6eb017afcbdefc3df6255469f"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "6ee099c5c58dcb82de327564a4c44820c8457a846e93e56ad5fe5e355438ba6a"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "f7e4d2d85d0ead43ff205c460412e3a1e3a06b0a214ef2e1d58f411b0b3c4be4"
 metafile = true
@@ -303,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "1c9b19259cc6d7fe86e1496714f327aa5b9802b2eb74176bd76861255d1511ef"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "25c08c62d3c6cdd589e047d88ea6db499a29a9477de60c12277b682ca93c2d4b"
 metafile = true
 
 [[files]]
@@ -336,13 +359,8 @@ hash = "70b912694b715e1b376e2a9d958cd6c4ab0dee59c6d42be610cf296f98741e1f"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-crashes.pw.toml"
-hash = "0294c8cd51edc0fde7b46d2a151042e2c366413128b2e7d655b5cdd483b326d2"
-metafile = true
-
-[[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "01efbdcb32ff6e70b6777e26df46bbe3c6c5aecb3e0c81797d234dfad9e0568d"
+hash = "20e0550c0e39d61245dd5e4134a773e0e2251ffc0fcc73fc43381234fb81a8a7"
 metafile = true
 
 [[files]]
@@ -444,5 +462,5 @@ file = "shaderpacks/ComplementaryShaders_v4.5.1_NS.zip.txt"
 hash = "3f7fb0aec4ee921f80dbb944dac54a4df24e803be9607b750b03be16c37cad69"
 
 [[files]]
-file = "shaderpacks/Sildur's Enhanced Default v1.14 Fancy.zip.txt"
-hash = "0ec7a15eda14f8e038da30b2239e6ecb161b0ef30b846a8b3daf41010a340303"
+file = "shaderpacks/Sildur's+Enhanced+Default+v1.14+Fancy.zip.txt"
+hash = "51dbe91be0436a94a58f0827e216f1822cf208950f0173fb7d349c87a9bc935f"
