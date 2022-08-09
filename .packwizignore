@@ -14,6 +14,7 @@
 
 # Exclude README
 /README.md
+/CHANGELOG.md
 
 # Exclude exported CurseForge zip files
 # *.zip
