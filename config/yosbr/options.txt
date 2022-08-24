@@ -1,5 +1,5 @@
-version:3105
-quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","file/Default-Dark-Mode-1.19-v1.3.3.zip","file/xali\u0027s Enchanced Biome River  Pond v1.2.2.zip","file/xali\u0027s Enhanced Jungle Wood v1.2.zip","file/xali\u0027s Potions v1.0.zip","file/xali-s-Enchanted-Books-16x-v0.10.1.zip","file/xali-s-Enhanced-Vanilla-16x.zip","programer_art","vanilla","Black Icons","Classic Icons","White Icons"]
+version:3120
+quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","file/xali\u0027s Enhanced Jungle Wood v1.2.zip","file/xali\u0027s Potions v1.0.zip","file/xali-s-Enchanted-Books-16x-v0.10.1.zip","programer_art","vanilla","file/Default-Dark-Mode-1.19-v1.3.4.zip","file/xali-s-Bushy-Leaves-Addon-16x-rev.5e3bf4b.zip","file/xali-s-Enhanced-Biome-River-And-Pond-16x-rev.f25e124.zip","file/xali-s-Enhanced-Vanilla-16x-rev.a1a9d65.zip"]
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -38,7 +38,7 @@ ao:2
 prioritizeChunkUpdates:0
 biomeBlendRadius:5
 renderClouds:"true"
-resourcePacks:["vanilla","continuity/default","continuity/glass_pane_culling_fix","file/Default-Dark-Mode-1.19-v1.3.3.zip"]
+resourcePacks:["vanilla","continuity/default","continuity/glass_pane_culling_fix","file/Default-Dark-Mode-1.19-v1.3.4.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -76,7 +76,7 @@ hideBundleTutorial:false
 syncChunkWrites:false
 showAutosaveIndicator:true
 allowServerListing:true
-chatPreview:true
+chatPreview:1
 onlyShowSecureChat:false
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
@@ -121,16 +121,7 @@ key_key.custom_hud.swap_to_profile2:key.keyboard.unknown
 key_key.custom_hud.swap_to_profile3:key.keyboard.unknown
 key_key.antighost.reveal:key.keyboard.g
 key_key.entityculling.toggle:key.keyboard.unknown
-key_key.push_to_talk:key.keyboard.caps.lock
-key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.m
-key_key.disable_voice_chat:key.keyboard.n
-key_key.hide_icons:key.keyboard.h
-key_key.voice_chat:key.keyboard.v
-key_key.voice_chat_settings:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.g
-key_key.voice_chat_toggle_recording:key.keyboard.unknown
-key_key.voice_chat_adjust_volumes:key.keyboard.unknown
+key_key.modmenu.open_menu:key.keyboard.unknown
 key_presencefootsteps.settings.key:key.keyboard.unknown
 key_key.ok_zoomer.zoom:key.keyboard.c
 key_key.ok_zoomer.decrease_zoom:key.keyboard.unknown
