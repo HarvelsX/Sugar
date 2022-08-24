@@ -162,7 +162,7 @@ hash = "1890ea27b71be62be8086475c299816355e3626a17efb97f546ab2af5a0489a4"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
-hash = "87e4f9058aae2d30fc25d2230b2b92eb5bcbe75f7efe2e97f4cdeb434482ebf1"
+hash = "159d483e9018b4b8473832c8bc068013ab0d239d533463cd03efb3514cd2adc4"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -178,7 +178,7 @@ hash = "cc85327a8d07677081a9c1dd23eccefe4c926c26d5d269db7735b3a5a3fd9a29"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "77acd64904b4b2bfd351ecbdf9ac36b33ccfe973aadf0bd85c74bc07f42e2d18"
+hash = "51a090f5d3efd23cef3acac24f736969a1500b43b960aab6bb34dd17d45f53cc"
 
 [[files]]
 file = "icon.png"
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "94f094e1af2702111082662461719037f20df1aaa3237d0babee6122e117ced8"
+hash = "eabd48a88668c5979a7acc667cf9b72b75c73093dd3b17a2418035d7cc75210b"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "3c71a7a895a564a376e0ecf99a2fb4b92ed140582ecc507fa0560207facc41c4"
+hash = "8dcec623a11d9a9a623f04486f53fa5d3848ccc78662f2cdecb0a974b98c7c39"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "1d71121d742fd7c71e3cde4febd762dc6d94cb771340f9a180156c1aacf900cb"
+hash = "c4eb7d2931603e23500fe8a82ecf6ed6b8a6c3e488672b487aa4c77bacc17aa9"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "e50849356d16f582cff80c5b8121a1d780876b3ae55eab819bdab76410d68211"
+hash = "ae4d2f44922f08f376aa4d1300bbbcde53ee4ee62fa4d0711799806185bbeba4"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "20e0550c0e39d61245dd5e4134a773e0e2251ffc0fcc73fc43381234fb81a8a7"
+hash = "eb92c51fce568869a5c6522b265d7ea1c61a4c4cf4dad9d520447c133653bdf8"
 metafile = true
 
 [[files]]
@@ -371,12 +371,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "1e4830387d634531e2ffdf0981c505f18137a0c3d3a84526137295f87a4f3b4a"
+hash = "2e234ea4db07226ae340901cf734fdebea77b95c18b6d818df5690ead9f932b9"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "3f20789b0f5e4ec01c20afaa1e871e99c7576a42811335720c124a94dd78e575"
+hash = "8680fbf426a47aec7802839b6c6b9a5c9eaa4cb26aefa3e326640110105458b1"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "88f5fbbb9a1d9c74aacc970fedb5580b2f1ed391cd58f6418a03aca45cd480e1"
+hash = "5c14dda8dd403d20166fb8b7edbfadbab8e69ead45d4d13078f114086ddd4d1f"
 metafile = true
 
 [[files]]
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "57d1c00877e829b0dc769a0fa9311e6a178529377404cdfa810aba041ee07dc1"
+hash = "f6aa8f305f16d2a81113581b1004d742f256eaff429ba9b5781635eb7b060fab"
 metafile = true
 
 [[files]]
@@ -446,7 +446,7 @@ file = "shaderpacks/BSL_v8.1.03.zip.txt"
 hash = "7d79d063d033b8780cff987e55ea7d30f0129d926a511e02467bc89ab8eb2fa2"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.2.zip.txt"
+file = "shaderpacks/ComplementaryReimagined_r1.2.2.zip.txt"
 hash = "f4db72dfa6a21c24944444f3fe0fa2f47dc07c21ebed8fa51146c69f2cb6c5a2"
 
 [[files]]
