@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "54e54a48a4d127c950bc624cd9b1630c7d06cd8a8b1b0e011dcc4f79f48b09fd"
+hash = "1bf99295aec025200426d7877453daa9dd347ece2697774d00e31c360995b2f1"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5b7735dfa7dfc5b47961ef8f15b7c72e6be5f9e72c337863ec86d6bb32f82309"
+hash = "a9ce51d52d1fa03fd4e6a1c197dd46f33a9ff8346175abf2fb8365b01bbc74b1"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d630b99a2dcf3ca847b87b3aee2bfd98f1893a944ff2b6b8da4d14fd4ac2e345"
+hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
 metafile = true
 
 [[files]]
@@ -386,12 +386,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "5c14dda8dd403d20166fb8b7edbfadbab8e69ead45d4d13078f114086ddd4d1f"
+hash = "4a13626867b4df25bca401c2d80a6dbbae12104844aad02a4b6e784fe1d5b678"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9ae9beee1d01f6cba7ce1959db048a7d1f4d1d747307057165392e857b270a18"
+hash = "ba69b43c3e47350ced04044c66af1696c0b5227b42d033ba81b00486fe726351"
 metafile = true
 
 [[files]]
