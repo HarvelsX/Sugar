@@ -291,12 +291,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "c156d5d4d9174e4d1d04806477ae60f2f3a497cb9b540c8a4e9dfa4c82163edb"
+hash = "2a79f6f1276d6bb66b8960770030605e44169da6ce010280a09e949005eb70c7"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
+hash = "d6ad0db04f1523aced428e83e730b0c8d7b8cfbbdc0d5c73d153f59f94919317"
 metafile = true
 
 [[files]]
