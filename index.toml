@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "54e54a48a4d127c950bc624cd9b1630c7d06cd8a8b1b0e011dcc4f79f48b09fd"
+hash = "1bf99295aec025200426d7877453daa9dd347ece2697774d00e31c360995b2f1"
 metafile = true
 
 [[files]]
@@ -271,7 +271,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5b7735dfa7dfc5b47961ef8f15b7c72e6be5f9e72c337863ec86d6bb32f82309"
+hash = "a9ce51d52d1fa03fd4e6a1c197dd46f33a9ff8346175abf2fb8365b01bbc74b1"
 metafile = true
 
 [[files]]
@@ -291,12 +291,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "c156d5d4d9174e4d1d04806477ae60f2f3a497cb9b540c8a4e9dfa4c82163edb"
+hash = "cb0db9b86118d343752c6c45edb25dbe6d23ad4739f7047bf0179f1742b07864"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d630b99a2dcf3ca847b87b3aee2bfd98f1893a944ff2b6b8da4d14fd4ac2e345"
+hash = "d4dd336cc77340a6429082e8a6f848c9db459a77e4d5703c02beea8b2a016015"
 metafile = true
 
 [[files]]
@@ -386,12 +386,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "5c14dda8dd403d20166fb8b7edbfadbab8e69ead45d4d13078f114086ddd4d1f"
+hash = "4a13626867b4df25bca401c2d80a6dbbae12104844aad02a4b6e784fe1d5b678"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9ae9beee1d01f6cba7ce1959db048a7d1f4d1d747307057165392e857b270a18"
+hash = "7e8c5f962fe95dd8340b0c1a085340123cd50b5b05e289a31fe8e7992eaa9236"
 metafile = true
 
 [[files]]
@@ -450,11 +450,11 @@ file = "shaderpacks/ComplementaryReimagined_r1.2.2.zip.txt"
 hash = "f4db72dfa6a21c24944444f3fe0fa2f47dc07c21ebed8fa51146c69f2cb6c5a2"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.5.1.zip.txt"
+file = "shaderpacks/ComplementaryShaders_v4.6.zip.txt"
 hash = "368a80ef2b4acdc542ea08fe7f78da150203598d6fa128489ec40b66d318376a"
 
 [[files]]
-file = "shaderpacks/ComplementaryShaders_v4.5.1_NS.zip.txt"
+file = "shaderpacks/ComplementaryShaders_v4.6_NS.zip.txt"
 hash = "3f7fb0aec4ee921f80dbb944dac54a4df24e803be9607b750b03be16c37cad69"
 
 [[files]]

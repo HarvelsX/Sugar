@@ -1,4 +1,4 @@
-**Release Sugar 3.2.2**
+**Release Sugar 3.2.3**
 _for those who like sweets_
 Sugar modpack for Minecraft 1.19.2
 
@@ -19,8 +19,8 @@ The manual installation uses an archive with the extension `.zip`, and the insta
 Simply unpack the archive into the games directory.
 
 List of changes:
-+ Update all the mods used in the modpack
-+ And what else do u want? Mods make Minecraft better, and the modpack collect those mods. 
++ Update all the mods used in the modpack x2 
++ And what else do u want? Mods make Minecraft better, and the modpack collect those mods.
 
 You can install Quilt 0.17.4 using the official installer: 
 https://quiltmc.org/install/
