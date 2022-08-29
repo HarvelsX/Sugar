@@ -80,12 +80,12 @@ jobs:
           packwiz curseforge export -o .output/${{ needs.info.outputs.package }}.curseforge.zip
           packwiz modrinth export -o .output/${{ needs.info.outputs.package }}.mrpack
 
-        # pack=file://`realpath pack.toml`
-        # cd .temp && java -jar packwiz-installer-bootstrap.jar -g $pack
-        # zip -r ../.output/${{ needs.info.outputs.package }}.zip . \
-        #   -x 'packwiz-installer-bootstrap.jar' \
-        #   -x 'packwiz-installer.jar' \
-        #   -x 'packwiz.json'
+          pack=file://`realpath pack.toml`
+          cd .temp && java -jar packwiz-installer-bootstrap.jar -g $pack
+          zip -r ../.output/${{ needs.info.outputs.package }}.zip . \
+            -x 'packwiz-installer-bootstrap.jar' \
+            -x 'packwiz-installer.jar' \
+            -x 'packwiz.json'
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
         with:
