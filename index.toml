@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "2e234ea4db07226ae340901cf734fdebea77b95c18b6d818df5690ead9f932b9"
+hash = "6372ebabc9e9d1059a1c517d51ea30b175dd4db6087f9610c3bce2abf3d9c4e7"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "4a13626867b4df25bca401c2d80a6dbbae12104844aad02a4b6e784fe1d5b678"
+hash = "4ad78b72df9030aab29189cd31f7ed66b4bc5f74c23dd4b8e6a96251115cb11e"
 metafile = true
 
 [[files]]
