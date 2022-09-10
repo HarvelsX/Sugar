@@ -1,16 +1,16 @@
 name = "Cloth Config API (Fabric/Forge)"
-filename = "cloth-config-8.0.75-fabric.jar"
+filename = "cloth-config-8.2.88-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9s6osm5g/versions/8.0.75+fabric/cloth-config-8.0.75-fabric.jar"
+url = "https://cdn.modrinth.com/data/9s6osm5g/versions/EXrxCjl6/cloth-config-8.2.88-fabric.jar"
 hash-format = "sha1"
-hash = "1d6175cee479a4fac60fc314e988e70485bd29b1"
+hash = "4b93c69f22e9bdeeca201992e99632824b55f9cb"
 
 [update]
 [update.curseforge]
-file-id = 3906387
+file-id = 3972420
 project-id = 348521
 [update.modrinth]
 mod-id = "9s6osm5g"
-version = "hg9bSXT3"
+version = "EXrxCjl6"
