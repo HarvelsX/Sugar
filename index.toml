@@ -109,6 +109,10 @@ file = "config/yosbr/config/custom-hud/config.json"
 hash = "74efe4642640ba19537becf0f2dbf7a34d957d3902b88f5e0a53fec9a9b28796"
 
 [[files]]
+file = "config/yosbr/config/custom-hud/profile2.txt"
+hash = "34cf30ca804294d3b4f8ecadb08e8da28e5299b62d5174f97079324c24f65de5"
+
+[[files]]
 file = "config/yosbr/config/dark-loading-screen.json"
 hash = "d3080de85fca8a9739311537e74161aaa0e592a474a351e8b3da77a6123de2f2"
 
@@ -206,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "ab2d5b0870ad4d64a5305f0d5545c9ce3587915da229d3c08d27b72f59dc0ca8"
+hash = "2346c289f74176903c4635f012a53a2ccba552da3f0644856f4a6792bfea4844"
 metafile = true
 
 [[files]]
@@ -216,12 +220,12 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "db2b0bee6224c87ccdf20c2bbf526bfd2f291177a33e408d0b07b09f03add93d"
+hash = "c09ba185fc323cd3b05afd23f4e7911831120016a9ce6281ea55d14c3adb31d5"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "1f1fd4a8e305cf111e1af0d1b18d2d2d0a18808e4d1d138ce536ccda49d22f98"
+hash = "17f8d9e982e4a18e5d3a5d82fdd2dcdfd6698dd1bf7c31e35a919a66d996eadd"
 metafile = true
 
 [[files]]
@@ -246,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "1bf99295aec025200426d7877453daa9dd347ece2697774d00e31c360995b2f1"
+hash = "154d118bd712e0e7bc4d8904927f5ad89b11fa6031abd7b81e3a2ce4060ce634"
 metafile = true
 
 [[files]]
@@ -296,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "932509b7dd46a9da7ace7e8d2cc384119e9a28c994e6a785e37fdd8b29fffeee"
+hash = "e5e78ec3a1ad8606ebbe16ef93c2aadb06c7e00b9183b7f4bebbdaef486d209e"
 metafile = true
 
 [[files]]
@@ -356,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "eb92c51fce568869a5c6522b265d7ea1c61a4c4cf4dad9d520447c133653bdf8"
+hash = "2b2a67763f2f557381d9660d4fb7d98406f0d61ccb8d9f0880af8a38d7e059cd"
 metafile = true
 
 [[files]]
@@ -366,12 +370,12 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "b9cfb0ec4e55d46932d34249b8f01522f42ded7148e040fd6276e173b06d3965"
+hash = "75b34660f7e05bbb5b59c12a299a909ed97a3f72953208c3bea1f39f0f942286"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "6372ebabc9e9d1059a1c517d51ea30b175dd4db6087f9610c3bce2abf3d9c4e7"
+hash = "db8f857ae4ebda2712b3970755fe127184eb8ec1f3de0235ca0847f3fc824986"
 metafile = true
 
 [[files]]
@@ -411,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "f6aa8f305f16d2a81113581b1004d742f256eaff429ba9b5781635eb7b060fab"
+hash = "6fe5e992c58f21c60780e5943a961b53a5e12b640aa7dba7ea9ae3dfc68daefd"
 metafile = true
 
 [[files]]
@@ -423,10 +427,6 @@ file = "resourcepacks/xali-s-Enhanced-Biome-River-And-Pond-16x-rev.f25e124.zip"
 hash = "1c3b070bda6541533e553c24cb915ff7f86bff7db8513cbdbf39aa43fe84d04f"
 
 [[files]]
-file = "resourcepacks/xali-s-Enhanced-Vanilla-16x-rev.a1a9d65.zip"
-hash = "3483732aa8105dc6877a636412dc2ba555ae57c5aa35804f9624fc326d2b1ed9"
-
-[[files]]
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
 hash = "788399c22d34dc1ebe707977f6b14ef2d78b1f6d5afbc093b6b135fd26291a0e"
 metafile = true
@@ -434,6 +434,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/xalis-enhanced-jungle-wood.pw.toml"
 hash = "5f59a064216fbe13d59d697f34b0312ff1f29237f830a206a6d4122f04197fb1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
+hash = "130eef6b89c8da87492c84b5276a3841fda609b54ed9070e944b7908b79a8009"
 metafile = true
 
 [[files]]
