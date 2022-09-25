@@ -59,6 +59,7 @@ jobs:
         run: |
           readonly files=(
             ./config/custom-hud/profile1.txt
+            ./config/custom-hud/profile2.txt
             ./config/isxander-main-menu-credits.json
           )
           for file in "${files[@]}"; do

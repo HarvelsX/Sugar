@@ -1,13 +1,16 @@
 name = "Dark Loading Screen"
 filename = "dark-loading-screen-1.6.12.jar"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/h3XWIuzM/versions/iNdVB0oZ/dark-loading-screen-1.6.12.jar"
 hash-format = "sha1"
 hash = "4e1ab6a2e3ec77bd95a342629de03e3467e8d856"
-url = "https://raw.githubusercontent.com/HarvelsX/Sugar/packwiz/1.19.x/mods/dark-loading-screen-1.6.12.jar"
 
 [update]
+[update.modrinth]
+mod-id = "h3XWIuzM"
+version = "iNdVB0oZ"
 [update.curseforge]
 file-id = 3845449
 project-id = 365727
