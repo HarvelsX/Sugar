@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/blur-fabric.pw.toml"
-hash = "102dee96c4da5be32f924051e8737c33c0bb33e04a262279dec79949b4efffba"
+hash = "eb527f956077cb790cc16a125e9f18d948a8de0c4ff0916d177b2c0055c7770c"
 metafile = true
 
 [[files]]
@@ -245,12 +245,12 @@ metafile = true
 
 [[files]]
 file = "mods/dark-loading-screen.pw.toml"
-hash = "9c01630ae51bdc96dc126c5ac30e5d4231c7cbe2180daea4da8bab2b520ca3f5"
+hash = "03761427592efafc7645e6041e9b2ada5317a9686f2fa7b9f526083ef6444672"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "154d118bd712e0e7bc4d8904927f5ad89b11fa6031abd7b81e3a2ce4060ce634"
+hash = "794974138b0367cb127fdc346d3976c64129be781b97b339bbc6548df645b37d"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "8dcec623a11d9a9a623f04486f53fa5d3848ccc78662f2cdecb0a974b98c7c39"
+hash = "a4ff124d41adec1e0fbfebf2a8834e0fa7d13ced43edf09f8bf2667c65b713fd"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "28de46899ecda7e938626c653465acd6fd4bea3d2f9bc44d2813201ba0e9f0ac"
+hash = "6fee8ab073bb82b7b54e2378efaac8d651914f747cc5c41a40d26d9d41e8dcd5"
 metafile = true
 
 [[files]]
@@ -375,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "db8f857ae4ebda2712b3970755fe127184eb8ec1f3de0235ca0847f3fc824986"
+hash = "21efcd3154b6f0e13379f56556d302aeeff5c9445e5e6201d080368481db0bcf"
 metafile = true
 
 [[files]]
@@ -401,11 +401,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "50bf967a8ba80d17248a5f7583921b0e16808d3660c3fa4fbec5b2c078495bf7"
-metafile = true
-
-[[files]]
-file = "mods/tooltipfix.pw.toml"
-hash = "8a5cd962aae2cc23ed6c18abdf8cfb652ec28b8820ebd6015358c16a83a0cc3a"
 metafile = true
 
 [[files]]
