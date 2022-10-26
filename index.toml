@@ -200,12 +200,12 @@ metafile = true
 
 [[files]]
 file = "mods/blur-fabric.pw.toml"
-hash = "eb527f956077cb790cc16a125e9f18d948a8de0c4ff0916d177b2c0055c7770c"
+hash = "102dee96c4da5be32f924051e8737c33c0bb33e04a262279dec79949b4efffba"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "69823993631c8ebe19662ab8539af7911438f2e58f3ed51b5118a75123bac708"
+hash = "bdca17346fbf4e0725d751fe91d8643224112d5436da645d621dbe7423d27e4a"
 metafile = true
 
 [[files]]
@@ -260,12 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "e6d7d6e47b250d868d2342ef480ce681de232d8df5d31d2e2e2ef47354f1d7b4"
-metafile = true
-
-[[files]]
-file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "b8ea6091c79c1905cba6c53e911758acdc6a25bf0a5434ed6f8e9ee3b937809e"
+hash = "200a665a1fdbd1ebea0da35cf51b26e1e4309f9f0836665a38626b69f8bd7897"
 metafile = true
 
 [[files]]
@@ -275,22 +270,17 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "76a5d61442e06180aede0b5cf457f04b471b37d85a8631726d550f9309b2ddeb"
+hash = "a4ff124d41adec1e0fbfebf2a8834e0fa7d13ced43edf09f8bf2667c65b713fd"
 metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
-metafile = true
-
-[[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "1abae29ea8e25ff332f6dc40f6fb680cdf319896969155b3af5022cb344f257f"
+hash = "afca79a1dd531342814523130ea2810eed3057083ca8bb06a7e0df711debb8dd"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "7da260a16e6f5edd1a04bd2719dfda7ac3af0897bfd7a36816fc45c0bddcac4c"
+hash = "1ea2a4c37a66f30691df9f15085bdcc07d655683b02ec57f60d3b77bf0675ddb"
 metafile = true
 
 [[files]]
@@ -315,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c66631006276f0c43dd7032c017ff1404dc40b9df834a30fbc206844843f45e7"
+hash = "8e27af32b4d2ed068a084a1a8d9640aa8b9b6b9b8c27f0451ec4d8b4c55c0777"
 metafile = true
 
 [[files]]
@@ -340,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "bd7096494ef4cac17ed9fdc1f5a4ca5d126117523d3bae75191059711fa28601"
+hash = "6b475b00f66f332f5bceba769afc161a2aef001fbbb0db5f283661168296c928"
 metafile = true
 
 [[files]]
@@ -390,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "fdcf16a751e7e894cb3d91b42aa8c0a075c244c8c8527484e208d324b1998936"
+hash = "d8bd6cd4c7f9e6ede4cfabb7824c7f6533c54ebbd4a96de879d94130f5fb8309"
 metafile = true
 
 [[files]]
@@ -405,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "1bb54a7e80a5b62ee8f00579494db84adb7297eaba3624326cbb0adc7ccd69b6"
+hash = "4ca1b8d5d6f7603cd04cd78f8d67fd4f67c50275bd1c29dcd788310eb21eb8c1"
 metafile = true
 
 [[files]]
@@ -457,7 +447,7 @@ hash = "a9d8d6ed9e5914a75757d29e867d42db75d0e4ec2ba59fc0741e54ea3155a4c8"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v8.1.03.zip.txt"
+file = "shaderpacks/BSL_v8.2.zip.txt"
 hash = "7d79d063d033b8780cff987e55ea7d30f0129d926a511e02467bc89ab8eb2fa2"
 
 [[files]]
@@ -473,5 +463,5 @@ file = "shaderpacks/ComplementaryShaders_v4.6_NS.zip.txt"
 hash = "3f7fb0aec4ee921f80dbb944dac54a4df24e803be9607b750b03be16c37cad69"
 
 [[files]]
-file = "shaderpacks/Sildur's+Enhanced+Default+v1.14+Fancy.zip.txt"
+file = "shaderpacks/Sildur's Enhanced Default v1.141 Fancy.zip.txt"
 hash = "51dbe91be0436a94a58f0827e216f1822cf208950f0173fb7d349c87a9bc935f"
