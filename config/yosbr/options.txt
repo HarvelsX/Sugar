@@ -1,5 +1,5 @@
 version:3120
-quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","file/xali\u0027s Enhanced Jungle Wood v1.2.zip","file/xali\u0027s Potions v1.0.zip","file/xali-s-Enchanted-Books-16x-v0.10.1.zip","programer_art","vanilla","file/Default-Dark-Mode-1.19-v1.3.4.zip","file/xali-s-Bushy-Leaves-Addon-16x-rev.5e3bf4b.zip","file/xali-s-Enhanced-Biome-River-And-Pond-16x-rev.f25e124.zip","file/xali-s-Enhanced-Vanilla-16x-rev.a1a9d65.zip"]
+quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","file/xali\u0027s Enhanced Jungle Wood v1.2.zip","file/xali\u0027s Potions v1.0.zip","file/xali-s-Enchanted-Books-16x-v0.10.1.zip","programer_art","vanilla","file/Default-Dark-Mode-1.19-v1.3.4.zip","file/xali-s-Bushy-Leaves-Addon-16x-rev.5e3bf4b.zip","file/xali\u0027s Enhanced Vanilla v1.10.4.zip","file/xali-s-Enhanced-Biome-River-And-Pond-16x-rev.640bc1f.zip"]
 autoJump:false
 autoSuggestions:true
 chatColors:true
@@ -131,7 +131,7 @@ key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.3028169
 soundCategory_record:0.25704226
 soundCategory_weather:0.75352114
 soundCategory_block:0.6830986
