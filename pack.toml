@@ -10,7 +10,7 @@ hash = "1e071b24ca3b67db790535988ea1f83b8c28ddb7f48949f407d0141ea0f37247"
 
 [versions]
 minecraft = "1.19.2"
-quilt = "0.17.5"
+quilt = "0.17.6"
 
 [export]
 [export.curseforge]
