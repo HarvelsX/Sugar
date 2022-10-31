@@ -1,11 +1,9 @@
 
-# Contains the main zoom features.
 [features]
 	# Defines the cinematic camera while zooming.
-	#"OFF" disables the cinematic camera.
-	#"VANILLA" uses Vanilla's cinematic camera.
-	#"MULTIPLIED" is a multiplied variant of "VANILLA".
-	#
+	# "OFF" disables the cinematic camera.
+	# "VANILLA" uses Vanilla's cinematic camera.
+	# "MULTIPLIED" is a multiplied variant of "VANILLA".
 	# options: OFF, VANILLA, MULTIPLIED
 	# default: OFF
 	cinematic_camera = "OFF"
@@ -13,18 +11,16 @@
 	# default: true
 	reduce_sensitivity = true
 	# Adds transitions between zooms.
-	#"OFF" disables transitions.
-	#"SMOOTH" replicates Vanilla's dynamic FOV.
-	#"LINEAR" removes the smoothiness.
-	#
+	# "OFF" disables transitions.
+	# "SMOOTH" replicates Vanilla's dynamic FOV.
+	# "LINEAR" removes the smoothiness.
 	# options: OFF, SMOOTH, LINEAR
 	# default: SMOOTH
 	zoom_transition = "SMOOTH"
 	# The behavior of the zoom key.
-	#"HOLD" needs the zoom key to be hold.
-	#"TOGGLE" has the zoom key toggle the zoom.
-	#"PERSISTENT" makes the zoom permanent.
-	#
+	# "HOLD" needs the zoom key to be hold.
+	# "TOGGLE" has the zoom key toggle the zoom.
+	# "PERSISTENT" makes the zoom permanent.
 	# options: HOLD, TOGGLE, PERSISTENT
 	# default: HOLD
 	zoom_mode = "HOLD"
@@ -35,58 +31,61 @@
 	# default: true
 	extra_key_binds = true
 	# Adds an overlay in the screen during zoom.
-	#"VIGNETTE" uses a vignette as the overlay.
-	#"SPYGLASS" uses the spyglass overlay with the vignette texture.
-	#The vignette texture can be found at: assets/ok_zoomer/textures/misc/zoom_overlay.png
-	#
+	# "VIGNETTE" uses a vignette as the overlay.
+	# "SPYGLASS" uses the spyglass overlay with the vignette texture.
+	# The vignette texture can be found at: assets/ok_zoomer/textures/misc/zoom_overlay.png
 	# options: OFF, VIGNETTE, SPYGLASS
 	# default: OFF
 	zoom_overlay = "OFF"
 	# Determines how the zoom will depend on the spyglass.
-	#"REQUIRE_ITEM" will make zooming require a spyglass.
-	#"REPLACE_ZOOM" will replace spyglass's zoom with Ok Zoomer's zoom.
-	#"BOTH" will apply both options at the same time.
-	#The "REQUIRE_ITEM" option is configurable through the ok_zoomer:zoom_dependencies item tag.
-	#
+	# "REQUIRE_ITEM" will make zooming require a spyglass.
+	# "REPLACE_ZOOM" will replace spyglass's zoom with Ok Zoomer's zoom.
+	# "BOTH" will apply both options at the same time.
+	# The "REQUIRE_ITEM" option is configurable through the ok_zoomer:zoom_dependencies item tag.
 	# options: OFF, REQUIRE_ITEM, REPLACE_ZOOM, BOTH
 	# default: OFF
 	spyglass_dependency = "OFF"
 
-# Contains precise configuration of the zoom.
 [values]
 	# The divisor applied to the FOV when zooming.
+	# range[2.2250738585072014E-308, 1.7976931348623157E308]
 	# default: 4.0
 	zoom_divisor = 4.0
 	# The minimum value that you can scroll down.
+	# range[2.2250738585072014E-308, 1.7976931348623157E308]
 	# default: 1.0
 	minimum_zoom_divisor = 1.0
 	# The maximum value that you can scroll down.
+	# range[2.2250738585072014E-308, 1.7976931348623157E308]
 	# default: 50.0
 	maximum_zoom_divisor = 40.0
 	# The number of steps between the zoom divisor and the maximum zoom divisor.
-	#Used by zoom scrolling.
-	#
+	# Used by zoom scrolling.
+	# range[0, 2147483647]
 	# default: 10
 	upper_scroll_steps = 10
 	# The number of steps between the zoom divisor and the minimum zoom divisor.
-	#Used by zoom scrolling.
-	#
+	# Used by zoom scrolling.
+	# range[0, 2147483647]
 	# default: 5
 	lower_scroll_steps = 5
 	# The multiplier used for smooth transitions.
+	# range[2.2250738585072014E-308, 1.0]
 	# default: 0.75
 	smooth_multiplier = 0.65
 	# The multiplier used for the multiplied cinematic camera.
+	# range[2.2250738585072014E-308, 4.0]
 	# default: 4.0
 	cinematic_multiplier = 4.0
 	# The minimum value which the linear transition step can reach.
+	# range[0.0, 1.7976931348623157E308]
 	# default: 0.125
 	minimum_linear_step = 0.125
 	# The maximum value which the linear transition step can reach.
+	# range[0.0, 1.7976931348623157E308]
 	# default: 0.25
 	maximum_linear_step = 0.25
 
-# Contains options that are unlikely to be changed from the defaults.
 [tweaks]
 	# Allows for resetting the zoom with the middle mouse button.
 	# default: true
