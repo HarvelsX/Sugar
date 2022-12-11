@@ -1,16 +1,16 @@
 name = "Not Enough Animations"
-filename = "notenoughanimations-fabric-1.6.1-mc1.19.1.jar"
+filename = "notenoughanimations-fabric-1.6.2-mc1.19.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/1.6.1-fabric-1.19/notenoughanimations-fabric-1.6.1-mc1.19.1.jar"
+url = "https://cdn.modrinth.com/data/MPCX6s5C/versions/C4uW6hHV/notenoughanimations-fabric-1.6.2-mc1.19.3.jar"
 hash-format = "sha1"
-hash = "ac38cd816611c7ac59addb9a632d62cddeaa6613"
+hash = "8a658e93c93a1cfc7ca19a2c03928becb8eeaea2"
 
 [update]
 [update.modrinth]
 mod-id = "MPCX6s5C"
-version = "TGtlRlUI"
+version = "C4uW6hHV"
 [update.curseforge]
-file-id = 3913249
+file-id = 4142247
 project-id = 433760

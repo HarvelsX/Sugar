@@ -1,0 +1,16 @@
+name = "FabriZoom"
+filename = "FabriZoom-1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pNFKDyna/versions/YR6dhtjF/FabriZoom-1.2.2.jar"
+hash-format = "sha1"
+hash = "acce9c6e2993b415f7dafe9ff31141b07f46ea59"
+
+[update]
+[update.modrinth]
+mod-id = "pNFKDyna"
+version = "YR6dhtjF"
+[update.curseforge]
+file-id = 4142184
+project-id = 676845

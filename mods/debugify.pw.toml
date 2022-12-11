@@ -1,16 +1,16 @@
 name = "Debugify"
-filename = "Debugify-2.7.1.jar"
+filename = "Debugify-1.19.3+1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/pYAlD9TK/Debugify-2.7.1.jar"
+url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/l8A2i9nV/Debugify-1.19.3%2B1.0.jar"
 hash-format = "sha1"
-hash = "24f4ab766406d0d47faa5e860ee9cd47759b6e70"
+hash = "532e20d968298deaa7702d78b48dc004619a85f4"
 
 [update]
-[update.curseforge]
-file-id = 4005771
-project-id = 596224
 [update.modrinth]
 mod-id = "QwxR6Gcd"
-version = "pYAlD9TK"
+version = "l8A2i9nV"
+[update.curseforge]
+file-id = 4142150
+project-id = 596224
