@@ -215,28 +215,13 @@ hash = "208c8b895cd98a9961089aa183f0cce3de71920cb95e4ecea25ccc49287f7c84"
 metafile = true
 
 [[files]]
-file = "mods/blur-fabric.pw.toml"
-hash = "102dee96c4da5be32f924051e8737c33c0bb33e04a262279dec79949b4efffba"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "2346c289f74176903c4635f012a53a2ccba552da3f0644856f4a6792bfea4844"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-hash = "a05cb7610a1b9512970c9c3ee4c90c7a08b892bb56420693f0393071acae916e"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "bee553c5450be5d2f6a6934e138e3f01c644cbb5ddc090623e7304445f6b31fb"
-metafile = true
-
-[[files]]
-file = "mods/customhud.pw.toml"
-hash = "20fc706f92558551854c2a06c79c0a25bf83447b925fb1121c3aef4ffabd9307"
 metafile = true
 
 [[files]]
@@ -252,16 +237,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "6faf9fda083a940ab39211893e18088dc6280e381aae69b599af26ffffc524b7"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "9b478f0f47e3846a6dab7a794874bc91275f16f456d8d7ad430fd97c9b32ea50"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "d91bf65c0e6a894795236d2b12c3dc052e660567e6b412dac0a7c967ff96463f"
 metafile = true
 
 [[files]]
@@ -305,18 +280,8 @@ hash = "84d19135b3bd3fee88aa323437eafc2ea801c03a8464796cdb4504a6dccea6da"
 metafile = true
 
 [[files]]
-file = "mods/item-model-fix.pw.toml"
-hash = "e6717f7328466445b307d00f049d65b61b433cd6eb017afcbdefc3df6255469f"
-metafile = true
-
-[[files]]
 file = "mods/krypton.pw.toml"
 hash = "eb7f347d2e1cefbae35f6b8cf19929005535d4dc2256c387f77f42334ac1ea6c"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "f7e4d2d85d0ead43ff205c460412e3a1e3a06b0a214ef2e1d58f411b0b3c4be4"
 metafile = true
 
 [[files]]
@@ -362,11 +327,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "9a9d758b66aff80371f1e082fb197ef68c2718e1ccb38fe28715ab459b12fb8d"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "6b163581430fae35b8adb84399a89be29b8fd60972880987ce5f39212a94cc28"
 metafile = true
 
 [[files]]
