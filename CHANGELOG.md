@@ -1,6 +1,6 @@
-**Release Sugar 3.2.3**
+**Release Sugar 3.3.4**
 _for those who like sweets_
-Sugar modpack for Minecraft 1.19.2
+Sugar modpack for Minecraft 1.19.3
 
 Now available on all known platforms:
 
@@ -14,21 +14,21 @@ For automatic installation, use the following modification package formats suppo
 Select the appropriate file extension and import it into your launcher.
 
 The manual installation uses an archive with the extension `.zip`, and the installation requires:
-+ `quilt` >= 0.17.4
-+ `minecraft` = 1.19.2
++ `quilt` >= 0.17.7
++ `minecraft` = 1.19.3
 Simply unpack the archive into the games directory.
 
 List of changes:
 + Update all the mods used in the modpack x2 
 + And what else do u want? Mods make Minecraft better, and the modpack collect those mods.
 
-You can install Quilt 0.17.4 using the official installer: 
+You can install Quilt 0.17.7 using the official installer: 
 https://quiltmc.org/install/
 
 An automatic installer is available for the MultiMC:
-https://github.com/HarvelsX/Sugar/releases/tag/multimc%2F1.19.2
+https://github.com/HarvelsX/Sugar/releases/tag/multimc%2F1.19.3
 + `Sugar.multimc.zip` -  file to import and run the created instance
 If you are having trouble running a MultiMC instance with the build already installed,
-then simply update Fabric to 0.17.4 & Minecraft to 1.19.2
+then simply update Fabric to 0.17.7 & Minecraft to 1.19.3
 
 Thank you for being there!

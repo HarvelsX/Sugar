@@ -1,0 +1,16 @@
+name = "Ok Zoomer"
+filename = "ok_zoomer-5.0.0-beta.10+1.19.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/oOWfXNvO/ok_zoomer-5.0.0-beta.10%2B1.19.3.jar"
+hash-format = "sha1"
+hash = "e81b4a7243033f1e7608328adf716974b389a71b"
+
+[update]
+[update.modrinth]
+mod-id = "aXf2OSFU"
+version = "oOWfXNvO"
+[update.curseforge]
+file-id = 4219564
+project-id = 354047

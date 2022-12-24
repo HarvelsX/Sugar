@@ -215,8 +215,18 @@ hash = "208c8b895cd98a9961089aa183f0cce3de71920cb95e4ecea25ccc49287f7c84"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "f82dc0b75d0bb353c0ad379d3d12eea65bb630c8d1fbe39bb07213932bbb840a"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
-hash = "2346c289f74176903c4635f012a53a2ccba552da3f0644856f4a6792bfea4844"
+hash = "f81f32070cb93381bd8600afa88b37023535b8e3d933cafca3d66b682022d4f6"
+metafile = true
+
+[[files]]
+file = "mods/cem.pw.toml"
+hash = "8f0a8a00b66548d8d6ca69bf8d71c30465c9e7c855fb0e44768d3e4dd53b89ab"
 metafile = true
 
 [[files]]
@@ -231,17 +241,27 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "5113c3fa14c99150ae61407fdd982af1b9712d321f3e356137452885aac94b1c"
+hash = "c6ae0cacd489c88f828ce9190fdb47bdfa4d9a4160bd51edb33c612e104776e0"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6faf9fda083a940ab39211893e18088dc6280e381aae69b599af26ffffc524b7"
+hash = "3265f222db672bcdfa21451076533d8de23be78c2d970ea7baad5a9f36a5818d"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "7df25548be4156bfe89be5e06f85c4e5a458db70c9ad75419c55900a5d3078d0"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "1ce81a7695588cf5014d999f94b1276cf036549bef3c9df8714d8d80e25fa7a6"
 metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "7cd50ac9f6062f341e899935564a09a51ce3d5225cf050b4b6072afb8f138bea"
+hash = "821d31e70957be9142ec9597258dbb91bfad8b8e52a68141f2c0112e891c5305"
 metafile = true
 
 [[files]]
@@ -255,13 +275,8 @@ hash = "21696baf86e84daf3b3db06e3a9138dc72f41f6aa93cbb1a77ca71b5f859197f"
 metafile = true
 
 [[files]]
-file = "mods/fabrizoom.pw.toml"
-hash = "1b529e712b0d24570c172a6dfbd20e3a775d699065e8d672f5828000c14ff6aa"
-metafile = true
-
-[[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "3245b1c999f0b2ae0f3609ee4b6c5f53c834e8ef9cf05e7b9d5618a41e89bfad"
+hash = "bdfcbb7329cd44785e014f974b9afa40d7d9281aeff11e0758825a2aceb78d5b"
 metafile = true
 
 [[files]]
@@ -285,13 +300,18 @@ hash = "eb7f347d2e1cefbae35f6b8cf19929005535d4dc2256c387f77f42334ac1ea6c"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "1d1d8bd091acc548660459bae53af3e748aac155350c4628630e91e00e89e791"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "1c9b19259cc6d7fe86e1496714f327aa5b9802b2eb74176bd76861255d1511ef"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "86d349063cb0eb10d9101d866390313883183698f9bc5c7162f1202e2db64801"
+hash = "e99acb712287052a4362b21b472557fbd4c7fc5504bcd4168d22373ecd290832"
 metafile = true
 
 [[files]]
@@ -316,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "f478604cf7d13bf1070d883a06ed67cfa0082e95511b6a131dd0ad465dccdb7b"
+hash = "6a3532a0655de65c3f69e3c23872a0a3385251030f47f26dba36c65dd3458a7d"
 metafile = true
 
 [[files]]
@@ -325,13 +345,18 @@ hash = "ca586fe2fb80a3a8cc12f7abc6f2bcec213b700955d4a91e27f0488793fa6a2b"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "9a9d758b66aff80371f1e082fb197ef68c2718e1ccb38fe28715ab459b12fb8d"
+file = "mods/ok-zoomer.pw.toml"
+hash = "ecbd6396f61344b7ea5ea0d809cfd7ffca7deaba5676218c833fd58e89150560"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "fcac1bcf706fe28885f89db2492e2e7acf18fa8cd8d5eccfe464edc22b403e88"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "a319d6e013731556f2a958b65a337cd81a7336a7b0131ff9e910110ee4b0a271"
+hash = "2d6ebd90670d6b7bcc50624b13a766c402fde576a0f010631620cf9b1017d7d7"
 metafile = true
 
 [[files]]
@@ -346,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "daf3e4dcc5fa770dd984c690e286de8db0c767554369a7948943d859ef0fd24b"
+hash = "477b916058cb7e2ad45d11a8cd51a9bb00eb78b46629fb9ec95e111a4e3eafae"
 metafile = true
 
 [[files]]
@@ -361,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c728e2c16f50990a82e408cc6af3aecc709a2a8458c8cac341602d82327116d1"
+hash = "c6eb7b9ef5f91f8a53a8b6b2a1b120eb6c468df6f73ff7cf42be5c6267271008"
 metafile = true
 
 [[files]]
