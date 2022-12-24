@@ -8,9 +8,6 @@ hash = "fd44e487a49671b3b7d1931af9aaa015e9fdf0d7"
 mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4238690
-project-id = 681953
 [update.modrinth]
 mod-id = "DynYZEae"
 version = "QFalDyL5"
