@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "7fce7db18aa8459a0404fd862175ccabe36b3f6f03286136f548b6bdc91abc23"
+hash = "afb546123de51728f2d7540979e7606972c321bd2f7c834ef974570d4131ef78"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e99acb712287052a4362b21b472557fbd4c7fc5504bcd4168d22373ecd290832"
+hash = "2805d7e26fd105112f48c9619b85db445211e76fc79c389c863ca77d9b7d9d36"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c66028d555a347562589645179fe8834bd04d48b78c9a667f20b4178211dfbb3"
+hash = "a86ad32b5f332217d501217a38c00c7f02b2d00bbe9efef4e8c75e6a3698f67e"
 metafile = true
 
 [[files]]
