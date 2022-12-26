@@ -6,11 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2aee57462419d2552caac772dc8d9fec5eda8e46f1397adf2adc4330c61ae0f4"
+hash = "5cdd537b7ab3d4c8639b9c2358ec58f871fb09ce04a0cc5d2298a33f1b7e8730"
 
 [versions]
 minecraft = "1.19.3"
-quilt = "0.17.7"
+quilt = "0.18.1-beta.25"
 
 [export]
 [export.curseforge]

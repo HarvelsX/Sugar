@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "bdfcbb7329cd44785e014f974b9afa40d7d9281aeff11e0758825a2aceb78d5b"
+hash = "7fce7db18aa8459a0404fd862175ccabe36b3f6f03286136f548b6bdc91abc23"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c6eb7b9ef5f91f8a53a8b6b2a1b120eb6c468df6f73ff7cf42be5c6267271008"
+hash = "c66028d555a347562589645179fe8834bd04d48b78c9a667f20b4178211dfbb3"
 metafile = true
 
 [[files]]
