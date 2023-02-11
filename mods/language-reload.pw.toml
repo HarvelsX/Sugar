@@ -1,0 +1,17 @@
+name = "Language Reload"
+filename = "language-reload-1.5.4+1.19.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/oXvCLSpY/language-reload-1.5.4%2B1.19.3.jar"
+hash-format = "sha1"
+hash = "6305f50f62b7d1d795a0b633cc9c2f3e504c61b7"
+
+[update]
+[update.modrinth]
+mod-id = "uLbm7CG6"
+version = "oXvCLSpY"
+[update.curseforge]
+file-id = 4337561
+project-id = 527334
+
