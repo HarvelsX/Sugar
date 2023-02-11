@@ -3,14 +3,14 @@ filename = "indium-1.0.14+mc1.19.3.jar"
 side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/U94NcDpV/indium-1.0.14%2Bmc1.19.3.jar"
 hash-format = "sha1"
 hash = "6dbdca98673403365e87a940f9e7a2a631fa7c30"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4388133
-project-id = 459496
 [update.modrinth]
 mod-id = "Orvt0mRa"
 version = "U94NcDpV"
+[update.curseforge]
+file-id = 4388133
+project-id = 459496
