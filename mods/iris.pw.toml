@@ -1,16 +1,16 @@
 name = "Iris Shaders"
-filename = "iris-mc1.19.3-1.4.6.jar"
+filename = "iris-mc1.19.3-1.5.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YL57xq9U/versions/py8Wa69O/iris-mc1.19.3-1.4.6.jar"
 hash-format = "sha1"
-hash = "27ab78bb9dba64010aa63d1f0b06108132569eac"
+hash = "b6404f241552c4ff296ee867f95b4229495ca35c"
+mode = "metadata:curseforge"
 
 [update]
+[update.curseforge]
+file-id = 4385034
+project-id = 455508
 [update.modrinth]
 mod-id = "YL57xq9U"
-version = "py8Wa69O"
-[update.curseforge]
-file-id = 4145293
-project-id = 455508
+version = "ExtC2pRY"
