@@ -252,6 +252,11 @@ hash = "17302634b8ef343be1652ae30f90f77787f53795486651f1ad1816f4ef96d127"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "008827e638e0704bcb1f0884dfc36e98ae6afa9425f210db5bc30ebe65284770"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "78267a99c9228d9a7d8eb56294437e402cf6c0e5d391959645764d9e60c63c32"
 metafile = true
