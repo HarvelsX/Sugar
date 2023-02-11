@@ -1,16 +1,16 @@
 name = "xali's Enhanced Vanilla"
-filename = "xali's Enhanced Vanilla v1.10.4.zip"
+filename = "xali's Enhanced Vanilla v1.10.5.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Srw5RQ6k/versions/fvFxP3qN/xali%27s%20Enhanced%20Vanilla%20v1.10.4.zip"
+url = "https://cdn.modrinth.com/data/Srw5RQ6k/versions/VQXiGr8z/xali%27s%20Enhanced%20Vanilla%20v1.10.5.zip"
 hash-format = "sha1"
-hash = "d2821550a1cf82afc52b5eb844b18700486c4113"
+hash = "21cde3b17552eb6b34a9937cc24c132756c9ba66"
 
 [update]
-[update.curseforge]
-file-id = 3975495
-project-id = 513425
 [update.modrinth]
 mod-id = "Srw5RQ6k"
-version = "fvFxP3qN"
+version = "VQXiGr8z"
+[update.curseforge]
+file-id = 4325438
+project-id = 513425
