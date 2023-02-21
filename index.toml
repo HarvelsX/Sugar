@@ -237,13 +237,18 @@ hash = "426fe879fc71b4b1fe741428a362fa864393385730e7dd1d8632f326d31eaee9"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "cb2e494c71a09387e1530d2f080cfcc5ae4a07ac79010e28e709f4d40d38fe23"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
-hash = "f81f32070cb93381bd8600afa88b37023535b8e3d933cafca3d66b682022d4f6"
+hash = "0ba2ff9e4663d8930517d2ffe6fba7e4d84c3ae7dba63bf68f5a98a25e8330ef"
 metafile = true
 
 [[files]]
 file = "mods/cem.pw.toml"
-hash = "8f0a8a00b66548d8d6ca69bf8d71c30465c9e7c855fb0e44768d3e4dd53b89ab"
+hash = "61ca84e46c25cfb572cb5ef927cebaac01a3ddfa252fa88381d5b39b003ad2ac"
 metafile = true
 
 [[files]]
@@ -278,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "7df25548be4156bfe89be5e06f85c4e5a458db70c9ad75419c55900a5d3078d0"
+hash = "0f69570f0a6b83aa625b2318de5aa5fc9091a371b713645670c142832895a542"
 metafile = true
 
 [[files]]
@@ -303,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "983e58b1dba3e5ed8fba609f711401c6f3d3aa194c9b046b2ee84c737ef41cc3"
+hash = "9d5ecb5af90cde49ea3579c22221934ab3466b18bdbff30719d36e18db6740ad"
 metafile = true
 
 [[files]]
@@ -313,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e2d99ef31f80b0604dbca5a5a966894f7239f940578cce4d63f470e848d672bc"
+hash = "15079561761b24c9bc94c479d1fa347511c78aeb40206eaf57f296eedabd1932"
 metafile = true
 
 [[files]]
@@ -363,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "ae1e75cbaa6ac3ee9e0d0ca550dd3a057283e6bb558097c07466d16d18155c06"
+hash = "ab41f4330629394ef3b1f12ab61b75cd15ad290779c9ae29de6ed87d0e69b21c"
 metafile = true
 
 [[files]]
@@ -393,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "e86040886db10a81e923122cc9b56fab04213d78085b9faa1252ad74c0143076"
+hash = "d56e77c15be91cb3cd8a5492ed04dd66ff5fc38a244b70c2747fd0a749e8ea85"
 metafile = true
 
 [[files]]
@@ -446,7 +451,7 @@ hash = "f0ea96d3fb40e4c3104217420d34ed40a52a32f659f162fd60da127bbddb9ae3"
 
 [[files]]
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
-hash = "0deb31e6380589947d2104e977a9d651c0c21435630b4309a71d89ba788b8edc"
+hash = "e5e4f99ac374c97a17341ec0b5c0c18192859fe058bc4861b39305da6c9ef03c"
 metafile = true
 
 [[files]]
