@@ -447,6 +447,11 @@ hash = "11a8a3942a98d9fdc4bea427e85703387272c80ea66e05cba061fe64e4e07846"
 metafile = true
 
 [[files]]
+file = "resourcepacks/ctm-overhaul.pw.toml"
+hash = "055bab153927a1cc34467cb2ed6c3bcd3260fedfaab6140f5f9f799511cfc519"
+metafile = true
+
+[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
 hash = "f9608cb8fbca61cd4686b1bb2201d2fa724d2a004f9f4d79637532b110fcc6dc"
 metafile = true
