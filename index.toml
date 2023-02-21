@@ -397,6 +397,11 @@ hash = "fcac1bcf706fe28885f89db2492e2e7acf18fa8cd8d5eccfe464edc22b403e88"
 metafile = true
 
 [[files]]
+file = "mods/qsl-base.pw.toml"
+hash = "b052d3620bf1b71e309e73de5a8696979a315743e485e8065e31d603f0cdad51"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "d56e77c15be91cb3cd8a5492ed04dd66ff5fc38a244b70c2747fd0a749e8ea85"
 metafile = true
@@ -404,6 +409,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "ddb838ca3f7bce35d33a5752bd029edf286c78d5863b97e3de3fc0c1fc2f8146"
+metafile = true
+
+[[files]]
+file = "mods/resource-loader.pw.toml"
+hash = "ff8a911f0303366c695c3ab9d63a70ea44804fd17b4acb2ca2303d69597ed763"
 metafile = true
 
 [[files]]
