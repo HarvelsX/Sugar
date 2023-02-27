@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/cem.pw.toml"
-hash = "61ca84e46c25cfb572cb5ef927cebaac01a3ddfa252fa88381d5b39b003ad2ac"
+hash = "740e45257fdcba918c9b33d3ab26d7f795b4cae89a96607f140a949c31f6b5d7"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "904e9e7d4f56430b52d41019b67b9e90f3b8ce836b05709b61ceb786504acf77"
+hash = "b40620f3fa4380770c17e096474dd1eabc88c747615ca2e8924fd69157db31a4"
 metafile = true
 
 [[files]]
@@ -403,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d56e77c15be91cb3cd8a5492ed04dd66ff5fc38a244b70c2747fd0a749e8ea85"
+hash = "3231fcaf25855754ae9ac5778e0fa7966bd51aecb757f6f4dabe058979591b20"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "829f22ff7ec6a5a09d8d6353f91d79167018f2f71e2f144f188e19d4749b1a02"
+hash = "c99cd1ee656041db81255665ccbb0f2bb96cae113e7d2c07f8d8e8701b1ca984"
 metafile = true
 
 [[files]]

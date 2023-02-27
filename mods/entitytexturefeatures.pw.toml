@@ -1,16 +1,16 @@
-name = "Entity Texture Features"
-filename = "entity_texture_features_fabric_1.19.3-4.3.1.jar"
+name = "Entity Texture Features - [Fabric & Forge]"
+filename = "entity_texture_features_fabric_1.19.3-4.3.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/ukr1WwVj/entity_texture_features_fabric_1.19.3-4.3.1.jar"
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/wxqoWaxp/entity_texture_features_fabric_1.19.3-4.3.2.jar"
 hash-format = "sha1"
-hash = "37a90e140e52355dde6aa6729ba7ff1298d337ce"
+hash = "d530feb8c907a560d167699d1d89ebb254f5abdc"
 
 [update]
 [update.curseforge]
-file-id = 4291872
+file-id = 4408298
 project-id = 568563
 [update.modrinth]
 mod-id = "BVzZfTc1"
-version = "ukr1WwVj"
+version = "wxqoWaxp"
