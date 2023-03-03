@@ -403,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "3231fcaf25855754ae9ac5778e0fa7966bd51aecb757f6f4dabe058979591b20"
+hash = "709ac65c32860269252e41796d44452a5e1da129fc5102e71804737dd60a4dbb"
 metafile = true
 
 [[files]]
@@ -511,7 +511,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "c99cd1ee656041db81255665ccbb0f2bb96cae113e7d2c07f8d8e8701b1ca984"
+hash = "51e9ef8f55d2bee989ceb0bf1bb834becbbc8692e6077ecde518ae1baf1138fe"
 metafile = true
 
 [[files]]
