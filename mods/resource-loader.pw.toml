@@ -1,8 +1,0 @@
-name = "Quilt Resource Loader"
-filename = "resource_loader-4.0.0-beta.12+1.19.3.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/HarvelsX/Sugar/1.19.x/dev/mods/resource_loader-4.0.0-beta.12+1.19.3.jar"
-hash-format = "sha1"
-hash = "ac2dc6a1b69db5f4e4c015a82b9beb113f8c4dda"

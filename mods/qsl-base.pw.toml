@@ -1,8 +1,0 @@
-name = "Quilt Base API"
-filename = "qsl_base-4.0.0-beta.12+1.19.3.jar"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/HarvelsX/Sugar/1.19.x/dev/mods/qsl_base-4.0.0-beta.12+1.19.3.jar"
-hash-format = "sha1"
-hash = "9f70dc49985d04a9e4c4b68bae0f58c1d0b133ce"
