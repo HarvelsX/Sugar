@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "1a82a46d3ce109c622423329aa6a539500d31203a3c320794ecaaef47b496ab5"
+hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "eea6e181832aa5c4b191e055a4de3cfecb2bc9f498e641cf8fb5663632f993b0"
+hash = "b9e92b5e0baed5a916779ef0016172d2d42ea310d9742744a8c920ecee4d7b9a"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ca70a53c3ce6f85c21d37c81b69c3a813d9238c22e055e71f76b77d161d0bea4"
+hash = "6682a581b77e820ea340d3279b7a49f5d311d3fa0b08b53628c9bf56a7c668ac"
 metafile = true
 
 [[files]]

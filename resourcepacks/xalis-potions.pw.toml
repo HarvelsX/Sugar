@@ -1,6 +1,6 @@
 name = "xali's Potions"
 filename = "xali's Potions v1.0.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

@@ -1,6 +1,6 @@
 name = "xali's Enhanced Jungle Wood"
 filename = "xali's Enhanced Jungle Wood v1.2.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

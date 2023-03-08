@@ -1,6 +1,6 @@
 name = "Connected Textures (CTM) Overhaul"
 filename = "CTM_Overhaul_V4.0.zip"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/S1rcrDD7/versions/vdpd2xc6/CTM_Overhaul_V4.0.zip"
