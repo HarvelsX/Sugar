@@ -16,43 +16,74 @@ Thank you 💖 for being there and have a nice game!
 
 ![Banner](.github/assets/banner.png "Sugar Modpack")
 
-## 📦 Resources
+### To improve performance, try custom JVM arguments:
+Set minimum memory allocation equal to maximum memory allocation. 
+```
+-XX:+UseG1GC -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
+```
+or for >8GB RAM
+```
+-XX:+UseShenandoahGC -XX:+UnlockExperimentalVMOptions -XX:+AlwaysPreTouch -XX:+UseStringDeduplication -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -XX:-OmitStackTraceInFastThrow -XX:+OptimizeStringConcat -Dfml.readTimeout=180
+```
+4GB RAM is recommended for 12 chunks, more requires more memory!
+
+
+## 📦 Optional Resources
 *\* resources that you can install in the assembly, the settings for these resources are already provided.*
 
+### Mods
++ [*Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered/versions?l=fabric&g=1.19.3)
++ [*Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4424637)
++ [*Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4418101)
+
+### Shader packs
++ [*Sildur's Enhanced Default](https://www.curseforge.com/minecraft/customization/sildurs-enhanced-default/files/4278034)
+
+## 📦 Resources
+
 > To use the supplied shader settings, use the Iris tools to import them:
-> `BSL_v8.1.03.zip.txt`, `ComplementaryReimagined_r1.2.2.zip.txt`, `ComplementaryShaders_v4.5.1.zip.txt`, `ComplementaryShaders_v4.5.1_NS.zip.txt`, `Sildur's+Enhanced+Default+v1.14+Fancy.zip.txt`
+> `ComplementaryShaders_v4.7.1_NS.zip.txt`, `Sildur's Enhanced Default v1.141 Fancy.zip.txt`
 
 ### Mods
 + [Animatica](https://github.com/FoundationGames/Animatica)
 + [AntiGhost](https://github.com/gbl/AntiGhost)
++ [Blur](https://github.com/Motschen/Blur)
++ [Borderless Mining](https://github.com/comp500/BorderlessMining)
 + [C^2M](https://github.com/RelativityMC/C2ME-fabric)
 + [Fabric Capes](https://github.com/CaelTheColher/Capes)
 + [Custom Entity Models](https://github.com/dorianpb/cem)
 + [CITResewn](https://github.com/SHsuperCM/CITResewn)
-+ [Cloth Config API](https://github.com/shedaniel/cloth-config)
-+ [Colormatic](https://github.com/kvverti/colormatic)
-+ [Continuity](https://github.com/PepperCode1/Continuity)
-+ [CustomHUD](https://github.com/Minenash/CustomHUD)
++ ~~[Colormatic](https://github.com/kvverti/colormatic)~~
++ [Continuity](https://github.com/PepperCode1/Continuity) ([Dev Build](https://discord.gg/7rnTYXu))
++ ~~[CustomHUD](https://github.com/Minenash/CustomHUD)~~ (Wait update)
 + [Dark Loading Screen](https://github.com/A5b84/dark-loading-screen)
 + [Don't Clear Chat History](https://github.com/emmods/DCCH)
 + [Debugify](https://github.com/isXander/Debugify)
 + [Dynamic FPS](https://github.com/juliand665/Dynamic-FPS)
 + [Enhanced Block Entities](https://github.com/FoundationGames/EnhancedBlockEntities)
++ [Enhanced Searchability](https://modrinth.com/mod/enhanced-searchability)
 + [EntityCulling](https://github.com/tr7zw/EntityCulling)
 + [Entity Texture Features](https://github.com/Traben-0/Entity_Texture_Features)
++ [Exordium](https://github.com/tr7zw/Exordium)
 + [Fabric Language Kotlin](https://github.com/FabricMC/fabric-language-kotlin)
 + [FabricSkyboxes](https://github.com/AMereBagatelle/fabricskyboxes)
++ [Falling Leaves](https://github.com/RandomMcSomethin/fallingleaves)
++ [ImmediatelyFast](https://github.com/RaphiMC/ImmediatelyFast)
 + [FerriteCore](https://github.com/malte0811/FerriteCore)
 + [Indium](https://github.com/comp500/Indium)
 + [Iris](https://github.com/IrisShaders/Iris)
++ ~~[Item Model Fix](https://github.com/PepperCode1/Item-Model-Fix)~~
 + [Krypton](https://github.com/astei/krypton)
 + [LambDynamicLights](https://github.com/LambdAurora/LambDynamicLights)
++ [Language Reload](https://github.com/Jerozgen/LanguageReload)
 + [LazyDFU](https://github.com/astei/lazydfu)
 + [Lithium](https://github.com/CaffeineMC/lithium-fabric)
 + [Memory Leak Fix](https://github.com/fxmorin/memoryLeakFix)
 + [Mod Menu](https://github.com/TerraformersMC/ModMenu)
++ [MoreChatHistory](https://github.com/JackFred2/MoreChatHistory)
 + [More Culling](https://github.com/fxmorin/moreculling)
-+ [Not Enough Crashes](https://github.com/natanfudge/Not-Enough-Crashes)
++ [Not Enough Animations](https://github.com/tr7zw/NotEnoughAnimations)
++ ~~[Not Enough Crashes](https://github.com/natanfudge/Not-Enough-Crashes)~~
 + [Ok Zoomer](https://github.com/EnnuiL/OkZoomer)
 + [Presence Footsteps](https://github.com/Sollace/Presence-Footsteps)
 + [Quilt Standard Libraries](https://github.com/QuiltMC/quilt-standard-libraries)
@@ -60,9 +91,8 @@ Thank you 💖 for being there and have a nice game!
 + [Smooth Boot](https://github.com/UltimateBoomer/mc-smoothboot)
 + [Sodium Extra](https://github.com/FlashyReese/sodium-extra-fabric)
 + [Sodium](https://github.com/CaffeineMC/sodium-fabric/)
-+ [Sound Physics Remastered](https://github.com/henkelmax/sound-physics-remastered)
 + [Starlight](https://github.com/PaperMC/Starlight)
-+ [thorium](https://github.com/PotassiumMC/thorium)
++ [YetAnotherConfigLib](https://github.com/isXander/YetAnotherConfigLib)
 + [YOSBR](https://github.com/shedaniel/your-options-shall-be-respected)
 
 ### Resource packs
@@ -70,14 +100,13 @@ Thank you 💖 for being there and have a nice game!
 + [xali's Enhanced Biomes: River & Pond](https://github.com/xalixilax/xali-s-Enhanced-Biome-River-And-Pond-16x)
 + [xali's Enchanted Books](https://github.com/xalixilax/xali-s-Enchanted-Books-16x)
 + [xali's Enhanced Jungle Wood](https://www.curseforge.com/minecraft/texture-packs/xalis-enhanced-jungle-wood)
-+ [xali's Enhanced Vanilla](https://github.com/xalixilax/xali-s-Enhanced-Vanilla-16x)
++ ~~[xali's Enhanced Vanilla](https://github.com/xalixilax/xali-s-Enhanced-Vanilla-16x)~~ (Wait fix)
 + [xali's Potions](https://www.curseforge.com/minecraft/texture-packs/xalis-potions)
 
-### Shader packs configurations
-+ [*BSL Shaders](https://www.curseforge.com/minecraft/customization/bsl-shaders)
-+ [*Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
-+ [*Complementary Reimagined](https://www.curseforge.com/minecraft/customization/complementary-reimagined)
-+ [*Sildur's Enhanced Default](https://www.curseforge.com/minecraft/customization/sildurs-enhanced-default)
+### Shader packs
++ [BSL Shaders](https://www.curseforge.com/minecraft/customization/bsl-shaders)
++ [Complementary Shaders](https://www.curseforge.com/minecraft/customization/complementary-shaders)
++ [Complementary Reimagined](https://www.curseforge.com/minecraft/customization/complementary-reimagined)
 
 ## 📌 Additional
 ### Classification of versions
