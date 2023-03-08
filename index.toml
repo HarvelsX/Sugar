@@ -277,6 +277,11 @@ hash = "3265f222db672bcdfa21451076533d8de23be78c2d970ea7baad5a9f36a5818d"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "1a82a46d3ce109c622423329aa6a539500d31203a3c320794ecaaef47b496ab5"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-searchability.pw.toml"
 hash = "e8e4c4c6d7664cb92ee0cd9648d97103cd28e8d2d3f76dfe5ca71c0481019ba2"
 metafile = true
@@ -397,11 +402,6 @@ hash = "fcac1bcf706fe28885f89db2492e2e7acf18fa8cd8d5eccfe464edc22b403e88"
 metafile = true
 
 [[files]]
-file = "mods/qsl-base.pw.toml"
-hash = "b052d3620bf1b71e309e73de5a8696979a315743e485e8065e31d603f0cdad51"
-metafile = true
-
-[[files]]
 file = "mods/qsl.pw.toml"
 hash = "709ac65c32860269252e41796d44452a5e1da129fc5102e71804737dd60a4dbb"
 metafile = true
@@ -409,11 +409,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "ddb838ca3f7bce35d33a5752bd029edf286c78d5863b97e3de3fc0c1fc2f8146"
-metafile = true
-
-[[files]]
-file = "mods/resource-loader.pw.toml"
-hash = "ff8a911f0303366c695c3ab9d63a70ea44804fd17b4acb2ca2303d69597ed763"
 metafile = true
 
 [[files]]
@@ -475,21 +470,16 @@ hash = "5f59a064216fbe13d59d697f34b0312ff1f29237f830a206a6d4122f04197fb1"
 metafile = true
 
 [[files]]
-file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
-hash = "ae61b77305c5da995fee86f1e9f4157767646e8f5474877f59da45a1304f0eb5"
-metafile = true
-
-[[files]]
 file = "resourcepacks/xalis-potions.pw.toml"
 hash = "a9d8d6ed9e5914a75757d29e867d42db75d0e4ec2ba59fc0741e54ea3155a4c8"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v8.2.01.zip.txt"
+file = "shaderpacks/BSL_v8.2.02.zip.txt"
 hash = "7d79d063d033b8780cff987e55ea7d30f0129d926a511e02467bc89ab8eb2fa2"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r1.4.zip.txt"
+file = "shaderpacks/ComplementaryReimagined_r2.0.3.zip.txt"
 hash = "f4db72dfa6a21c24944444f3fe0fa2f47dc07c21ebed8fa51146c69f2cb6c5a2"
 
 [[files]]
