@@ -268,17 +268,12 @@ metafile = true
 
 [[files]]
 file = "mods/dcch.pw.toml"
-hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
+hash = "a7647affc5193b7c974685e0f3fc6adf033ed6e3644f5bd44e7c088f635bc085"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "c6ae0cacd489c88f828ce9190fdb47bdfa4d9a4160bd51edb33c612e104776e0"
-metafile = true
-
-[[files]]
-file = "mods/dont-clear-chat-history.pw.toml"
-hash = "9e8a66d43611d16b5809628f192db4c81ec55c2a6dead5d4cd85923f0cbb2d6c"
 metafile = true
 
 [[files]]
@@ -288,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
+hash = "4aa0f296399e08dfcb07575c1692a434d6f4815d1c15ed3565765e6d321a2485"
 metafile = true
 
 [[files]]
@@ -303,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b9e92b5e0baed5a916779ef0016172d2d42ea310d9742744a8c920ecee4d7b9a"
+hash = "15ba62f68c8edb4e9bd600242dfcaa194ab96142e7f09bed924d0ff5b4ec2f88"
 metafile = true
 
 [[files]]
@@ -368,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "6682a581b77e820ea340d3279b7a49f5d311d3fa0b08b53628c9bf56a7c668ac"
+hash = "7f58980f4462bb00112c559e948d20c6fc2f419c33d93dbc20607832ada410ce"
 metafile = true
 
 [[files]]
@@ -453,12 +448,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/ctm-overhaul.pw.toml"
-hash = "055bab153927a1cc34467cb2ed6c3bcd3260fedfaab6140f5f9f799511cfc519"
+hash = "6dad07015c10e54224d9ee4bd129e52339403890d49de83f964efca7864ccde4"
 metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "f9608cb8fbca61cd4686b1bb2201d2fa724d2a004f9f4d79637532b110fcc6dc"
+hash = "6b49d0e591f73d43a90a56924c5b447208386afbc662b471111306f8e5de9ace"
 metafile = true
 
 [[files]]
@@ -476,12 +471,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-enhanced-jungle-wood.pw.toml"
-hash = "5f59a064216fbe13d59d697f34b0312ff1f29237f830a206a6d4122f04197fb1"
+hash = "3040adb8d68f2faa0ea005fc88513ff081fe7eb7809f8ca7f7d18d4bfb4f370e"
 metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-potions.pw.toml"
-hash = "a9d8d6ed9e5914a75757d29e867d42db75d0e4ec2ba59fc0741e54ea3155a4c8"
+hash = "faf8b7a7e31896ca09ab5edf917b380c050d4e6c34d0a4f0c00fad11b2c094a9"
 metafile = true
 
 [[files]]
@@ -501,7 +496,7 @@ file = "shaderpacks/ComplementaryShaders_v4.7.1_NS.zip.txt"
 hash = "3f7fb0aec4ee921f80dbb944dac54a4df24e803be9607b750b03be16c37cad69"
 
 [[files]]
-file = "shaderpacks/Sildur's Enhanced Default v1.141 Fancy.zip.txt"
+file = "shaderpacks/Sildur's+Enhanced+Default+v1.15+Fancy.zip.txt"
 hash = "51dbe91be0436a94a58f0827e216f1822cf208950f0173fb7d349c87a9bc935f"
 
 [[files]]
