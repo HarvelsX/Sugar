@@ -19,7 +19,7 @@ The manual installation uses an archive with the extension `.zip`, and the insta
 Simply unpack the archive into the games directory.
 
 List of changes:
-+ Finally, more productivity! Or is it?
++ Finally, more performance! Or is it?
 
 You can install Quilt 0.18.2 using the official installer: 
 https://quiltmc.org/install/
