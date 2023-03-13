@@ -282,11 +282,6 @@ hash = "3265f222db672bcdfa21451076533d8de23be78c2d970ea7baad5a9f36a5818d"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "4aa0f296399e08dfcb07575c1692a434d6f4815d1c15ed3565765e6d321a2485"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-searchability.pw.toml"
 hash = "e8e4c4c6d7664cb92ee0cd9648d97103cd28e8d2d3f76dfe5ca71c0481019ba2"
 metafile = true
@@ -353,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "b58387d9d4bf34d43b333fa95ccd24d7d6bdd10c9a68a89b2aed52132a837286"
+hash = "9042f550477487ac0cdf5968c935dc009698888f5d43b8232e49cf687e579651"
 metafile = true
 
 [[files]]
@@ -373,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "c6d520896c4ed69c2f36d55ca2fc639029e8677681c08ccdfead7f95e0068d60"
+hash = "0c6a97e6213ff0cb5e32a03e207a85e34f386e95671b675007f5bdb1a021a68b"
 metafile = true
 
 [[files]]
