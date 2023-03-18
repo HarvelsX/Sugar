@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "0ba2ff9e4663d8930517d2ffe6fba7e4d84c3ae7dba63bf68f5a98a25e8330ef"
+hash = "83d8a8865dfe81276fabc0c7085106a760608c0a3d569716fc77b3d0cb4d4c0d"
 metafile = true
 
 [[files]]
@@ -303,12 +303,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "fb97fdc26aced4d7e9d7d72032fc4e58ad334db57efe503f8e6a725259f61798"
+hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "4d1d761b0905b18c127d3c5642230ea681f0c52bb5f24df1779b085345c013fa"
+hash = "6ecd2a8ab1d0583d10fc4df74e9a0282055b497d61467a75bec3adaf88abb143"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "15079561761b24c9bc94c479d1fa347511c78aeb40206eaf57f296eedabd1932"
+hash = "d1592cce2fde95f73e257d48d7ee739542c1f6b641325bbadf092fd38c4f5cca"
 metafile = true
 
 [[files]]
@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "9042f550477487ac0cdf5968c935dc009698888f5d43b8232e49cf687e579651"
+hash = "88327c12d7d616af1d5c7e16abda18c231aea933ad759cb232408449bb1f67d1"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7f58980f4462bb00112c559e948d20c6fc2f419c33d93dbc20607832ada410ce"
+hash = "2dcac529633f402a5a325b8031bf15a06db668b912e6be1596836bde3afb17f1"
 metafile = true
 
 [[files]]
@@ -383,12 +383,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "d7018c4d6d43806e5cd2ef62be94e5904aec0fcd79733f47dc9e7c396ec87024"
+hash = "0ac90dcc33473b316b975601f5c69f172e9babae174e7c85ec24281e31903934"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ca586fe2fb80a3a8cc12f7abc6f2bcec213b700955d4a91e27f0488793fa6a2b"
+hash = "bf4bc45cf15ca007c159e1a963e5924e3663eb986ebabe2d79df2a7894f665de"
 metafile = true
 
 [[files]]
@@ -418,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "8accc7a4bfc53189215b8b446fd78c62bf7c56b6413c3179778282453f20315d"
+hash = "4b3e56fec52c8a95bb59e11f745be3a5ed8a527714cb4b5fb8ac5b7bf3cc662f"
 metafile = true
 
 [[files]]
