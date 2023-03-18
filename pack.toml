@@ -1,12 +1,12 @@
 name = "Sugar"
 author = "Harvel"
-version = "3.3.4.2"
+version = "3.3.4.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2063a046721a5357124aa7ed8f7fb6a59ea91ff84b3760ca8412755c5b26721e"
+hash = "b7b4edfd785c4b4aa5f35b8f2fabe786cf5df44ee98e1c55f60b52ca320cdf66"
 
 [versions]
 minecraft = "1.19.3"

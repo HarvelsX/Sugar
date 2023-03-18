@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "83d8a8865dfe81276fabc0c7085106a760608c0a3d569716fc77b3d0cb4d4c0d"
+hash = "3a374905525237ac20ab53dd6a8e497266db130bff924465a0a752e45e1d4e43"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
+hash = "e98e5bd9de12f36cb74f8ea297a157c20e9c154c50ccd50720c88e362f22972d"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d1592cce2fde95f73e257d48d7ee739542c1f6b641325bbadf092fd38c4f5cca"
+hash = "80bc2511e586341264b5ab104f2108d8427f2847c86092eb792ae5c9ff5d818b"
 metafile = true
 
 [[files]]
@@ -348,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "88327c12d7d616af1d5c7e16abda18c231aea933ad759cb232408449bb1f67d1"
+hash = "7a00a1799807a33020524b5c77e4ef4713986422897709e1f3a82799ae4504ba"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "2dcac529633f402a5a325b8031bf15a06db668b912e6be1596836bde3afb17f1"
+hash = "40db3c545b721cacdd2c8536cc8c3d168225029b71f883ba08f2174a6919407d"
 metafile = true
 
 [[files]]
@@ -383,12 +383,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0ac90dcc33473b316b975601f5c69f172e9babae174e7c85ec24281e31903934"
+hash = "2663e1e449d5c986876be348f645ac0d60f68f1dd745ed4bf1a763fe04fdb8fa"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "bf4bc45cf15ca007c159e1a963e5924e3663eb986ebabe2d79df2a7894f665de"
+hash = "9bb5ef153799568058ac12f1e188fe0047129d1165dfcaabbbd333f1b92dd48c"
 metafile = true
 
 [[files]]
@@ -418,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "4b3e56fec52c8a95bb59e11f745be3a5ed8a527714cb4b5fb8ac5b7bf3cc662f"
+hash = "a783446e2c6c1f546586972b29cc992db8a93a42187ad6436348516eb1637f17"
 metafile = true
 
 [[files]]
