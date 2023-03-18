@@ -1,16 +1,16 @@
 name = "Language Reload"
-filename = "language-reload-1.5.5+1.19.3.jar"
+filename = "language-reload-1.5.6+1.19.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/TDGILWIf/language-reload-1.5.5%2B1.19.3.jar"
+url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/6MS2uDat/language-reload-1.5.6%2B1.19.3.jar"
 hash-format = "sha1"
-hash = "9ecbcab3809a71da0f6899d15773d8cb646320f0"
+hash = "738b03dbd921a17b41016e52d9d89a629586a3f2"
 
 [update]
-[update.curseforge]
-file-id = 4434814
-project-id = 527334
 [update.modrinth]
 mod-id = "uLbm7CG6"
-version = "TDGILWIf"
+version = "6MS2uDat"
+[update.curseforge]
+file-id = 4439231
+project-id = 527334
