@@ -1,12 +1,12 @@
 name = "Sugar"
 author = "Harvel"
-version = "3.4.4"
+version = "3.4.4-rc1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fb62e9c0c2c9544368da911f4fd152a41eb7c07da21840344f8e5f98d1820d21"
+hash = "faa515b79b0a23dcd50c61559f00f7ff9ced80798627f6e340dee812f6192e1c"
 
 [versions]
 minecraft = "1.19.4"
@@ -17,3 +17,4 @@ quilt = "0.18.6"
 project-id = 560248
 
 [options]
+acceptable-game-versions = ["1.19.3"]

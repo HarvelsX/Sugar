@@ -17,11 +17,11 @@ Thank you 💖 for being there and have a nice game!
 ![Banner](.github/assets/banner.png "Sugar Modpack")
 
 ### To improve performance, try custom JVM arguments:
-Set minimum memory allocation equal to maximum memory allocation. 
+Set minimum memory allocation equal to maximum memory allocation:
 ```
 -XX:+UseG1GC -Dsun.rmi.dgc.server.gcInterval=2147483646 -XX:+UnlockExperimentalVMOptions -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M
 ```
-or for >8GB RAM
+or for >8GB RAM:
 ```
 -XX:+UseShenandoahGC -XX:+UnlockExperimentalVMOptions -XX:+AlwaysPreTouch -XX:+UseStringDeduplication -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -XX:-OmitStackTraceInFastThrow -XX:+OptimizeStringConcat -Dfml.readTimeout=180
 ```
@@ -32,9 +32,13 @@ or for >8GB RAM
 *\* resources that you can install in the assembly, the settings for these resources are already provided.*
 
 ### Mods
-+ [*Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered/versions?l=fabric&g=1.19.3)
-+ [*Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4424637)
-+ [*Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4418101)
++ [*AppleSkin](https://modrinth.com/mod/appleskin/versions?l=quilt&g=1.19.4)
++ [*First-person Model](https://modrinth.com/mod/first-person-model/versions?l=fabric&g=1.19.4)
++ [*3D Skin Layers](https://modrinth.com/mod/3dskinlayers/versions?l=fabric&g=1.19.4)
++ [*Smooth Swapping](https://modrinth.com/mod/smooth-swapping/versions?g=1.19.4)
++ [*Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered/versions?l=fabric&g=1.19.4)
++ [*Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4470080)
++ [*Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4470060)
 
 ### Shader packs
 + [*Sildur's Enhanced Default](https://www.curseforge.com/minecraft/customization/sildurs-enhanced-default/files/4278034)
@@ -54,8 +58,8 @@ or for >8GB RAM
 + [Custom Entity Models](https://github.com/dorianpb/cem)
 + [CITResewn](https://github.com/SHsuperCM/CITResewn)
 + ~~[Colormatic](https://github.com/kvverti/colormatic)~~
-+ [Continuity](https://github.com/PepperCode1/Continuity) ([Dev Build](https://discord.gg/7rnTYXu))
-+ ~~[CustomHUD](https://github.com/Minenash/CustomHUD)~~ (Wait update)
++ [Continuity](https://github.com/PepperCode1/Continuity)
++ [CustomHUD](https://github.com/Minenash/CustomHUD)
 + [Dark Loading Screen](https://github.com/A5b84/dark-loading-screen)
 + [Don't Clear Chat History](https://github.com/emmods/DCCH)
 + [Debugify](https://github.com/isXander/Debugify)

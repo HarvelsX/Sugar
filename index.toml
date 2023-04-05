@@ -14,7 +14,7 @@ hash = "c77bd2395476b35c0f31cac8af99e8a884966d4dc98b6e73076d28940c50004e"
 
 [[files]]
 file = "config/custom-hud/profile1.txt"
-hash = "f1fbdc3ac4f7d2f3d7ef26e1fb9fd2bad94ecd2e74f2c5cd1f8175c56b73cc7a"
+hash = "634b6c817af8f86db63b18f4bcd6c3c0c716746cdfb96dc97cdf6022cc07f34c"
 
 [[files]]
 file = "config/dark-loading-screen.json"
@@ -77,6 +77,10 @@ file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
+file = "config/yosbr/config/appleskin.json5"
+hash = "1b7e631b167cd21be483c09c3ce27cad8d15eb4033eb004b7fea65648cf44dbd"
+
+[[files]]
 file = "config/yosbr/config/blur.json"
 hash = "61287dafe4d782a60d05f4b5e417407da0d7c08378468b2572b00797a6a1c08b"
 
@@ -114,7 +118,7 @@ hash = "74efe4642640ba19537becf0f2dbf7a34d957d3902b88f5e0a53fec9a9b28796"
 
 [[files]]
 file = "config/yosbr/config/custom-hud/profile2.txt"
-hash = "6238c16957f4ae04535c6b20c787e5347925d62c1e6ab81cfeac27a039c7dd00"
+hash = "775416472480944da710b09587f0090ea5dadc528c1ffea65259bd8bf65e6425"
 
 [[files]]
 file = "config/yosbr/config/debugify-descriptions.json"
@@ -143,6 +147,10 @@ hash = "50a55c924278220692f53d4d0a0663a271cf563c4da17f8208c3159c1c88f10b"
 [[files]]
 file = "config/yosbr/config/fallingleaves.json"
 hash = "0c3b5ca101a5b604cd5eb13b1f80c569004735d586b86d72dc6ca9a3d33bb588"
+
+[[files]]
+file = "config/yosbr/config/firstperson.json"
+hash = "888c308f1c21e6c7dc8530bdd6f70e93ab6bf69161526351db883e248a79c919"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -179,6 +187,14 @@ hash = "4ffd7f8150a3f67bc8d57762f4170d1f8a594967ee12240a27491b5ac254b43f"
 [[files]]
 file = "config/yosbr/config/quilt/qsl/registry.toml"
 hash = "e779f85c4292306465a258b9fcfbb72c3590b078787ef79e364ee0845b9f9551"
+
+[[files]]
+file = "config/yosbr/config/skinlayers.json"
+hash = "b0ca2818b56ce84e2f5a0febc5bbc3df41503d26c2f3a210839c2f5ba0b854ac"
+
+[[files]]
+file = "config/yosbr/config/smoothswapping.json"
+hash = "d9c4f1fc51e524fdbf0c6d5f4588ba048bfecfe51256561a70355d164d72a75f"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -238,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "9b82091b83530af7cf191e7dfc34d94d72616be5ff8f4726d342d73f1fcfb51c"
+hash = "20aa5508dfe1d89e3a37e04efc99a80ac5571f1c359f004507514caf885bdd8e"
 metafile = true
 
 [[files]]
@@ -303,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e98e5bd9de12f36cb74f8ea297a157c20e9c154c50ccd50720c88e362f22972d"
+hash = "4994e3e7c1c9c6ed5546844e5a28f51c0e27f0d54904f620bcb7c9690b53db45"
 metafile = true
 
 [[files]]
@@ -368,7 +384,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "27cf303817c4a5022857fc5078a421aee6c0b651eba104be312cdf82237063d8"
+hash = "103c9c061274b879785e2891429c2015fd92ebbdd6115262b77a2e101fe2c71e"
 metafile = true
 
 [[files]]
@@ -397,8 +413,13 @@ hash = "0d9a23aac7ad5f7b47fbc8ce4df00f7ed27629f94f6d1de15047d7e5f6ffe6f3"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "59d3d1cbdeea0f29626afef8b875a3d59d114c60af500be630f7dcb97f614d95"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
-hash = "5c54471e556350c97441bf5481fec8d71b4e36a087d4ab38f4982eb4380482e8"
+hash = "1b3b391e8e6cee3bc17856eee167f2b6fb99d94406ef237d280a61bad62d0c1e"
 metafile = true
 
 [[files]]
@@ -428,12 +449,17 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "a67f05e5808cfa94127d13ac3672c0c80aac4f18d7e114c2da56bdd9ca8051c0"
+hash = "a20488c2f34f33258e8748941408a2db3a6d09337c9e4215e7e7f5f1e7d1ba87"
 metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "11a8a3942a98d9fdc4bea427e85703387272c80ea66e05cba061fe64e4e07846"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-grass.pw.toml"
+hash = "d5aff5a56d54a37eb3aeae470a67f063e745a4f1d07e8ffed89651f6be84c8c8"
 metafile = true
 
 [[files]]
@@ -447,12 +473,13 @@ hash = "e11c1e398dac0c5bf9ff3f50967f3afc497572eb27f9e23861279b3d71aa8d05"
 metafile = true
 
 [[files]]
-file = "resourcepacks/xali-s-Bushy-Leaves-Addon-16x-rev.5e3bf4b.zip"
-hash = "f52d0969f0fcf3725b51d558a8de1e2c5d727a9614925ade576162762f1c6321"
-
-[[files]]
 file = "resourcepacks/xali-s-Enhanced-Biome-River-And-Pond-16x-rev.640bc1f.zip"
 hash = "f0ea96d3fb40e4c3104217420d34ed40a52a32f659f162fd60da127bbddb9ae3"
+
+[[files]]
+file = "resourcepacks/xalis-bushy-leaves.pw.toml"
+hash = "9b55b7e7b77c05a0df95c7821e463f1cad1549cc639421a498987bfe2e183871"
+metafile = true
 
 [[files]]
 file = "resourcepacks/xalis-enchanted-books.pw.toml"
@@ -462,11 +489,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/xalis-enhanced-jungle-wood.pw.toml"
 hash = "3040adb8d68f2faa0ea005fc88513ff081fe7eb7809f8ca7f7d18d4bfb4f370e"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xalis-enhanced-vanilla.pw.toml"
-hash = "9c379609d2815cca22436e025bcbbbf0d8f314a5fe9ba5de697a878524dff99a"
 metafile = true
 
 [[files]]
