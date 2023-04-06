@@ -225,6 +225,10 @@ file = "config/yosbr/config/xaeroworldmap.txt"
 hash = "cc85327a8d07677081a9c1dd23eccefe4c926c26d5d269db7735b3a5a3fd9a29"
 
 [[files]]
+file = "config/yosbr/config/zoomify.json"
+hash = "6a7634d3392db7c8bb19d62139820c95ef113d0169d78474f2941bbcc16a9f4a"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "183c3067f8fde6db761ad42dc8c73bbc4ff4dc5ab9c092fe9cfe4143697ec83d"
 
@@ -318,6 +322,11 @@ hash = "3590dffcad4f98303903ba259f18042890a31567fd9934c1e4c5c52607a3de50"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "df04fb95049caaf4ee9e9126faf9cbf08c0fc9ed4de909329af2be346c6eb9d1"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "4994e3e7c1c9c6ed5546844e5a28f51c0e27f0d54904f620bcb7c9690b53db45"
 metafile = true
@@ -364,7 +373,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "87aada96b276a14e6cfaf7c0ff38716ee0bab152147cd1846ff595cf7b9d1b7e"
+hash = "a6187f29d9f426ffa05923b12b7f490ab101a72306bac77aa267cd46f51625c0"
 metafile = true
 
 [[files]]
@@ -408,18 +417,8 @@ hash = "3efd6a408a27fede5baaf6017bd2e36bf4dd910ca6913bb6ad5a04ab0901c1d2"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.pw.toml"
-hash = "0d9a23aac7ad5f7b47fbc8ce4df00f7ed27629f94f6d1de15047d7e5f6ffe6f3"
-metafile = true
-
-[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "59d3d1cbdeea0f29626afef8b875a3d59d114c60af500be630f7dcb97f614d95"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "1b3b391e8e6cee3bc17856eee167f2b6fb99d94406ef237d280a61bad62d0c1e"
 metafile = true
 
 [[files]]
@@ -464,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/ctm-overhaul.pw.toml"
-hash = "6dad07015c10e54224d9ee4bd129e52339403890d49de83f964efca7864ccde4"
+hash = "2e25d0a11fb07d102cbb2297a530776be552a8afcadde104dad800dd14d84ec1"
 metafile = true
 
 [[files]]
@@ -518,15 +517,15 @@ hash = "51dbe91be0436a94a58f0827e216f1822cf208950f0173fb7d349c87a9bc935f"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "6f796fa32047df2fba6fca47eb50b8547a82f80c0522c9d0822a43436d5d1f6b"
+hash = "03069b3c6119af3d3f4b3f6c21e72610b329cbb3c756e76a5319bdf7910b975f"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "e4cd5bef21a8dc78fd3370ca7b7bd364c7df8e196ec076bfff87ef570bffb64e"
+hash = "b02010581e42350eb5bee58cfb14fe3b3de533671b2f7a493578fffb040f0f65"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-shaders-v4.pw.toml"
-hash = "d468216fa4b4917769fae3179b7bb47656f8a65474e87352d5b379783384e0af"
+hash = "032d7f02d6f4b9e8656aeb087a207c3e93142280e2daa4de1d8acf3658456da9"
 metafile = true
