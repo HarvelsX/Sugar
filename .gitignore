@@ -7,3 +7,5 @@
 
 # Exclude output directory
 .output/
+
+*.mrpack
