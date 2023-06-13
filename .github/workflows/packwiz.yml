@@ -29,15 +29,15 @@ jobs:
         id: info
         run: |
           eval "$(tombl -e name=name pack.toml)"
-          echo "::set-output name=name::$name"
+          echo "name=$name" >> $GITHUB_OUTPUT
           eval "$(tombl -e version=version pack.toml)"
-          echo "::set-output name=version::$version"
+          echo "version=$version" >> $GITHUB_OUTPUT
           eval "$(tombl -e minecraft=versions.minecraft pack.toml)"
-          echo "::set-output name=minecraft::$minecraft"
+          echo "minecraft=$minecraft" >> $GITHUB_OUTPUT
           sha=`echo $GITHUB_SHA | cut -c 1-7`
-          echo "::set-output name=sha::$sha"
+          echo "sha=$sha" >> $GITHUB_OUTPUT
           package=${name}-${version}-rev.${sha}
-          echo "::set-output name=package::$package"
+          echo "package=$package" >> $GITHUB_OUTPUT
   build:
     runs-on: ubuntu-latest
     needs: [info]
@@ -54,7 +54,6 @@ jobs:
         with:
           go-version: '>=1.18.0'
           check-latest: true
-          cache: true
       - name: Cache Go modules
         uses: actions/cache@v3
         id: cache
