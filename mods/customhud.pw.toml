@@ -1,0 +1,16 @@
+name = "CustomHud"
+filename = "custom_hud-3.1.0+1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6jis0UTI/versions/kxfhHenH/custom_hud-3.1.0%2B1.19.4.jar"
+hash-format = "sha1"
+hash = "d1ce7033a550e559a3f64374a09da547f19b690b"
+
+[update]
+[update.modrinth]
+mod-id = "6jis0UTI"
+version = "kxfhHenH"
+[update.curseforge]
+file-id = 4560282
+project-id = 406984

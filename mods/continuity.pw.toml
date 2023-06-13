@@ -1,16 +1,16 @@
 name = "Continuity"
-filename = "continuity-3.0.0-beta.21.19.3.jar"
+filename = "continuity-3.0.0-beta.2+1.19.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.discordapp.com/attachments/872543494554648637/1072588299165769829/continuity-3.0.0-beta.21.19.3.jar"
+url = "https://cdn.modrinth.com/data/1IjD5062/versions/4h5IIa7B/continuity-3.0.0-beta.2%2B1.19.3.jar"
 hash-format = "sha1"
 hash = "229057727abf35e0469527b94d84d96e1770c156"
 
-# [update]
-# [update.curseforge]
-# file-id = 3927270
-# project-id = 531351
-# [update.modrinth]
-# mod-id = "1IjD5062"
-# version = "xTtULC68"
+[update]
+[update.modrinth]
+mod-id = "1IjD5062"
+version = "4h5IIa7B"
+[update.curseforge]
+file-id = 4453988
+project-id = 531351

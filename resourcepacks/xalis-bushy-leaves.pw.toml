@@ -1,0 +1,17 @@
+name = "xali's Bushy Leaves"
+filename = "xalis Bushy Leaves v3.3.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ff4JOkSA/versions/kAIjNyAD/xalis%20Bushy%20Leaves%20v3.3.0.zip"
+hash-format = "sha1"
+hash = "9c14a40cdee755361a46cc2b0bbba6c15663bed6"
+
+[update]
+[update.modrinth]
+mod-id = "ff4JOkSA"
+version = "kAIjNyAD"
+[update.curseforge]
+file-id = 4400707
+project-id = 557489
+

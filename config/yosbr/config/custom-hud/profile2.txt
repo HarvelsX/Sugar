@@ -1,9 +1,9 @@
 ==BackgroundColor:0x00000000==
 ==Scale:1.0==
 ==Section:TopLeft==
-&dSugar &f${version} &7{fps}
+&{F46EF4}Sugar &f${version} &7{fps}
 ==Section:TopRight==
 ==Section:BottomLeft==
-&9⚓ &f{x -p0} &f{y -p0} &f{z -p0} &7{biome} &8{{facing="north", "↑"}}{{facing="south", "↓"}}{{facing="east", "→"}}{{facing="west", "←"}}
+&9⚓ &f{x -p0} &f{y -p0} &f{z -p0} &7{biome} &8{{facing="north", "↑", facing="south", "↓", facing="east", "→", facing="west", "←"}}
 ==Section:BottomRight==
-{{item!="Air", '{item}{{item_has_dur, " {item_dur_per}%"}}'}}&7{{oitem!="Air", ' {oitem}{{oitem_has_dur, " {oitem_dur_per}%"}}'}}
+{{item:main:id!="minecraft:air", "{item:main:icon} {item:main:name}{{item:main:dur>0, ' {item:main:dur_per}%'}}"}}{{item:offhand:id!="minecraft:air", " {item:offhand:icon} &7{item:offhand:name}{{item:offhand:dur>0, ' {item:offhand:dur_per}%'}}"}}

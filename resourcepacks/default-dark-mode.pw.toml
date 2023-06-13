@@ -1,16 +1,16 @@
 name = "Default Dark Mode"
-filename = "Default-Dark-Mode-1.19.3-v1.4.0.zip"
+filename = "Default-Dark-Mode-1.19-2023.6.0.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/6SLU7tS5/versions/MjPlUA8r/Default-Dark-Mode-1.19.3-v1.4.0.zip"
+url = "https://cdn.modrinth.com/data/6SLU7tS5/versions/JnDW4VLZ/Default-Dark-Mode-1.19-2023.6.0.zip"
 hash-format = "sha1"
-hash = "ece027eaa9199c169dc6e028163b2680d08a9dd4"
+hash = "5673fcfda9a6ae8ca1bd9cb30ff2ef354d4b32d5"
 
 [update]
 [update.curseforge]
-file-id = 4284266
+file-id = 4574980
 project-id = 349116
 [update.modrinth]
 mod-id = "6SLU7tS5"
-version = "MjPlUA8r"
+version = "JnDW4VLZ"
