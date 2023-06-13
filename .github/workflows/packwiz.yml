@@ -8,28 +8,36 @@ jobs:
     outputs:
       name: ${{ steps.info.outputs.name }}
       version: ${{ steps.info.outputs.version }}
+      minecraft: ${{ steps.info.outputs.minecraft }}
       sha: ${{ steps.info.outputs.sha }}
       package: ${{ steps.info.outputs.package }}
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Setup Go
-        uses: actions/setup-go@v3
+      - uses: robinraju/release-downloader@v1.8
         with:
-          go-version: '>=1.18.0'
-      - name: Prepare environment
-        run: GO111MODULE=on go install github.com/freshautomations/stoml@latest
+          repository: snyball/tombl
+          fileName: '*.tar.gz'
+          latest: true
+      - name: Install tombl
+        run: |
+          mkdir bin
+          tar -zxvf tombl-*.tar.gz -C bin/
+          readonly tombl=$(find bin/ -type f -executable -print -quit)
+          echo "$(dirname $tombl)" >> $GITHUB_PATH
       - name: Get info
         id: info
         run: |
-            name=`stoml pack.toml name`
-            echo "::set-output name=name::$name"
-            version=`stoml pack.toml version`
-            echo "::set-output name=version::$version"
-            sha=`echo $GITHUB_SHA | cut -c 1-7`
-            echo "::set-output name=sha::$sha"
-            package=${name}-${version}-rev.${sha}
-            echo "::set-output name=package::$package"
+          eval "$(tombl -e name=name pack.toml)"
+          echo "::set-output name=name::$name"
+          eval "$(tombl -e version=version pack.toml)"
+          echo "::set-output name=version::$version"
+          eval "$(tombl -e minecraft=versions.minecraft pack.toml)"
+          echo "::set-output name=minecraft::$minecraft"
+          sha=`echo $GITHUB_SHA | cut -c 1-7`
+          echo "::set-output name=sha::$sha"
+          package=${name}-${version}-rev.${sha}
+          echo "::set-output name=package::$package"
   build:
     runs-on: ubuntu-latest
     needs: [info]
@@ -45,7 +53,16 @@ jobs:
         uses: actions/setup-go@v3
         with:
           go-version: '>=1.18.0'
+          check-latest: true
+          cache: true
+      - name: Cache Go modules
+        uses: actions/cache@v3
+        id: cache
+        with:
+          path: ~/go/pkg/mod
+          key: ${{ runner.os }}-build
       - name: Download Packwiz
+        if: steps.cache.outputs.cache-hit != 'true'
         run: go install github.com/packwiz/packwiz@latest
       - name: Prepare environment
         run: |
@@ -78,7 +95,6 @@ jobs:
            -O .temp/packwiz-installer-bootstrap.jar
       - name: Export Modpack
         run: |
-          packwiz curseforge export -o .output/${{ needs.info.outputs.package }}.curseforge.zip
           packwiz modrinth export -o .output/${{ needs.info.outputs.package }}.mrpack
 
           pack=file://`realpath pack.toml`
@@ -90,7 +106,7 @@ jobs:
       - name: Upload Artifacts
         uses: actions/upload-artifact@v2
         with:
-          name: Modpack
+          name: modpacks
           path: .output/
 
   release:
@@ -103,14 +119,15 @@ jobs:
       - name: Download modpack
         uses: actions/download-artifact@v2
         with:
-          name: Modpack
+          name: modpacks
       - name: Create release
         uses: softprops/action-gh-release@v1
         with:
+          draft: true
+          name: ${{ needs.info.outputs.name }} ${{ needs.info.outputs.version }} for ${{ needs.info.outputs.package }}
           body_path: CHANGELOG.md
           files: |
             ${{ needs.info.outputs.package }}.zip
-            ${{ needs.info.outputs.package }}.curseforge.zip
             ${{ needs.info.outputs.package }}.mrpack
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
