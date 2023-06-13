@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "overrides": [
+    {
+      "path": "<mods>/animatica-0.5+1.19.jar",
+      "depends": [
+        {
+          "replace": {
+            "id": "minecraft",
+            "versions": "1.19.x"
+          },
+          "with": {
+            "id": "minecraft",
+            "versions": "1.20.x"
+          }
+        }
+      ],
+      "breaks": []
+    },
+    {
+      "path": "<mods>/borderless-mining-1.1.7+1.19.4.jar",
+      "depends": [
+        {
+          "replace": {
+            "id": "minecraft",
+            "versions": "=1.19.4"
+          },
+          "with": {
+            "id": "minecraft",
+            "versions": "1.20.x"
+          }
+        }
+      ],
+      "breaks": []
+    },
+    {
+      "path": "<mods>/smoothboot-fabric-1.19.4-1.7.0.jar",
+      "depends": [
+        {
+          "replace": {
+            "id": "minecraft",
+            "versions": "=1.19.4"
+          },
+          "with": {
+            "id": "minecraft",
+            "versions": "1.20.x"
+          }
+        }
+      ],
+      "breaks": []
+    }
+  ]
+}

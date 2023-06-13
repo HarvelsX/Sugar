@@ -1,16 +1,16 @@
-name = "Presence Footsteps"
-filename = "PresenceFootsteps-1.8.2.jar"
+name = "Presence Footsteps [Fabric]"
+filename = "PresenceFootsteps-1.9.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/jxsFtML2/PresenceFootsteps-1.8.2.jar"
+url = "https://cdn.modrinth.com/data/rcTfTZr3/versions/FMF3yzCR/PresenceFootsteps-1.9.0.jar"
 hash-format = "sha1"
-hash = "2e3e563dfe16af7c38e94b21bb58b478fbd5dcb8"
+hash = "e5ea35c6c326e6f5e6fe2a8af7cbc6a955515dbc"
 
 [update]
 [update.curseforge]
-file-id = 4475028
+file-id = 4575802
 project-id = 334259
 [update.modrinth]
 mod-id = "rcTfTZr3"
-version = "jxsFtML2"
+version = "FMF3yzCR"
