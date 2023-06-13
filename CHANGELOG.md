@@ -6,24 +6,20 @@ Now available on all known platforms:
 
 https://modrinth.com/modpack/sugar
 
-~~https://www.curseforge.com/minecraft/modpacks/sugarny~~ (doesn't support QSL)
-
 For automatic installation, use the following modification package formats supported by the launchers:
-+ `.curseforge.zip` - for CurseForge similar lunchers
 + `.mrpack` - Modrinth's new standard
 Select the appropriate file extension and import it into your launcher.
 
 The manual installation uses an archive with the extension `.zip`, and the installation requires:
-+ `quilt` >= 0.18.6
++ `quilt` >= 0.19.0
 + `minecraft` = 1.19.4
 Simply unpack the archive into the games directory.
 
 List of changes:
-+ Updated to 1.19.4
-+ Added configuration for: AppleSkin, First-person Model, 3D Skin Layers, Smooth Swapping
-+ As a reminder, modpack has configurations for: Sound Physics Remastered, Xaero's World Map, Xaero's Minimap
++ Updated everything: modifications, resource packs and shader packs;
 
-You can install Quilt 0.18.6 using the official installer: 
+
+You can install Quilt 0.19.0 using the official installer: 
 https://quiltmc.org/install/
 
 An automatic installer is available for the MultiMC:
