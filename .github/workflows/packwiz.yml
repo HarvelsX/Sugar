@@ -13,7 +13,7 @@ jobs:
       package: ${{ steps.info.outputs.package }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - uses: robinraju/release-downloader@v1.8
         with:
           repository: snyball/tombl
@@ -48,7 +48,7 @@ jobs:
       package: ${{ steps.prepare.outputs.package }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Setup Go
         uses: actions/setup-go@v3
         with:
@@ -114,7 +114,7 @@ jobs:
     needs: [info, build]
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Download modpack
         uses: actions/download-artifact@v2
         with:
