@@ -5,7 +5,7 @@ side = "client"
 [download]
 url = "https://raw.githubusercontent.com/HarvelsX/Sugar/1.20.x/dev/mods/lambdynamiclights-2.3.1+1.20.jar"
 hash-format = "sha1"
-hash = "ac30bbd11c50bd8cfb0698677cfdfb8d151b7535"
+hash = "19cfbf349ee005f3ea1d206c43aa409d48e6d45f"
 
 [update]
 [update.modrinth]
