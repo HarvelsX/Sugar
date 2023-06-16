@@ -452,6 +452,10 @@ hash = "4341258f4407941f2b5c946ee336b7849320b93290af2c92c0d98250640b2059"
 metafile = true
 
 [[files]]
+file = "resourcepacks/xali's Enhanced Vanilla-1.11.2-rev.aa4dcd3.zip"
+hash = "081f20cede1065da521b4bf95e969bdf8a86dc56321a57e331e5864ee0d2009f"
+
+[[files]]
 file = "resourcepacks/xali-s-Enhanced-Biome-River-And-Pond-16x-rev.640bc1f.zip"
 hash = "f0ea96d3fb40e4c3104217420d34ed40a52a32f659f162fd60da127bbddb9ae3"
 
