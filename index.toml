@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "75652f17208f19e80b705f9c8fa8e3dbb70911d89df52e3bf34447cef288ca75"
+hash = "be694b9cf9d9d2245fb0908c837f129dd9033bfb69ffe49c0e5c9dcecb580a2e"
 metafile = true
 
 [[files]]
@@ -279,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "7cc719767d741fbffc446044eb2bd56e7be323b25ea79c3afc975fe2954313c0"
+metafile = true
+
+[[files]]
+file = "mods/customhud.pw.toml"
+hash = "261d68bf12acbc4f3f1520725b851bcb0aaeb56b868b808f8a97720a04382ee2"
 metafile = true
 
 [[files]]
@@ -342,6 +347,11 @@ hash = "3b17a9e472518ca489ab37ab29d8cec66899ca759ef4b4199721c70899ee892d"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "a31b396ddeaee70faafbb2ddb05677a602d0e584cb0645225bef8f8924791bec"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "1020e05bc24c990933954bc359e847e6b2de88e8d1fdbee2e04c07f5db83cd75"
 metafile = true
@@ -377,6 +387,11 @@ hash = "e368695dc4867acf882d3e5845de30d0e9105aecd597e3e4ffc522a48d657ea0"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "98f91f0085ead9276b94d3efb9bbae9d8a5ebe9cf2689b58cce85910a085fc95"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "986351f1b13f8e39cf7c02b53291f6700acd239de9b799c5ffc6b3c625ab542e"
 metafile = true
@@ -393,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "977fa64f69701ba5617640bf048abc10257ed00ddba615ceca1b52e65e118c2f"
+hash = "02343a477f6f4ffd9cbedd4f93252f443c599b2f8d250037920d3a47f5756e6a"
 metafile = true
 
 [[files]]
@@ -403,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "00b38741c7c66f83d205d394c1ffd7d7d881a3d8600bf96488f94496e85c309b"
+hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
 metafile = true
 
 [[files]]
