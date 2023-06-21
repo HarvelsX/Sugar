@@ -39,17 +39,17 @@ _\* resources that you can install in the assembly, the settings for these resou
 
 ### Mods
 
-- [\*AppleSkin](https://modrinth.com/mod/appleskin/versions?l=quilt&g=1.19.4)
-- [\*First-person Model](https://modrinth.com/mod/first-person-model/versions?l=fabric&g=1.19.4)
-- [\*3D Skin Layers](https://modrinth.com/mod/3dskinlayers/versions?l=fabric&g=1.19.4)
-- [\*Smooth Swapping](https://modrinth.com/mod/smooth-swapping/versions?g=1.19.4)
-- [\*Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered/versions?l=fabric&g=1.19.4)
-- [\*Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map/files/4470080)
-- [\*Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap/files/4470060)
+- [\*AppleSkin](https://modrinth.com/mod/appleskin/versions?l=quilt&g=1.20.1)
+- [\*First-person Model](https://modrinth.com/mod/first-person-model/versions?l=fabric&g=1.20.1)
+- [\*3D Skin Layers](https://modrinth.com/mod/3dskinlayers/versions?l=fabric&g=1.20.1)
+- [\*Smooth Swapping](https://modrinth.com/mod/smooth-swapping/versions?g=1.20)
+- [\*Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered/versions?l=fabric&g=1.20.1)
+- [\*Xaero's World Map](https://modrinth.com/mod/xaeros-world-map/versions?g=1.20.1)
+- [\*Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap/versions?g=1.20.1)
 
 ### Shader packs
 
-- [\*Sildur's Enhanced Default](https://www.curseforge.com/minecraft/customization/sildurs-enhanced-default/files/4278034)
+- [\*Sildur's Enhanced Default](https://adfoc.us/39232285951019)
 
 ## 📦 Resources
 
@@ -64,14 +64,14 @@ _\* resources that you can install in the assembly, the settings for these resou
 - [Borderless Mining](https://github.com/comp500/BorderlessMining)
 - [C^2M](https://github.com/RelativityMC/C2ME-fabric)
 - [Fabric Capes](https://github.com/CaelTheColher/Capes)
-- ~~[Custom Entity Models](https://github.com/dorianpb/cem)~~
+- [Custom Entity Models](https://github.com/dorianpb/cem)
 - [CITResewn](https://github.com/SHsuperCM/CITResewn)
 - [Cloth Config API](https://github.com/shedaniel/ClothConfig/) (requires a mod)
 - [Continuity](https://github.com/PepperCode1/Continuity)
 - [CustomHUD](https://github.com/Minenash/CustomHUD)
 - [Dark Loading Screen](https://github.com/A5b84/dark-loading-screen)
 - [Don't Clear Chat History](https://github.com/emmods/DCCH)
-- ~~[Debugify](https://github.com/isXander/Debugify)~~ (wait fixes)
+- [Debugify](https://github.com/isXander/Debugify)
 - [Dynamic FPS](https://github.com/juliand665/Dynamic-FPS)
 - ~~[Enhanced Searchability](https://modrinth.com/mod/enhanced-searchability)~~ (wait updates)
 - [EntityCulling](https://github.com/tr7zw/EntityCulling)

@@ -238,7 +238,7 @@ hash = "b7607a31becc79d590da87b05cef5aa87561a65c91b1694cf612e441e4582369"
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "cc0c4f42325a3c276b58f6115448617a9a75bb4da464e4b629439c2f72b46893"
+hash = "91fae437285116422df04411f66e66b849ef4efac58a9a5d4e71ece121836309"
 metafile = true
 
 [[files]]
@@ -264,6 +264,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
+metafile = true
+
+[[files]]
+file = "mods/cem.pw.toml"
+hash = "54b7d92cf08c2ac96b49249e96accdb012d5afa401b0f75eaf0160e0ba860d47"
 metafile = true
 
 [[files]]
@@ -293,12 +298,17 @@ metafile = true
 
 [[files]]
 file = "mods/dcch.pw.toml"
-hash = "17a2801532bcca27f67a845213eaa6f670669f5df177609d395baf136d7145d5"
+hash = "0d1b70e6b6851d0b765fc94d5c6f9201eaee8201bacc2d2604db15b2ab2b3364"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "dd45b08011417dd062568cbb230369a29aff617066c7108cf4a240ccdd9a030b"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "10ce35c649f0597caabe164dd4b10dede053342909781b9b9f7a57c24e9f9e08"
+hash = "5cfe0aaeee623aa547cef3ad34d2feab09042159a6abc6e78887d0c38fb4878c"
 metafile = true
 
 [[files]]
@@ -318,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "06e288bd80f8ecfa51e6d584e7382dc39a2819c88314ccaef5ac1bf76a195ba0"
+hash = "253c808b3bc678ef9fe7ece14455175b5e91bb6e65659864e4dc5d43f24eab2d"
 metafile = true
 
 [[files]]
@@ -348,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "4bb4e62193a086c68a84eb862ca1c3d78d176a648b33c53d5e6b669e92f6d03b"
+hash = "cfe4c04c96e329de64f6b8c9a7df1b5e74ea9ad31fd86e42468304041d55c957"
 metafile = true
 
 [[files]]
@@ -378,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e81e72800c4a6294ef45a2453ef8248d68a5e5f87e6ec1bffa553e3e5b5e2495"
+hash = "7392bf644036a74c705899669ac10f5ed111dd5a79e0409e6a8e4d45e962ba57"
 metafile = true
 
 [[files]]
@@ -413,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "ce669023c4265f3a377fb8d18d461b1b6e9218e90bf61f2c917b718d5ad55b02"
+hash = "b26289a0932399eeccd9e80167963590032bb04a40a52330bcfa218bf2bfda39"
 metafile = true
 
 [[files]]
