@@ -8,9 +8,6 @@ hash-format = "sha1"
 hash = "cb4a711f3e611b5a618866566ba9590d25d8261b"
 
 [update]
-[update.curseforge]
-file-id = 4591160
-project-id = 417510
 [update.modrinth]
 mod-id = "WhbRG4iK"
 version = "HMfGMPn2"
