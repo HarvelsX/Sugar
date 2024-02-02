@@ -3,9 +3,12 @@
   "renderNametagsThroughWalls": true,
   "blockEntityWhitelist": [
     "create:rope_pulley",
+    "botania:flame_ring",
     "minecraft:beacon",
     "create:hose_pulley",
-    "betterend:eternal_pedestal"
+    "betterend:eternal_pedestal",
+    "botania:magic_missile",
+    "botania:falling_star"
   ],
   "entityWhitelist": [
     "botania:mana_burst"
@@ -17,8 +20,14 @@
   "skipMarkerArmorStands": true,
   "tickCulling": true,
   "tickCullingWhitelist": [
+    "create:contraption",
+    "create:stationary_contraption",
+    "create:gantry_contraption",
     "minecraft:boat",
-    "minecraft:firework_rocket"
+    "minecraft:firework_rocket",
+    "create:carriage_contraption"
   ],
-  "disableF3": true
+  "disableF3": true,
+  "skipEntityCulling": false,
+  "skipBlockEntityCulling": false
 }

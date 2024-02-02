@@ -4,9 +4,13 @@
     "com.replaymod.lib.de.johni0702.minecraft.gui.container.AbstractGuiOverlay$UserInputGuiScreen",
     "ai.arcblroth.projectInception.client.InceptionInterfaceScreen",
     "net.optifine.gui.GuiChatOF",
-    "io.github.darkkronicle.advancedchatcore.chat.AdvancedChatScreen"
+    "baritone.",
+    "io.github.darkkronicle.advancedchatcore.chat.AdvancedChatScreen",
+    "net.coderbot.iris.gui.screen.ShaderPackScreen",
+    "eu.midnightdust.midnightcontrols.client.gui.TouchscreenOverlay"
   ],
   "fadeTimeMillis": 85,
+  "fadeOutTimeMillis": 200,
   "ease": true,
   "radius": 4,
   "gradientStart": "#000000",

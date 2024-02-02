@@ -25,9 +25,9 @@
   },
   "render_settings": {
     "fog_distance": 0,
-    "multi_dimension_fog_control": false,
+    "fog_start": 100,
+    "multi_dimension_fog_control": true,
     "dimensionFogDistance": {},
-    "use_linear_flat_color_blender": false,
     "light_updates": true,
     "item_frame": true,
     "armor_stand": true,
@@ -47,11 +47,21 @@
     "reduce_resolution_on_mac": true,
     "use_adaptive_sync": false,
     "cloud_height": 192,
+    "cloud_distance": 100,
     "toasts": true,
+    "advancement_toast": true,
+    "recipe_toast": true,
+    "system_toast": true,
+    "tutorial_toast": true,
     "instant_sneak": false,
-    "prevent_shaders": false
+    "prevent_shaders": false,
+    "steady_debug_hud": false,
+    "steady_debug_hud_refresh_interval": 1
   },
-  "notification_settings": {
-    "hide_r_s_o_recommendation": true
+  "super_secret_settings": {
+    "fetch_sodium_extra_crowdin_translations": false,
+    "sodium_extra_crowdin_project_identifier": "sodium-extra",
+    "fetch_sodium_crowdin_translations": false,
+    "sodium_crowdin_project_identifier": "sodium-fabric"
   }
 }

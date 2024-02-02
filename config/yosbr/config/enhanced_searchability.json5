@@ -1,0 +1,5 @@
+{
+  resourcePacksEnabled: true,
+  serversEnabled: true,
+  statsEnabled: false,
+}
