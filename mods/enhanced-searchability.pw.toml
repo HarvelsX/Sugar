@@ -1,0 +1,13 @@
+name = "Enhanced Searchability"
+filename = "enhanced_searchability-mc1.20.4-1.0.5-build.23.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Scg0CNUt/versions/CShMcSCW/enhanced_searchability-mc1.20.4-1.0.5-build.23.jar"
+hash-format = "sha1"
+hash = "5b3485b30dbf18d9b47d4f549f5c218d8c83e86a"
+
+[update]
+[update.modrinth]
+mod-id = "Scg0CNUt"
+version = "CShMcSCW"
